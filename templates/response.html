@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf8"/>
+    <title>Trip Itinerary</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        
+        th {color: navy
+        }
+        
+        td{
+        font-size: 10pt}
+        
+        h1 {
+        color: navy;
+        font-size: 20pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        h3 {
+        color: navy;
+        font-size: 14pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        h4 {
+        color: navy;
+        font-size: 12pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        p, li {
+        font-size: 10pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Amtrak Trip Itinerary</h1>
+    
+    <p> 
+        Hi {{name}}, please find your trip itinerary below:
+    </p>
+    
+    <h3>Trip Summary</h3>
+    <p> 
+        You would like to start in {{origin}} and end
+    in {{destination}}.
+    </p>
+    
+     <p> You are looking for {{hotel_price}} hotel or cheaper, within {{distance}}
+         miles of the station.
+    </p>
+    
+
+    <h4>You will travel through:</h4>
+    <table>
+        <tr>
+            <th>Stop</th>
+            <th>City</th>
+        </tr>
+        <tr>
+            {% for city in short_path %}
+            <td>{{short_path.index(city)+1}}</td>
+            <td>{{city}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    
+
+    <h3>Lodging</h3>
+   
+    {% if n_hotel == 0 %}
+        <p> Sorry, no hotels are available at your desired price point and range.
+        </p>
+    {% else %}
+        <p>
+            Here are your hotel options:
+            <ul>
+            {% for hotel in hotel_outputs %}
+                <li>{{hotel.searchinfo()}}</li>
+            {% endfor %}
+            </ul>
+    
+        </p>
+    {% endif %}
+    
+</body>
+</html>

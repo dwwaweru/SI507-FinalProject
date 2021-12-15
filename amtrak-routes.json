@@ -1,0 +1,257 @@
+{
+  "Acela": [
+    "Boston",
+    "New Haven",
+    "New York",
+    "Philadelphia",
+    "Wilmington",
+    "Washington"
+  ],
+  "Amtrak Hartford Line": [
+    "New Haven",
+    "Hartford",
+    "Windsor Locks",
+    "Springfield"
+  ],
+  "Capitol Corridor": [
+    "Auburn",
+    "Sacramento",
+    "Emeryville (San Francisco)",
+    "Oakland",
+    "San Jose"
+  ],
+  "Carolinian / Piedmont": [
+    "New York",
+    "Philadelphia",
+    "Washington",
+    "Richmond",
+    "Raleigh",
+    "Greensboro",
+    "Charlotte"
+  ],
+  "Crescent": [
+    "New York",
+    "Washington",
+    "Charlottesville",
+    "Charlotte",
+    "Atlanta",
+    "Birmingham",
+    "New Orleans"
+  ],
+  "Empire Service": [
+    "Niagara Falls",
+    "Buffalo",
+    "Rochester",
+    "Syracuse",
+    "Albany",
+    "New York\u00a0"
+  ],
+  "Hiawatha": [
+    "Milwaukee",
+    "Glenview",
+    "Chicago"
+  ],
+  "Lake Shore Limited": [
+    "New York/Boston",
+    "Albany",
+    "Buffalo",
+    "Cleveland",
+    "Toledo",
+    "Chicago"
+  ],
+  "Missouri River Runner": [
+    "St. Louis",
+    "Washington",
+    "Sedalia",
+    "Independence",
+    "Kansas City, MO"
+  ],
+  "Pennsylvanian": [
+    "New York",
+    "Philadelphia",
+    "Lancaster",
+    "Harrisburg",
+    "Altoona",
+    "Pittsburgh"
+  ],
+  "Southwest Chief": [
+    "Chicago",
+    "Kansas City, MO",
+    "La Junta",
+    "Albuquerque",
+    "Flagstaff",
+    "Los Angeles"
+  ],
+  "Valley Flyer": [
+    "New Haven",
+    "Springfield",
+    "Northampton",
+    "Greenfield"
+  ],
+  "Adirondack": [
+    "Montreal",
+    "Westport",
+    "Saratoga Springs",
+    "Albany",
+    "New York"
+  ],
+  "Auto Train": [
+    "Lorton, VA (Washington, DC)",
+    "Sanford, FL (Orlando)"
+  ],
+  "Capitol Limited": [
+    "Washington",
+    "Pittsburgh",
+    "Cleveland",
+    "Toledo",
+    "South Bend",
+    "Chicago"
+  ],
+  "City of New Orleans": [
+    "Chicago",
+    "Champaign-Urbana",
+    "Carbondale",
+    "Memphis",
+    "Jackson",
+    "New Orleans"
+  ],
+  "Downeaster": [
+    "Brunswick",
+    "Freeport",
+    "Portland",
+    "Saco",
+    "Exeter",
+    "Boston"
+  ],
+  "Ethan Allen Express": [
+    "Rutland",
+    "Saratoga Springs",
+    "Albany",
+    "New York"
+  ],
+  "Illinois Service": [
+    "Chicago",
+    "Galesburg",
+    "Quincy/Springfield",
+    "St. Louis/Champaign-Urbana",
+    "Carbondale"
+  ],
+  "Maple Leaf": [
+    "Toronto",
+    "Niagara Falls",
+    "Buffalo",
+    "Rochester",
+    "Syracuse",
+    "Albany",
+    "New York"
+  ],
+  "Northeast Regional": [
+    "Boston/Springfield",
+    "New York",
+    "Philadelphia",
+    "Washington",
+    "Roanoke/Norfolk/Newport News"
+  ],
+  "San Joaquins": [
+    "San Francisco Bay Area/Sacramento",
+    "Bakersfield/Southern California"
+  ],
+  "Sunset Limited": [
+    "New Orleans",
+    "Houston",
+    "San Antonio",
+    "El Paso",
+    "Tucson",
+    "Palm Springs",
+    "\u00a0Los Angeles"
+  ],
+  "Vermonter": [
+    "St. Albans",
+    "Essex Jct. (Burlington)",
+    "Springfield",
+    "New York",
+    "Washington"
+  ],
+  "Amtrak Cascades": [
+    "Vancouver, BC",
+    "Seattle",
+    "Tacoma",
+    "Portland",
+    "Salem",
+    "Eugene\n"
+  ],
+  "California Zephyr": [
+    "Chicago",
+    "Omaha",
+    "Denver",
+    "Salt Lake City",
+    "Emeryville (San Francisco)"
+  ],
+  "Cardinal": [
+    "New York",
+    "Washington",
+    "Charlottesville",
+    "Cincinnati",
+    "Indianapolis",
+    "Chicago"
+  ],
+  "Coast Starlight": [
+    "Seattle",
+    "Tacoma",
+    "Portland",
+    "Sacramento",
+    "San Francisco area",
+    "Los Angeles"
+  ],
+  "Empire Builder": [
+    "Chicago",
+    "Milwaukee",
+    "St. Paul/Minneapolis",
+    "Minot",
+    "Spokane",
+    "Portland/Seattle"
+  ],
+  "Heartland Flyer": [
+    "Oklahoma City",
+    "Fort Worth"
+  ],
+  "Keystone Service": [
+    "New York",
+    "Philadelphia",
+    "Paoli",
+    "Downingtown",
+    "Lancaster",
+    "Harrisburg"
+  ],
+  "Michigan Services": [
+    "Chicago",
+    "Grand Rapids/Lansing- Port Huron/Ann Arbor",
+    "Detroit",
+    "Pontiac"
+  ],
+  "Pacific Surfliner": [
+    "San Luis Obispo",
+    "Santa Barbara",
+    "Los Angeles",
+    "Anaheim",
+    "San Diego"
+  ],
+  "Silver Service / Palmetto": [
+    "New York",
+    "Washington",
+    "Charleston",
+    "Savannah",
+    "Jacksonville",
+    "Orlando",
+    "Tampa/Miami"
+  ],
+  "Texas Eagle": [
+    "Chicago",
+    "St. Louis",
+    "Little Rock",
+    "Dallas",
+    "San Antonio",
+    "Tucson",
+    "Los Angeles"
+  ]
+}

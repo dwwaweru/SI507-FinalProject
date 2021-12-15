@@ -1,0 +1,970 @@
+X,Y,OBJECTID,STNCODE,STNNAME,ADDRESS1,ADDRESS2,CITY,STATE,ZIP,STNTYPE,STFIPS
+-82.44084200005824,38.415404999740986,1,HUN,"Huntington, West Virginia",1050 8th Avenue,,Huntington,WV,25701,RAIL,54
+-97.930060999815225,38.055858999992893,2,HUT,"Hutchinson, Kansas",North Walnut St & East 3rd Ave,,Hutchinson,KS,67501,RAIL,20
+-85.469924999738907,43.395728999693631,3,HWC,"Howard City, Michigan",130 North Ensley St.,Sunoco Station,Howard City,MI,49323,BUS,26
+-116.233170000495079,33.714751999705072,4,IDO,"Indio, California",NE Corner Hywy-111 and Monroe Street,Sunline Bus Stop,Indio,CA,92201-3917,BUS,06
+-94.429297999503035,39.086975000296093,5,IDP,"Independence, Missouri",600 South Grand Ave.,,Independence,MO,64050-3564,RAIL,29
+-86.160309000060295,39.762154000007172,6,IND,"Indianapolis, Indiana",350 South Illinois Street,,Indianapolis,IN,46225-1198,RAIL,18
+-117.759192999657159,33.674767000296868,7,IRV,"Irvine, California",15215 Barranca Parkway,Irvine Transportation Center,Irvine,CA,92618,RAIL,06
+-90.190598000297427,32.300643999421084,8,JAN,"Jackson, Mississippi",300 W. Capital Street,,Jackson,MS,39201,RAIL,28
+-81.724602000781658,30.366576999728807,9,JAX,"Jacksonville, Florida",3570 Clifford Lane,,Jacksonville,FL,32209-2123,RAIL,12
+-92.170380000136845,38.579052000149716,10,JEF,"Jefferson City, Missouri",101 Jefferson Street,,Jefferson City,MO,65101,RAIL,29
+-79.240096999976515,42.096424000167531,12,JMN,"Jamestown, New York",111 West Third Street,U.S. News Agency,Jamestown,NY,14701,BUS,36
+-88.079140000410632,41.524876000427128,13,JOL,"Joliet, Illinois",50 East Jefferson Street,Union Station,Joliet,IL,60431,RAIL,17
+-81.882201999322774,31.605908999900464,14,JSP,"Jesup, Georgia",176 Northwest Broad Street,,Jesup,GA,31545-1300,RAIL,13
+-78.9224240003673,40.330101000061177,15,JST,"Johnstown, Pennsylvania",47 Walnut Street,,Johnstown,PA,15901,RAIL,42
+-88.996925000388444,42.720356000029426,16,JVL,"Janesville, Wisconsin",3120 North Pontiac Drive,Bus Station,Janesville,WI,53545-0373,BUS,55
+-84.400291000229458,42.248051000253497,17,JXN,"Jackson, Michigan",501 E. Michigan Ave.,,Jackson,MI,49201,RAIL,26
+-85.583588000086081,42.295451999909915,18,KAL,"Kalamazoo, Michigan",459 North Burdick St.,,Kalamazoo,MI,49007-3669,RAIL,26
+-80.621810999278182,35.501266000125838,19,KAN,"Kannapolis, North Carolina",201 South Main St.,,Kannapolis,NC,28081,RAIL,37
+-94.583946000407536,39.086151000068639,20,KCY,"Kansas City, Missouri",30 West Pershing Rd.,"Union Station, Suite 160",Kansas City,MO,64108-2410,RAIL,29
+-89.927421999325759,41.245625000093753,21,KEE,"Kewanee, Illinois",Loomis and North Tremont Sts.,,Kewanee,IL,61443,RAIL,17
+-122.911766000100783,46.142623999398097,22,KEL,"Kelso-Longview, Washington",501 South First Street,,Kelso,WA,98626,RAIL,53
+-121.770920000057913,42.22587999946245,23,KFS,"Klamath Falls, Oregon",1600 Oak Ave.,,Klamath Falls,OR,97601-3286,RAIL,41
+-121.128699999505329,36.203509999686787,24,KGC,"King City, California",1350 Broadway Circle,MacDonalds Restaurant - south side parking lot,King City,CA,93930-3446,BUS,06
+-114.008086984926365,35.220316350419296,25,KGG,"Kingman (Greyhound), Arizona",3264 E. Andy Devine Av.,Greyhound Station,Kingman,AZ,86401-3724,BUS,04
+-85.536493332001612,44.5845329144625,26,KGS,"Kingsley, Michigan",119 E. Main St.,Kingsley Laundromat,Kingsley,MI,49649,BUS,26
+-97.729485000632224,31.121298000102684,27,KIL,"Killeen, Texas",200 East Avenue C,Arrow Trailways Bus Station,Killeen,TX,76541-5231,BUS,48
+-71.562285999898961,41.48394000033079,28,KIN,"West Kingston, Rhode Island",1 Railroad Avenue,,West Kingston,RI,02892-1508,RAIL,44
+-81.40512176945407,28.29343249411437,29,KIS,"Kissimmee, Florida",111 East Dakin Ave.,,Kissimmee,FL,34741-5723,RAIL,12
+-87.86576099987019,41.119132999888109,30,KKI,"Kankakee, Illinois",199 South East Ave.,,Kankakee,IL,60901-3834,RAIL,17
+-114.052070999676857,35.188357999921834,32,KNG,"Kingman, Arizona",106 4th Street,,Kingman,AZ,86401,RAIL,04
+-71.534327631514941,43.211433424812753,33,CNH,"Concord, New Hampshire",30 Stickney Ave.,Concord Transportation Center,Concord,NH,03301-5064,BUS,33
+-119.556502999713643,36.098194000252988,34,COC,"Corcoran, California",1099 Otis Ave.,Otis and Whitney Aves.,Corcoran,CA,93212-2445,RAIL,06
+-85.133559999694171,39.646464999759985,35,COI,"Connersville, Indiana",1012 Eastern Avenue,,Connersville,IN,47331,RAIL,18
+-104.819199000433514,38.831923999892751,36,COS,"Colorado Springs, Colorado",120 South Weber Street,,Colorado Springs,CO,80903,BUS,08
+-75.82066299999741,39.985618999817063,37,COT,"Coatesville, Pennsylvania",Third Ave. and Fleetwood St.,,Coatesville,PA,19320,RAIL,42
+-79.592598000397345,40.018100999461581,38,COV,"Connellsville, Pennsylvania",North Water Street and West Peach Street,,Connellsville,PA,15425,RAIL,42
+-120.952704999835817,39.099456999441031,39,COX,"Colfax, California",99 Railroad St. at Church St.,,Colfax,CA,95713,RAIL,06
+-119.521317000379213,34.396003999784796,40,CPN,"Carpinteria, California",475 Linden at Fifth Street,,Carpinteria,CA,93013,RAIL,06
+-86.90507653515391,40.075946410598419,41,CRB,"Crawfordsville (Bus), Indiana",1000 Smith Ave,McDonald's Restaurant,Crawfordsville,IN,47933-1076,BUS,18
+-86.899384000171437,40.044254000421859,42,CRF,"Crawfordsville (Amtrak), Indiana",Spring and Green Streets,,Crawfordsville,IN,47933,RAIL,18
+-75.042435000175089,39.927482999740675,43,CRH,"Cherry Hill, New Jersey",Cornell Ave. & West Marlton Pike,,Cherry Hill,NJ,08002,OTHER,34
+-121.908042999484792,36.539317999226341,44,CRM,"Carmel, California",3645 Rio Road,In front Chevron Stationn & Mart,Carmel,CA,93923-8609,BUS,06
+-94.36119800038739,41.057083000080468,45,CRN,"Creston, Iowa",Pine and Adams Avenue,,Creston,IA,50891,RAIL,19
+-73.883842000108189,41.192729999789719,46,CRT,"Croton Harmon, New York",1 Croton Point Avenue,,Croton-on-Hudson,NY,10520-3054,RAIL,36
+-89.888915999773531,39.279327000640592,47,CRV,"Carlinville, Illinois",128 Alton Rd.,,Carlinville,IL,62626-1625,RAIL,17
+-82.833481000647623,34.691177000518223,48,CSN,"Clemson, South Carolina",Calhoun Memorial Hwy and College Ave.,,Clemson,SC,29631,RAIL,45
+-122.951880999208697,46.717421999725559,51,CTL,"Centralia, Washington",210 Railroad Avenue,,Centralia,WA,98531,RAIL,53
+-78.758475999567679,39.650584999997818,52,CUM,"Cumberland, Maryland",East Harrison and Queen City Street,,Cumberland,MD,21502,RAIL,24
+-112.330024999953764,48.636939999381525,53,CUT,"Cut Bank, Montana",101 BNSF Industrial Site,Off Central Avenue/Hwy 213,Cut Bank,MT,59427-2934,RAIL,30
+-111.880638000343424,34.625778000054709,54,CVD,"Camp Verde, Arizona",1613 Finnie Flats Rd,Burger King,Camp Verde,AZ,86322-5201,BUS,04
+-123.260597000351254,44.565239000479551,55,CVI,"Corvallis, Oregon",153 NW 4th Avenue,Greyhound Station,Corvallis,OR,97330,BUS,41
+-78.492110999922659,38.032031999277422,56,CVS,"Charlottesville, Virginia",810 West Main St,,Charlottesville,VA,22903,RAIL,51
+-74.951431076183155,40.071729720650126,57,CWH,"Cornwells Heights, Pennsylvania",700 Station Ave.,Station Avenue and Railroad Avenue,Cornwells Heights,PA,19020,RAIL,42
+-118.59873200028153,34.257117999995728,58,CWT,"Chatsworth, California",10040 Old Depot Plaza Road,,Chatsworth,CA,91311,RAIL,06
+-78.779678000639194,35.787708000224086,59,CYN,"Cary, North Carolina",211 North Academy Street,,Cary,NC,27511,RAIL,37
+-96.807404000394286,32.775542999210074,60,DAL,"Dallas, Texas",400 South Houston St.,Union Station,Dallas,TX,75202-4840,RAIL,48
+-69.530896926052264,44.032348698833459,61,DAM,"Damariscotta, Maine",167 Main St.,Waltz Pharmacy,Damariscotta,ME,04543-4649,BUS,23
+-79.384315000137121,36.583697999862864,62,DAN,"Danville, Virginia",677 Craghead St.,,Danville,VA,24541-1503,RAIL,51
+-121.737068000188003,38.544113000514642,63,DAV,"Davis, California",840 Second Street,Amtrak Passenger Station,Davis,CA,95616-4624,RAIL,06
+-121.897898764616286,37.69920121616326,64,DBP,"Dublin-Pleasanton, California",5801 Owens Drive,"BART Station, north side, East curb near par. str.",Pleasanton,CA,94588-3900,BUS,06
+-82.184821999935309,28.364188999722614,65,DDE,"Dade City, Florida",14218 US Highway 98,Hwy98/301 Truck Route,Dade City,FL,33525,OTHER,12
+-100.016578999820922,37.752597999498107,66,DDG,"Dodge City, Kansas",Central Ave & Wyatt Earp St.,,Dodge City,KS,67801,RAIL,20
+-104.991777710373015,39.750459749417928,67,DEB,"Denver (Bus Station), Colorado",1055 19th Street,Greyhound Station,Denver,CO,80202,BUS,08
+-107.760833999989075,32.27108400052623,68,DEM,"Deming, New Mexico",400 East Railroad Avenue,,Deming,NM,88030,RAIL,35
+-104.999611000547191,39.753223000041487,69,DEN,"Denver, Colorado",1701 Wynkoop Street,Union Station,Denver,CO,80202,RAIL,08
+-83.201180000456645,42.313049000211265,70,DER,"Dearborn, Michigan",16121 Michigan Ave.,,Dearborn,MI,48126,RAIL,26
+-83.072098000422329,42.367881999954363,71,DET,"Detroit, Michigan",11 West Baltimore Ave.,,Detroit,MI,48202,RAIL,26
+-80.121460000278773,26.317794999239879,72,DFB,"Deerfield Beach, Florida",1300 W. Hillsboro Blvd,,Deerfield Beach,FL,33442,RAIL,12
+-105.379646615998467,42.748523634358264,73,DGS,"Douglas, Wyoming",628 East Richards St.,Plains Motel & Gift Shop,Douglas,WY,82633-2834,BUS,56
+-70.935829444772992,43.138976239162162,74,DHM,"Durham, New Hampshire",3 Depot Road,University of New Hampshire campus,Durham,NH,03824-1909,RAIL,33
+-79.371757999332146,34.418284999353261,75,DIL,"Dillon, South Carolina",100 North Railroad Avenue,,Dillon,SC,29536,RAIL,45
+-80.092528999813453,26.45517900081029,76,DLB,"Delray Beach, Florida",345 South Congress Ave,,Delray Beach,FL,33444,RAIL,12
+-81.352454999998201,29.016833999889229,77,DLD,"Deland, Florida",2491 Old New York Ave,,Deland,FL,32720-2808,RAIL,12
+-95.845581000262939,46.819488999517773,78,DLK,"Detroit Lakes, Minnesota",116 Pioneer Street,,Detroit Lakes,MN,56501,RAIL,27
+-78.907227000125943,35.997036000111393,79,DNC,"Durham, North Carolina",400 W. Chapel Hill Street,,Durham,NC,27701,RAIL,37
+-81.143150000272271,33.32614499979195,80,DNK,"Denmark, South Carolina",200 West Baruch Street,,Denmark,SC,29042,RAIL,45
+-86.108734000373772,41.981201000725662,81,DOA,"Dowagiac, Michigan",200 Depot Drive,,Dowagiac,MI,49047-1779,RAIL,26
+-70.876647999905231,43.19865600017431,82,DOV,"Dover, New Hampshire",33 Chestnut St.,,Dover,NH,03820-3327,RAIL,33
+-75.708121999230855,40.002537000282416,83,DOW,"Downingtown, Pennsylvania",West Lancaster Ave. and Stuart Ave.,,Downingtown,PA,19335,RAIL,42
+-89.240157999891721,38.011352999841108,84,DQN,"Du Quoin, Illinois",20 North Chestnut St.,,Du Quoin,IL,62832-1602,RAIL,17
+-83.982437000567074,42.909779000200729,85,DRD,"Durand, Michigan",200 South Railroad St.,,Durand,MI,48429-1713,RAIL,26
+-100.901465999855986,29.363080999688464,86,DRT,"Del Rio, Texas",100 North Main Street,,Del Rio,TX,78840,RAIL,48
+-79.331017000134409,42.485331999572168,87,DUK,"Dunkirk, New York",411 Central Ave.,P&G Foods,Dunkirk,NY,14048,BUS,36
+-92.124008000268987,46.76660199958269,88,DUL,"Duluth (Greyhound Station), Minnesota",4426 Grand Ave.,Greyhound Terminal,Duluth,MN,55806,BUS,27
+-122.26997400039977,41.211173999580467,89,DUN,"Dunsmuir (Amtrak Station), California",5750 Sacramento Avenue,Amtrak Passenger Station,Dunsmuir,CA,96025-2024,RAIL,06
+-92.076770028813769,46.810445138232581,90,DUU,"Duluth (University of Minnesota), Minnesota",175 Kirby Student Union,,Duluth,MN,55812,BUS,27
+-87.636116000153265,40.119427000156008,91,DVI,"Danville, Illinois",379 Lynch Road,BP Amoco Station,Danville,IL,61834-9378,BUS,17
+-98.86137399951042,48.110645000066768,92,DVL,"Devils Lake, North Dakota",Railroad Ave. and Third St.,,Devils Lake,ND,58301,RAIL,38
+-90.577422999871487,41.519736999962618,93,DVP,"Davenport, Iowa",304 West River Drive,,Davenport,IA,52801,BUS,19
+-75.525293588228465,39.149950037364363,94,DVR,"Dover, Delaware",716 South Governors Ave,City Cab,Dover,DE,19901-4633,BUS,10
+-88.428322000659762,41.092049000061365,95,DWT,"Dwight, Illinois",119 West Main St.,,Dwight,IL,60420-1321,RAIL,17
+-81.00911699944993,29.228230999860784,96,DYA,"Daytona Beach, Florida",100 North Atlantic Ave,Hilton Daytona Beach Ocean Walk Village,Daytona Beach,FL,32118-4273,BUS,12
+-87.518187999176803,41.498528000367003,97,DYE,"Dyer, Indiana",913 Sheffield Avenue,(near Sheffield and Matteson),Dyer,IN,46311,RAIL,18
+-122.383071999872868,47.811295000064263,98,EDM,"Edmonds, Washington",211 Railroad Ave.,,Edmonds,WA,98020-4132,RAIL,53
+-88.545714999447625,39.119156000449095,99,EFG,"Effingham, Illinois",401 West National Ave.,,Effingham,IL,62401-3772,RAIL,17
+-74.649330023062078,39.527059995422519,100,EGH,"Egg Harbor City, New Jersey",South Philadelphia Ave & Atlantic Ave,New Jersey Transit,Egg Harbor City,NJ,08215,OTHER,34
+-124.168891002417809,40.800629881064197,101,EKA,"Eureka, California",Sixth and C Sts.,Bus stop behind Denny's,Eureka,CA,95501,BUS,06
+-121.482535565064268,38.424579809510647,102,EKG,"Elk Grove, California",Harbor Point Drive at Renwick Avenue,Across from McDonald's,Elk Grove,CA,95758,BUS,06
+-85.971054000441711,41.680720999874325,103,EKH,"Elkhart, Indiana",131 Tyler Avenue,,Elkhart,IN,46515,RAIL,18
+-106.49012552237491,31.757270971578123,104,ELB,"El Paso (Bus Station), Texas",200 W. San Antonio Ave.,,El Paso,TX,79901-1048,BUS,48
+-115.753394999779402,40.836875999427889,105,ELK,"Elko, Nevada",12th and Silver Sts.,,Elko,NV,89801,RAIL,32
+-106.494888000081119,31.757725000608332,106,ELP,"El Paso, Texas",700 San Francisco St.,,El Paso,TX,79901,RAIL,48
+-123.546560892071454,45.857760539717162,107,ELS,"Elsie, Oregon",44573 Highway 26,Baker's General Store/Hardware,Elsie,OR,97138,BUS,41
+-76.614578000174504,40.147400000509663,108,ELT,"Elizabethtown, Pennsylvania",South Wilson Avenue at West High Street,,Elizabethtown,PA,17022,RAIL,42
+-82.097008000019173,41.37005199950022,109,ELY,"Elyria, Ohio",410 East River Road,,Elyria,OH,44035,RAIL,39
+-122.290680000181851,37.840679000035891,110,EMY,"Emeryville, California",5885 Horton Street,,Emeryville,CA,94608-2037,RAIL,06
+-119.548644999766907,47.320595000059257,111,EPH,"Ephrata, Washington",24 Alder St NW,Bus leaves from 90 Alder St NW,Ephrata,WA,88823-2421,RAIL,53
+-119.752892000065742,37.678543000059449,112,EPL,"El Portal, California",11136 Highway 140,Yosemite View Lodge,El Portal,CA,95318-0169,BUS,06
+-80.081039000549424,42.121127999957309,113,ERI,"Erie, Pennsylvania",125 West 14th Street,,Erie,PA,16501,RAIL,42
+-113.609481999694481,48.280861000334937,114,ESM,"Essex, Montana",290 Izaak Walton Inn Rd,Izaak Walton Inn,Essex,MT,59916-9710,RAIL,30
+-73.11045099941407,44.492572999444405,115,ESX,"Essex Junction, Vermont",29 Railroad Ave.,,Essex Jct.,VT,05452,RAIL,50
+-123.091843000054382,44.055385999464363,116,EUG,"Eugene, Oregon",433 Willamette Street,,Eugene,OR,97401-2613,RAIL,41
+-122.215622000354983,47.979282000064302,117,EVR,"Everett, Washington",3201 Smith Ave.,,Everett,WA,98201,RAIL,53
+-74.19059638651396,40.70513408626914,118,EWR,"Newark Liberty International Airport, New Jersey",Newark Liberty International Airport,AirTrain from main airport terminal,Newark,NJ,07114-3401,RAIL,34
+-70.957822000285034,42.981603000178382,119,EXR,"Exeter, New Hampshire",60 Lincoln Street,Lincoln Street at Railroad Avenue,Exeter,NH,03833,RAIL,33
+-75.622020535119589,40.019109026160663,120,EXT,"Exton, Pennsylvania",425 Walkertown Road,US 30/Route 100 (Pottstown Pike) interchange,Exton,PA,19341,RAIL,42
+-96.784614999882308,46.88107700050324,121,FAR,"Fargo, North Dakota",420 4th Street North,,Fargo,ND,58102,RAIL,38
+-78.885063000557011,35.054904999765995,122,FAY,"Fayetteville, North Carolina",472 Hay Street,,Fayetteville,NC,28301-5563,RAIL,37
+-77.456932000211623,38.298557000005587,123,FBG,"Fredericksburg, Virginia",200 Lafayette Blvd.,,Fredericksburg,VA,22401-6067,RAIL,51
+-105.065917999715907,40.583781999339863,124,FCC,"Fort Collins, Colorado",250 North Mason St.,Greyhound Station,Fort Collins,CO,80524-4407,BUS,08
+-88.450187999976208,43.75251800000575,125,FDL,"Fond du Lac, Wisconsin",976 South Main St.,Mobile Station,Fond du Lac,WI,54935-6101,BUS,55
+-79.34017899996087,42.44512599986507,126,FDN,"Fredonia, New York",1 State University of New York,William Center Student Union,Fredonia,NY,14063,BUS,36
+-73.580460000328685,43.269515999763655,127,FED,"Fort Edward-Glens Falls, New York",70 East St.,East and Rogers Sts.,Fort Edward,NY,12828,RAIL,36
+-111.657694054237197,35.194572247811038,128,FGG,"Flagstaff (Greyhound), Arizona",399 S. Malpais Ln.,Greyhound Bus Terminal,Flagstaff,AZ,86001-6218,BUS,04
+-97.764312999645199,31.139959000007877,129,FHD,"Fort Hood, Texas",Hood Road & Old Ironsides Ave.,Copeland Soldier's Service Center--Bldg. 18010,Fort Hood,TX,76544,BUS,48
+-73.262046999869085,43.590575999982491,130,FHV,"Fair Haven, Vermont",Depot and Water Sts.,,Fair Haven,VT,05743,RAIL,50
+-118.916610999498005,34.396130000199378,131,FIL,"Fillmore, California",718 West Ventura St.,International House of Pancakes,Fillmore,CA,93015-1835,BUS,06
+-111.650664999889784,35.198013,132,FLG,"Flagstaff, Arizona",1 East Route 66,,Flagstaff,AZ,86001-5530,RAIL,04
+-83.65483900011975,43.013633999709384,133,FLN,"Flint, Michigan",1407 South Dort Highway,,Flint,MI,48503-2878,RAIL,26
+-79.757094999534559,34.198818000450387,134,FLO,"Florence, South Carolina",805 East Day Street,,Florence,SC,29506,RAIL,45
+-91.333358999618099,40.623394000432825,135,FMD,"Fort Madison, Iowa",1601 20th Street,,Fort Madison,IA,52627,RAIL,19
+-103.802650000097401,40.247329999779708,136,FMG,"Fort Morgan, Colorado",South Ensign St and Main St,,Fort Morgan,CO,80701,RAIL,08
+-122.006377999844801,37.558196999991594,137,FMT,"Fremont (Trains, Capitol Buses), California",37260 Fremont Blvd.,,Fremont,CA,94536,RAIL,06
+-119.782248999491685,36.738627999382743,138,FNO,"Fresno, California",2650 Tulare St.,Santa Fe Station,Fresno,CA,93721-1325,RAIL,06
+-71.971938999984843,41.457660999855307,139,FOX,"Foxwoods Casino, Connecticut",39 Norwich Westerley Rd.,Foxwoods Resort Casino,Ledyard,CT,06339-1128,BUS,09
+-71.417861999231832,42.276668999774586,140,FRA,"Framingham, Massachusetts",417 Waverly St.,Intersection Route 126 at Route 135,Framingham,MA,01702-6948,RAIL,25
+-124.107396260229166,43.967930162646951,141,FRO,"Florence, Oregon",290 US Highway 101,"2nd Street and US 101, east side",Florence,OR,97439,BUS,41
+-121.922439999706171,37.539932000361603,142,FRT,"Fremont (San Joaquin Buses), California",999 Upper Mission Blvd,off I-680,Fremont,CA,94538,BUS,06
+-106.096282999560742,39.587104999895871,143,FSC,"Frisco, Colorado",1010 Meadow Drive,Frisco Transfer Center,Frisco,CO,80443,BUS,08
+-124.151894000107973,40.597495999540797,144,FTA,"Fortuna, California",719 South Fortuna Blvd,Pepper's Restaurant,Fortuna,CA,95540,BUS,06
+-73.390639999836083,43.852993000126901,145,FTC,"Ticonderoga, New York",NYS Hwy 74 and Sandy Redoubt,near Lake Champlain Ferry,Ticonderoga,NY,12883,RAIL,36
+-80.170189000022276,26.119614000785532,146,FTL,"Fort Lauderdale, Florida",200 S.W. 21 Terrace,,Fort Lauderdale,FL,33312,RAIL,12
+-81.884902999773601,26.682349999752716,147,FTM,"Fort Myers, Florida",6050 Plaza Drive,"Fort Myers Travel Plaza, I-75 exit 139",Fort Myers,FL,33906-4419,BUS,12
+-88.88800800036887,36.522521999890444,148,FTN,"Fulton, Kentucky",21 Newton Rd.,,Fulton,KY,42041,RAIL,21
+-97.323867999608467,32.749374000209968,149,FTW,"Fort Worth, Texas",1001 Jones Street,,Fort Worth,TX,76102,RAIL,48
+-117.922835999881443,33.86894600035771,150,FUL,"Fullerton, California",120 East Santa Fe Avenue,Fullerton Transportation Center,Fullerton,CA,92832,RAIL,06
+-121.946410999867737,37.378510000036499,151,GAC,"Santa Clara (Great America), California",5099 Stars & Stripes Dr.,Under Tasman Dr. overpass,Santa Clara,CA,95054,RAIL,06
+-81.163978999431265,35.268356000029428,152,GAS,"Gastonia, North Carolina",350 Hancock Street,,Gastonia,NC,28054,RAIL,37
+-90.364104999446113,40.944050000007564,153,GBB,"Galesburg, Illinois",225 South Seminary Street,Amtrak Union Station,Galesburg,IL,61401,RAIL,17
+-123.793899999985001,40.101063000457145,155,GBV,"Garberville, California",924 Redwood Drive,Waterwheel Restaurant,Garberville,CA,95542,BUS,06
+-112.138795373307801,36.055029224719021,156,GCB,"Grand Canyon (Buses), Arizona",Maswik Lodge,,Grand Canyon National Park,AZ,86023,BUS,04
+-100.872794999689461,37.964724999858902,157,GCK,"Garden City, Kansas",100 North 7th Street,1 block south of 7th & Fulton (Bus Highway 50),Garden City,KS,67846-5547,RAIL,20
+-112.134941000426807,36.056716999489993,158,GCN,"Grand Canyon (Railway), Arizona",Grand Canyon Railway Station,downhill from Bright Angel Lodge,Grand Canyon National Park,AZ,86023,OTHER,04
+-118.257957000115425,34.123637999494122,159,GDL,"Glendale, California",400 West Cerritos Avenue,Glendale Transportation Center,Glendale,CA,91204,RAIL,06
+-97.110434999275753,47.918853999512521,160,GFK,"Grand Forks, North Dakota",5555 DeMers Avenue,,Grand Forks,ND,58201,RAIL,38
+-83.241843999700791,42.304901000380937,161,GFV,"Greenfield Village, Michigan",20900 Oakwood Blvd.,Group travel only - not a regular stop,Dearborn,MI,48216,RAIL,26
+-106.634811000027582,48.194515000666797,162,GGW,"Glasgow, Montana",424 1st Avenue South,,Glasgow,MT,59230-2396,RAIL,30
+-123.915589908247625,46.058702575563473,163,GHT,"Gearhart, Oregon","4320 Highway 101, North",Gearhart Builders Supply Store,Gearhart,OR,97301,BUS,41
+-108.569923000246206,39.064819000196735,164,GJT,"Grand Junction, Colorado",339 South 1st Street,,Grand Junction,CO,81501-2207,RAIL,08
+-97.140265999875965,33.624423999867759,165,GLE,"Gainesville, Texas",605 East California Street,,Gainesville,TX,76240,RAIL,48
+-87.994766000850234,40.762076999853718,166,GLM,"Gilman, Illinois",US Hwy 24 & West Wenona St.,,Gilman,IL,60983,RAIL,17
+-87.805343999825709,42.074196000345182,167,GLN,"Glenview, Illinois",1116 Depot St.,,Glenview,IL,60025,RAIL,17
+-108.739676999893618,35.529246999949123,168,GLP,"Gallup, New Mexico",201 East Highway 66,(Amtrak shares space with Indian Museum),Gallup,NM,87301,RAIL,35
+-94.786072000022727,29.29120800014914,169,GLS,"Galveston (Texas Eagle Bus), Texas",25th St. and Strand St.,The Railroad Museum,Galveston,TX,77550,BUS,48
+-121.567504999456105,37.005981000522809,171,GLY,"Gilroy, California",7250 Monterey Street,Caltrain Station,Gilroy,CA,95020,BUS,06
+-79.547279000525407,40.304851999420293,173,GNB,"Greensburg, Pennsylvania",Harrison Ave. and Seton Hill Dr.,,Greensburg,PA,15601,RAIL,42
+-82.323221776763546,29.652079811933845,174,GNF,"Gainesville, Florida",201 East University Ave.,,Gainesville,FL,32601-5457,BUS,12
+-83.826682999920479,34.283717999985754,175,GNS,"Gainesville, Georgia",116 Industrial Boulevard,,Gainesville,GA,30501,RAIL,13
+-113.218558999997811,48.443966000030912,176,GPK,"East Glacier Park, Montana",400 Highway 49 North,,East Glacier Park,MT,59434,RAIL,30
+-105.934836999927597,40.083916000223269,177,GRA,"Granby, Colorado",438 Railroad Avenue,,Granby,CO,80446,RAIL,08
+-110.164597000551112,38.992443000843878,178,GRI,"Green River, Utah",250 South Broadway,@ RR Tracks and Airport Rd.,Green River,UT,84525,RAIL,49
+-79.831352000194613,36.061202999518855,179,GRO,"Greensboro, North Carolina",236 East Washington Street,Galyon Transportation Center,Greensboro,NC,27401-2704,RAIL,37
+-85.67899300022674,42.95637099942212,180,GRR,"Grand Rapids, Michigan",431 Wealthy St. SW,near Market and Wealthy Sts. SW,Grand Rapids,MI,49503-4061,RAIL,26
+-121.057953000630448,39.219382999925585,181,GRS,"Grass Valley, California",125 E. Main Street,City Hall,Grass Valley,CA,95945,BUS,06
+-82.414185000137593,34.856560000043999,182,GRV,"Greenville, South Carolina",1120 West Washington Street,near Downtown Greenville,Greenville,SC,29601,RAIL,45
+-107.322678000289443,39.548118999792052,183,GSC,"Glenwood Springs, Colorado",413 7th Street,,Glenwood Springs,CO,81601,RAIL,08
+-119.42146282564886,36.341585355080099,184,GSN,"Goshen Junction, California",30435 Road 68,Greyhound Bus Stop,Visalia,CA,93227-9585,BUS,06
+-119.841170999841722,34.437557000455286,185,GTA,"Goleta, California",25 South La Patera Lane,,Goleta,CA,93117,RAIL,06
+-120.572945000511311,34.96260499982094,186,GUA,"Guadalupe, California",330 Guadalupe Street,Highway-1,Guadalupe,CA,93434,RAIL,06
+-120.628105000045707,35.122066000545544,188,GVB,"Grover Beach, California",180 West Grand Avenue,,Grover Beach,CA,93433-1968,RAIL,06
+-116.128936999742734,45.926506000251777,189,GVI,"Grangeville, Idaho",901 West Main (Highway 95),ZIP TRIP,Grangeville,ID,83530,BUS,16
+-90.176086000168709,33.517738000208567,190,GWD,"Greenwood, Mississippi",Carrolton Ave. and East Gibbs Street,506 Carrolton Ave.?,Greenwood,MS,38930,RAIL,28
+-79.698456000543956,34.883072000472509,191,HAM,"Hamlet, North Carolina",West Main St. and North Bridges St.,,Hamlet,NC,28345,RAIL,37
+-76.87819699999153,40.261561999586661,192,HAR,"Harrisburg, Pennsylvania",4th and Chestnut Streets,,Harrisburg,PA,17101,RAIL,42
+-98.387329000432999,40.584132999338522,193,HAS,"Hastings, Nebraska",501 West First St.,,Hastings,NE,68901,RAIL,31
+-109.67812300027623,48.554416999744774,194,HAV,"Havre, Montana",235 Main Street,,Havre,MT,59501-3599,RAIL,30
+-122.097786000023859,37.666858999942917,195,HAY,"Hayward, California",22555 Meekland Avenue,Amtrak Rail & Thruway Bus Station,Hayward,CA,94541,RAIL,06
+-90.394279000575352,31.862897999742927,196,HAZ,"Hazlehurst, Mississippi",North Ragsdale Ave and East Conway St.,,Hazlehurst,MS,39083,RAIL,28
+-89.286186000083774,31.326719000581477,197,HBG,"Hattiesburg, Mississippi",308 Newman St.,308 Newman St.,Hattiesburg,MS,39401,RAIL,28
+-122.869498999779012,38.610667999428699,198,HEA,"Healdsburg (Singletree Inn), California",165 Healdsburg Ave.,,Healdsburg,CA,95448-4000,BUS,06
+-91.432601999582573,38.707293999218734,199,HEM,"Hermann, Missouri",Wharf & Gutenberg Sts.,,Herman,MO,65041,RAIL,29
+-110.85257699972874,39.688197999737952,200,HER,"Helper, Utah",1 Depot Street,,Helper,UT,84526,RAIL,49
+-117.005845099471742,33.747380230912995,201,HET,"Hemet (West Florida Ave), California",3246 West Florida Avenue,Coco's Restaurant,Hemet,CA,92545-3622,BUS,06
+-72.682120999584413,41.767799000023899,202,HFD,"Hartford, Connecticut",One Union Place,,Hartford,CT,06103,RAIL,09
+-77.733559000047762,39.325042999934567,203,HFY,"Harpers Ferry, West Virginia",Potomac St. & Shenandoah St.,station 1/4 mi (400 m) north,Harpers Ferry,WV,25425,RAIL,54
+-78.011833000292711,40.483494000647681,204,HGD,"Huntingdon, Pennsylvania",Fourth and Allegheny Sts.,,Huntingdon,PA,16652,RAIL,42
+-97.693901000031076,26.193434000179025,205,HGN,"Harlingen, Texas",215 E. Monroe Ave.,,Harlingen,TX,78550-5519,BUS,48
+-71.085945999308365,42.77270799957455,206,HHL,"Haverhill, Massachusetts",Washington Street at Railroad Square,,Haverhill,MA,01832-5418,RAIL,25
+-80.88863400025889,37.677071000526325,207,HIN,"Hinton, West Virginia",Front St. and Fifth Ave.,,Hinton,WV,25951,RAIL,54
+-99.37074300068889,40.436192000160759,208,HLD,"Holdrege, Nebraska",100 West Ave.,,Holdrege,NE,68949,RAIL,31
+-90.463592999916955,30.511697999263333,209,HMD,"Hammond, Louisiana",404 N.E. Railroad Ave.,,Hammond,LA,70401,RAIL,22
+-87.508743000688867,41.693080999688448,210,HMI,"Hammond-Whiting, Indiana",1135 South Calumet Ave.,,Hammond,IN,46320-1044,RAIL,18
+-117.005477999809784,33.747173000133898,211,HMT,"Hemet (Devonshire Ave), California",308 East Devonshire Avenue,Simpson Senior Center,Hemet,CA,92543-2906,BUS,06
+-87.668509999336948,41.562351000098602,212,HMW,"Homewood, Illinois",18015 Park Ave.,,Homewood,IL,60430,RAIL,17
+-119.650779999996985,36.326214000575703,213,HNF,"Hanford, California",200 Santa Fe Avenue #A,,Hanford,CA,93230-4554,RAIL,06
+-80.168541000466746,26.01068700030487,214,HOL,"Hollywood, Florida",3001 Hollywood Blvd,,Hollywood,FL,33021,RAIL,12
+-86.097777999654909,42.789314000041145,215,HOM,"Holland, Michigan",171 Lincoln Ave.,,Holland,MI,49423,RAIL,26
+-121.522613999536418,45.701209999641833,216,HOO,"Hood River, Oregon",600 E. Marina Way,Greyhound Station,Hood River,OR,97031,BUS,41
+-95.366974000349785,29.767189000372127,217,HOS,"Houston, Texas",902 Washington Ave.,,Houston,TX,77002,RAIL,48
+-80.005835999431781,35.957507999294762,218,HPT,"High Point, North Carolina",100 West High St,,High Point,NC,27260,RAIL,37
+-74.800490008806833,39.633040019181578,219,HTN,"Hammonton, New Jersey",Egg Harbor Rd & Line St.,New Jersey Transit Station,Hammonton,NJ,08037,OTHER,34
+-73.798438999859911,42.253082000234201,220,HUD,"Hudson, New York",69 South Front St.,,Hudson,NY,12534,RAIL,36
+-119.959488000770591,35.984176999768749,221,KTC,"Kettleman City, California",3300 Hubert Way,I-5 & Hwy 41 (Carl's Jr Restaurant),Kettleman City,CA,93239,BUS,06
+-79.829062999857513,33.66437899969111,222,KTR,"Kingstree, South Carolina",101 East Main St.,,Kingstree,SC,29556-3425,RAIL,45
+-90.407593000316695,38.580883000050449,223,KWD,"Kirkwood, Missouri",110 West Argonne Dr.,,Kirkwood,MO,63122-4202,RAIL,29
+-79.385222999741586,40.318339999991053,224,LAB,"Latrobe, Pennsylvania",329 McKinley Ave,,Latrobe,PA,15650,RAIL,42
+-118.078018000230486,45.325919999608345,225,LAE,"La Grande, Oregon",63276 Oregon Highway 203,Flying J Plaza,La Grande,OR,97850,BUS,41
+-86.895034999265761,40.421088999757558,226,LAF,"Lafayette, Indiana",200 North 2nd St.,,Lafayette,IN,47901-1238,RAIL,18
+-87.869719999878043,41.815902999723733,227,LAG,"La Grange, Illinois",25 West Burlington St.,,La Grange,IL,60525,RAIL,17
+-103.542495999990365,37.988067999838393,228,LAJ,"La Junta, Colorado",1 West First St.,,La Junta,CO,81050,RAIL,08
+-81.951614000485677,28.045654000831519,229,LAK,"Lakeland, Florida",600 East Main Street,,Lakeland,FL,33801-5036,RAIL,12
+-92.485305999871969,40.031405999687195,230,LAP,"La Plata, Missouri",535 N. Owensby St.,R.R. #1,La Plata,MO,63549,RAIL,29
+-115.148913904952735,36.097856893880589,231,LAS,"Las Vegas International Airport, Nevada",5757 Wayne Newton Blvd,McCarran International Airport,Las Vegas,NV,89111-5000,BUS,32
+-89.127838000323436,31.692390000398234,232,LAU,"Laurel, Mississippi",230 North Maple Street,,Laurel,MS,39440,RAIL,28
+-118.236533999644337,34.056297000306358,233,LAX,"Los Angeles, California",800 North Alameda Street,Los Angeles Union Passenger Terminal,Los Angeles,CA,90012-2902,RAIL,06
+-118.188559999644212,33.774177999914798,234,LBC,"Long Beach, California",601 North Long Beach Blvd.,Denny's Restaurant,Long Beach,CA,90802-1323,BUS,06
+-118.265327000040998,34.230685999659215,236,LCA,"La Crescenta, California",Honolulu & Lowell Avenue,Near I-210,La Crescenta,CA,91214,BUS,06
+-93.214995999765563,30.238084999922876,237,LCH,"Lake Charles, Louisiana",100 Ryan Street,,Lake Charles,LA,70601-2152,RAIL,22
+-89.363303999579898,40.147537000532225,238,LCN,"Lincoln, Illinois",Broadway and North Chicago Sts.,,Lincoln,IL,62656,RAIL,17
+-106.774251671977026,32.300963280331189,239,LCR,"Las Cruces, New Mexico",304 Wyatt Drive,,Las Cruces,NM,88005,BUS,35
+-118.136176999568818,34.695511000732154,240,LCS,"Lancaster, California",44812 Sierra Highway,Metrolink Station,Lancaster,CA,93534-3218,BUS,06
+-69.008799301046849,44.282071364501917,241,LCV,"Lincolnville, Maine",2512 Atlantic Highway,US Post Office,Lincolnville,ME,04849,BUS,23
+-108.70632200045992,32.350589999528893,242,LDB,"Lordsburg, New Mexico",Center St. and S.P. Blvd.,,Lordsburg,NM,88045,RAIL,35
+-75.001876999523859,39.83505600023426,243,LDW,"Lindenwold, New Jersey",Station Ave & White Horse Rd West,NJ Transit/PATCO station,Somerdale,NJ,08083,OTHER,34
+-94.377646999909075,38.912944999512149,245,LEE,"Lees Summit, Missouri",217 SW Main St.,,Lees Summit,MO,64063,RAIL,29
+-123.711173999980076,39.850399000013908,246,LEG,"Leggett, California",69501 Highway 101 North,Price's Peg House,Leggett,CA,95585-8911,BUS,06
+-120.660324000152457,47.596499999875164,247,LEV,"Leavenworth, Washington",Hwy 2 and 12th St.,Link Transit Park & Ride,Leavenworth,WA,98826,BUS,53
+-77.579216000617919,40.588584999598083,248,LEW,"Lewistown, Pennsylvania",150 Helen Street,,Lewistown,PA,17044,RAIL,42
+-80.249990658342199,35.821481764471912,249,LEX,"Lexington, North Carolina (Special Stop)",Center St. and railroad tracks,Lexington Barbecue Festival,Lexington,NC,27292,RAIL,37
+-92.014594999859298,30.227345000171681,250,LFT,"Lafayette, Louisiana",133 East Grant St.,100 Lee Street,Lafayette,LA,70501,RAIL,22
+-105.101463000317153,40.169350000102497,252,LGM,"Longmont, Colorado",623 Main St.,Martha Martin Business Center,Longmont,CO,80501-4994,BUS,08
+-115.548622000404976,48.395148999826517,253,LIB,"Libby, Montana",100 Mineral Avenue,,Libby,MT,59923-1933,RAIL,30
+-121.73662600048948,37.703982999615789,254,LIV,"Livermore, California",2500 Railroad Avenue,(Near 1st Street),Livermore,CA,94550-3011,BUS,06
+-81.951883862750037,28.046777659661302,255,LKL,"Lakeland, Florida",600 East Main Street,,Lakeland,FL,33801-5036,RAIL,12
+-119.797545999847955,36.286655000128178,256,LMC,"Lemoore, California",300 E Street,Chamber of Commerce,Lemoore,CA,93245-3663,BUS,06
+-119.906340204636706,36.378514979782551,257,LMN,"Lemoore (Naval Air Station), California",25th Ave and Highway 198,,Lemoore,CA,93245,BUS,06
+-102.618293999968103,38.089500000025055,259,LMR,"Lamar, Colorado",Main & Beach Streets,,Lamar,CO,81052,RAIL,08
+-105.884757999981673,35.477485999779105,260,LMY,"Lamy, New Mexico",Santa Fe County Road 33,152 Old Lamy Trail,Lamy,NM,87540,RAIL,35
+-76.307587000339765,40.053805999347446,261,LNC,"Lancaster, Pennsylvania",53 McGovern Avenue,,Lancaster,PA,17602,RAIL,42
+-96.710815000511843,40.814671000666181,262,LNK,"Lincoln, Nebraska",201 North 7th St.,,Lincoln,NE,68508,RAIL,31
+-71.676317912941272,44.03756098864875,263,LNN,"Lincoln, New Hampshire",Main and Franklin Sts.,Munce's Konvenience Store/Shell Station,Lincoln,NH,03251,BUS,33
+-84.493546000147774,42.719081999734556,264,LNS,"East Lansing, Michigan",1240 South Harrison Road,,East Lansing,MI,48823-5223,RAIL,26
+-114.573852999516305,35.157066000295742,265,LNV,"Laughlin, Nevada",2121 S. Casino Dr.,Tropicana Express Hotel & Casino,Laughlin,NV,89029-1519,BUS,32
+-121.27159399976324,38.133539999371521,266,LOD,"Lodi, California",24 South Sacramento Street,,Lodi,CA,95240,RAIL,06
+-120.456832999643211,34.643879000215748,267,LOM,"Lompoc, California",111 South I Street,Lompoc Visitor's Center,Lompoc,CA,93436,BUS,06
+-77.22137500035592,38.705962999892563,268,LOR,"Lorton (Auto Train), Virginia",8006 Lorton Road,,Lorton,VA,22079,RAIL,51
+-73.984542999859514,44.282169000299177,269,LPD,"Lake Placid, New York",1 Mirror Lake Drive,Hilton Hotel,Lake Placid,NY,12946-1105,BUS,36
+-83.30564900040099,43.049628999478784,270,LPE,"Lapeer, Michigan",73 Howard St.,,Lapeer,MI,48446-2515,RAIL,26
+-121.499146000087819,43.674640999682424,271,LPN,"La Pine, Oregon",16515 Reed Road,Shell Station,La Pine,OR,97739,BUS,41
+-120.602515999913408,34.684460000128979,272,LPS,"Lompoc-Surf, California",Ocean Ave and Park Rd,,Surf,CA,93437,RAIL,06
+-95.231719999878067,38.972217999860845,273,LRC,"Lawrence, Kansas",413 East 7th Street,,Lawrence,KS,66044,RAIL,20
+-92.286377000198343,34.750350999898785,274,LRK,"Little Rock, Arkansas",1400 West Markham Street,,Little Rock,AR,72201,RAIL,05
+-91.246704831962404,43.833214339869926,275,LSE,"LaCrosse, Wisconsin",St. Andrew and Caledonia Streets,601 St. Andrew Street,La Crosse,WI,54601,RAIL,55
+-105.212142999799539,35.593300000394777,276,LSV,"Las Vegas, New Mexico",Railroad & Lincoln Streets,,Las Vegas,NM,87701,RAIL,35
+-71.769084102549243,44.292538624158226,277,LTL,"Littleton, New Hampshire",336 Cottage St.,Irving Gas Station,Littleton,NH,03561-4118,BUS,33
+-117.991935058556066,34.521587085775423,278,LTR,"Littlerock, California",7715 Pearblossom Hwy,Come & Save Market,Littlerock,CA,93543-3038,BUS,06
+-123.479416000847721,39.685654000231978,279,LTV,"Laytonville, California",44900 Highway 101,Park N Takit Market,Laytonville,CA,95454,BUS,06
+-85.763397000271311,38.252002999838624,280,LVL,"Louisville, Kentucky",720 West Muhammad Ali Blvd.,Greyhound Station,Louisville,KY,40203-1917,BUS,21
+-76.163009999811607,39.509460000378795,281,ABE,"Aberdeen, Maryland",18 East Bel Air Ave.,,Aberdeen,MD,21001-3701,RAIL,24
+-74.507537999878764,39.428696000020409,282,ABN,"Absecon, New Jersey",Shore Road and Ohio Ave,,Absecon,NJ,08201,OTHER,34
+-106.646980000026929,35.08293500005027,283,ABQ,"Albuquerque, New Mexico",320 First Street SW,,Albuquerque,NM,87102,RAIL,35
+-121.815132000141659,38.018085000022779,284,ACA,"Antioch-Pittsburg, California",100 I Street,,Antioch,CA,94509-1122,RAIL,06
+-74.439865000669215,39.363003000388233,285,ACY,"Atlantic City, New Jersey",1 Atlantic City Expressway,New Jersey Transit Station,Atlantic City,NJ,08401-4106,OTHER,34
+-97.125412000163635,34.17191299988508,287,ADM,"Ardmore, Oklahoma",251 East Main St.,,Ardmore,OK,73401-7016,RAIL,40
+-122.697021000418829,42.188118000045733,288,AHL,"Ashland, Oregon",585 Siskiyou Blvd,Safeway Market,Ashland,OR,97520,BUS,41
+-82.639473000378644,38.480929999719763,289,AKY,"Ashland, Kentucky",99 15th Street,,Ashland,KY,41101,RAIL,21
+-73.741256999710743,42.641647000009073,290,ALB,"Albany/Rensselaer, New York",525 East St.,,Rensselaer,NY,12144-2310,RAIL,36
+-81.095810000730921,40.921786999470498,291,ALC,"Alliance, Ohio",820 East Main Street,,Alliance,OH,44601,RAIL,39
+-80.6446460001128,37.724239000229716,292,ALD,"Alderson, West Virginia",1 C&O Plaza on Railroad Plaza,,Alderson,WV,24910,RAIL,54
+-84.756324999898766,42.247374999656586,293,ALI,"Albion, Michigan",300 North Eaton St.,,Albion,MI,49224,RAIL,26
+-90.13494899979645,38.904490999959705,294,ALN,"Alton, Illinois",3400 College Ave.,,Alton,IL,62002-5000,RAIL,17
+-103.661041000641603,30.357159000687375,295,ALP,"Alpine, Texas",102 West Holland Ave.,,Alpine,TX,79830,RAIL,48
+-78.400993000526512,40.514782000089269,296,ALT,"Altoona, Pennsylvania",1231 11th Avenue,,Altoona,PA,16601,RAIL,42
+-77.062645000066652,38.806244000060587,297,ALX,"Alexandria, Virginia",110 Callahan Drive,,Alexandria,VA,22301-2752,RAIL,51
+-123.099647999355625,44.630756000089377,298,ALY,"Albany, Oregon",110 10th Ave SW,,Albany,OR,97321-2457,RAIL,41
+-72.511925000238534,42.374858999743083,299,AMM,"Amherst, Massachusetts",13 Railroad St.,,Amherst,MA,01002-2318,RAIL,25
+-74.209525999525226,42.947478999456337,300,AMS,"Amsterdam, New York",Railroad St. & West Main Ave.,Route 5 West,Amsterdam,NY,12010,RAIL,36
+-117.884819000396533,33.804259999499436,301,ANA,"Anaheim, California",2150 East Katella Avenue,,Anaheim,CA,92806,RAIL,06
+-88.405647000009026,44.265942000223163,302,APP,"Appleton, Wisconsin",100 East Washington St.,Appleton Transit Center,Appleton,WI,54911-5448,BUS,55
+-83.744026000399572,42.288051999500226,303,ARB,"Ann Arbor, Michigan",325 Depot Street,,Ann Arbor,MI,48104,RAIL,26
+-124.083938999585143,40.867573000393691,304,ARC,"Arcata (Transit Center), California",925 E Street,Transit Center,Arcata,CA,95521-6239,BUS,06
+-75.289444000240394,40.007262999687725,305,ARD,"Ardmore, Pennsylvania",Station Road and Lancaster Ave.,,Ardmore,PA,19003,RAIL,42
+-93.052444000390267,34.114376000452125,307,ARK,"Arkadelphia, Arkansas",798 South 5th St.,,Arkadelphia,AR,71923-6237,RAIL,05
+-121.082030999431026,38.904182000099297,308,ARN,"Auburn, California",277 Nevada St. at Fulweiler St.,,Auburn,CA,95603,RAIL,06
+-123.833553037142906,46.189964732786223,309,ART,"Astoria, Oregon (Buses-Transit Center)",900 Marine Drive,Astoria Intermodal Terminal,Astoria,OR,97103,BUS,41
+-77.481673999955092,37.759234999795467,310,ASD,"Ashland, Virginia",112 North Railroad Avenue,,Ashland,VA,23005,RAIL,51
+-120.665510793288433,35.48639537914346,311,ATA,"Atascadero, California",6910 El Camino Real,Denny's Restaurant,Atascadero,CA,93422,BUS,06
+-84.391785000077675,33.799563999678867,312,ATL,"Atlanta, Georgia","1688 Peachtree Street, NW",intersection of Deering Road,Atlanta,GA,30309,RAIL,13
+-85.831885999339363,33.648997999957771,313,ATN,"Anniston, Alabama",126 West 4th St,,Anniston,AL,36201,RAIL,01
+-74.893469066144462,39.774529522119792,314,ATO,"Atco, New Jersey",Cooper Rd and Raritan Ave,New Jersey Transit station,Atco,NJ,08004,OTHER,34
+-97.755569000209164,30.269092999942018,316,AUS,"Austin, Texas",250 North Lamar Blvd.,,Austin,TX,78703,RAIL,48
+-117.811324999848807,44.782054999438742,317,BAK,"Baker City, Oregon",515 Campbell Street,Baker Truck Corral,Baker City,OR,97814,BUS,41
+-76.61747700076296,39.308121000184087,318,BAL,"Baltimore (Penn Station), Maryland",1515 North Charles Street,Penn Station,Baltimore,MD,21201-5893,RAIL,24
+-86.111870000200327,42.314186000483573,319,BAM,"Bangor, Michigan",541 Railroad St.,,Bangor,MI,49013-1464,RAIL,26
+-68.813156247862537,44.818427806198372,320,BAN,"Bangor, Maine",1039 Union St.,Bangor Transportation Center,Bangor,ME,04401-3011,BUS,23
+-117.025351999894838,34.90479999972024,321,BAR,"Barstow (Amtrak), California",685 North First Avenue,,Barstow,CA,92311,RAIL,06
+-69.820877430149267,43.913471143278684,323,BAT,"Bath, Maine",10 State Rd,"Mail It 4 U - Suite 9, Coastal Plaza",Bath,ME,04530-6018,BUS,23
+-71.076354999483613,42.347304999825951,324,BBY,"Boston (Back Bay), Massachusetts",145 Dartmouth St.,,Boston,MA,02116-5162,RAIL,25
+-82.470672999759074,27.490395999575753,325,BDT,"Bradenton, Florida",1115 Manatee Avenue West,Manatee County Courthouse,Bradenton,FL,34205-7803,BUS,12
+-122.509888000630667,48.720486000328719,327,BEL,"Bellingham, Washington",401 Harris Avenue,,Bellingham,WA,98225,RAIL,53
+-110.293983000215235,31.968167999753462,328,BEN,"Benson, Arizona",105 E. 4th Street,,Benson,AZ,85602-6611,RAIL,04
+-72.765723999562908,41.635525000278619,329,BER,"Berlin, Connecticut",51 Depot Road,,Kensington,CT,06037,RAIL,09
+-88.989133641104615,42.490057826307691,330,BET,"South Beloit, Illinois",15766 Manchester Road,McDonald?s/BP Amoco Travel Plaza,South Beloit,IL,61080-9723,BUS,17
+-119.022461000174985,35.371380000786473,332,BFD,"Bakersfield, California",601 Truxtun Ave,Off Truxtun Ave and S Street,Bakersfield,CA,93301-5319,RAIL,06
+-69.021550005927963,44.423520015736187,333,BFT,"Belfast, Maine",Belmont Ave & US Hwy 1,Big Apple Conv Store/CITGO Station,Belfast,ME,04915,BUS,23
+-78.87506100066463,42.87848300039019,334,BFX,"Buffalo (Exchange St), New York",75 Exchange Street,,Buffalo,NY,14203,RAIL,36
+-85.482048000314933,43.698317999775895,335,BGP,"Big Rapids, Michigan",14342 Northland Dr.,Ferris State Fitness Center,Big Rapids,MI,49307-2373,BUS,26
+-86.807029999534791,33.512394000183008,336,BHM,"Birmingham, Alabama",1819 Morris Ave.,,Birmingham,AL,35203-3109,RAIL,01
+-71.187257384220857,44.45913183416684,337,BIN,"Berlin, New Hampshire",318 Glen Ave,Irving Mainway,Berlin,NH,03570-1900,BUS,33
+-122.299994999869341,37.867603000578072,339,BKY,"Berkeley, California",University Ave. and Third St.,Underneath Overpass,Berkeley,CA,94710,RAIL,06
+-105.281180999903199,40.05839499962957,340,BLD,"Boulder, Colorado",30th & Diagonal Highway,BP/Amoco Gas Station,Boulder,CO,80302,BUS,08
+-72.445449999617722,43.135826000369661,341,BLF,"Bellows Falls, Vermont",54 Depot St,,Bellows Falls,VT,05101-1356,RAIL,50
+-83.195296999856623,42.545723000216356,342,BMM,"Birmingham, Michigan",449 South Eton St.,,Birmingham,MI,48009-6573,RAIL,26
+-94.122962999342917,30.076906000011945,343,BMT,"Beaumont, Texas",2555 W. Cedar Street,,Beaumont,TX,77704,RAIL,48
+-79.436287000144887,36.094177000268417,344,BNC,"Burlington, North Carolina",101 North Main Street,,Burlington,NC,27217,RAIL,37
+-121.46909300004188,45.715384999518164,345,BNG,"Bingen-White Salmon, Washington",Hwy 14 and Walnut St.,,Bingen,WA,98605,RAIL,53
+-88.984038999700033,40.508347000114043,346,BNL,"Bloomington-Normal, Illinois",100 East Parkinson St.,,Normal,IL,61761-3015,RAIL,17
+-119.053390999295175,43.590401000006182,347,BNS,"Burns, Oregon",63 N. Buena Vista,Figaro's Italian Kitchen,Burns,OR,97720,BUS,41
+-116.206107999884239,43.619469000494007,348,BOI,"Boise, Idaho",1212 West Bannock St.,Greyhound Station,Boise,ID,83702-5619,BUS,16
+-71.062144999791883,42.365389000102311,349,BON,"Boston (North Station), Massachusetts",100 Legends Way,126 Causeway Street,Boston,MA,02114-1300,RAIL,25
+-71.055297999702873,42.351524000132542,350,BOS,"Boston (South Station), Massachusetts",2 South Station,Summer St & Atlantic Ave.,Boston,MA,02110,RAIL,25
+-72.550353999837171,42.838696000220295,351,BRA,"Brattleboro, Vermont",10 Vernon Rd,,Brattleboro,VT,05301-3389,RAIL,50
+-90.442122999976448,31.578757999682011,352,BRH,"Brookhaven, Mississippi",East Monticello St. and South Railroad Ave.,,Brookhaven,MS,39601,RAIL,28
+-69.935031784988837,43.907172966159521,353,BRK,"Brunswick, Maine",101 Bath Rd.,Mobil Mart/Puffin Shop,Brunswick,ME,04011-2214,BUS,23
+-91.101982000069199,40.80594300016935,354,BRL,"Burlington, Iowa",300 South Main Street,,Burlington,IA,52601,RAIL,19
+-113.010841000611663,48.533295000563896,355,BRO,"Browning, Montana",Heart Butte Rd and Depot Rd.,,Browning,MT,59417,RAIL,30
+-73.187401000156001,41.176746000127878,356,BRP,"Bridgeport, Connecticut",525 Water St.,Metro North Station,Bridgeport,CT,06604-4315,RAIL,09
+-97.499451000063573,25.899884999693029,357,BSV,"Brownsville, Texas",1134 E. St. Charles Street,,Brownsville,TX,78520-5042,BUS,48
+-85.185691999885876,42.316975000495916,358,BTL,"Battle Creek, Michigan",104 Capital Ave. S.W.,,Battle Creek,MI,49017-3535,RAIL,26
+-91.176598000197487,30.449656999870683,359,BTR,"Baton Rouge, Louisiana",1253 Florida St.,,Baton Rouge,LA,70802,BUS,22
+-78.726608000358908,42.906917999566076,360,BUF,"Buffalo (Depew), New York",55 Dick Road,,Depew,NY,14043,RAIL,36
+-120.193382000378961,34.611339999741233,361,BUL,"Buellton, California",238 E Highway 246,Burger King Restaurant,Buellton,CA,93427,BUS,06
+-118.355910999992602,34.193831999846964,362,BUR,"Burbank (Airport), California",3750 Empire Avenue,,Burbank,CA,91505,RAIL,06
+-76.69339799991775,39.189551999325374,364,BWI,"BWI Rail Station at Thurgood Marshall Airport, Mar",7 Amtrak Way,BWI Thurgood Marshall Airport,BWI Airport,MD,21240-0642,RAIL,24
+-119.783699758836747,48.102833909657249,365,BWW,"Brewster, Washington",405 Highway 97,Triangle Texaco,Brewster,WA,98812,BUS,53
+-85.026648999551639,45.204841999958376,366,BYC,"Boyne City, Michigan",1000 East Division St.,McDonalds's Restaurant,Boyne City,MI,49712-9609,BUS,26
+-84.552750000012452,41.480347000114023,368,BYN,"Bryan, Ohio",Page and Lynn Street,,Bryan,OH,43506,RAIL,39
+-80.626159999284482,34.247349000056374,369,CAM,"Camden, South Carolina",1060 West Dekalb Street,,Camden,SC,29020,RAIL,45
+-106.325661132655114,42.856132916700801,370,CAS,"Casper, Wyoming",123 West E St.,Parkway Plaza Hotel,Casper,WY,82601-1818,BUS,56
+-71.126742144034665,43.978379068039601,371,CAY,"Conway, New Hampshire",392 West Main St.,First Stop Market & Deli,Conway,NH,03818,BUS,33
+-123.962212125589076,45.889804368077193,372,CBO,"Cannon Beach, Oregon",1170 South Hemlock Street,Family Market,Cannon Beach,OR,97110,BUS,41
+-97.381660000008935,32.348334999860413,373,CBR,"Cleburne, Texas",206 North Border St.,Cleburne Intermodal Depot,Cleburne,TX,76031-4236,RAIL,48
+-89.012481999244812,43.340667999328787,374,CBS,"Columbus, Wisconsin",359 North Ludington Street,,Columbus,WI,53925,RAIL,55
+-124.211989999738648,43.366646000312699,375,CBY,"Coos Bay, Oregon",275 N. Broadway,Porter Stages Lines Bus Station,Coos Bay,OR,97420,BUS,41
+-89.216370000075415,37.724087000414784,376,CDL,"Carbondale, Illinois",401 South Illinois St.,,Carbondale,IL,62901,RAIL,17
+-69.107869591608335,44.191968532421868,377,CDN,"Camden/Rockport, Maine",234 Park St.,Maritime Farms,Rockport,ME,04856-5508,BUS,23
+-89.136191999760968,38.527770999631969,378,CEN,"Centralia, Illinois",108 East Broadway,,Centralia,IL,62801-3272,RAIL,17
+-117.363654999378696,46.875927000430806,379,CFX,"Colfax, Washington",610 South Main St.,Ace Hardware,Colfax,WA,99111,BUS,53
+-87.639167999703375,41.878731000335449,380,CHI,"Chicago (Union Station), Illinois",225 South Canal Street,,Chicago,IL,60606,RAIL,17
+-88.240928999673542,40.116195999545823,381,CHM,"Champaign-Urbana, Illlinois",45 East University Ave.,2nd floor,Champaign,IL,61820-4046,RAIL,17
+-79.998900999781256,32.875533999494507,382,CHS,"Charleston, South Carolina",4565 Gaynor Avenue,,North Charleston,SC,29405,RAIL,45
+-81.646720999374566,38.35198999993861,383,CHW,"Charleston, West Virginia",350 MacCorkle Avenue - Southeast,,Charleston,WV,25314,RAIL,54
+-104.805182999795591,41.121581999509715,384,CHY,"Cheyenne, Wyoming",222 Deming Drive,Union Bus Station,Cheyenne,WY,82007,BUS,56
+-121.84471899938228,39.723309000110305,385,CIC,"Chico, California",West 5th and Orange Streets,,Chico,CA,95926,RAIL,06
+-84.536529999359971,39.102379000190751,386,CIN,"Cincinnati, Ohio",1301 Western Ave.,Cincinnati Union Terminal,Cincinnati,OH,45203-1130,RAIL,39
+-72.379302999733625,43.368786000073897,388,CLA,"Claremont, New Hampshire",Plains Rd. and Maple Ave.,,Claremont,NH,03743,RAIL,33
+-81.04057300034367,33.993716999440039,389,CLB,"Columbia, South Carolina",850 Pulaski Street,,Columbia,SC,29201,RAIL,45
+-85.406692999382358,44.268393999983175,390,CLC,"Cadillac, Michigan",1202 North Mitchell St.,Cadillac/ Wexford Transit,Cadillac,MI,49601-1261,BUS,26
+-81.698173999730272,41.504416999445027,391,CLE,"Cleveland, Ohio",200 Cleveland Memorial Shoreway,,Cleveland,OH,44114,RAIL,39
+-79.836493999898153,37.811770999731891,392,CLF,"Clifton Forge, Virginia",400 Ridgeway Street,,Clifton Forge,VA,24422,RAIL,51
+-117.715507999594479,34.094527999767422,393,CLM,"Claremont, California",200 West First St.,Metrolink Station,Claremont,CA,91711,BUS,06
+-77.993041999788431,38.472923000096444,394,CLP,"Culpeper, Virginia",109 South Commerce Street,,Culpeper,VA,22701,RAIL,51
+-80.823638999540151,35.241145999788102,395,CLT,"Charlotte, North Carolina",1914 North Tryon St.,,Charlotte,NC,28206,RAIL,37
+-123.012076999853605,38.799895999600778,396,CLV,"Cloverdale, California",Citrus Fair Road and Asti Road,Cloverdale Depot Park-N-Ride Lot,Cloverdale,CA,95425,BUS,06
+-119.033112000318511,34.216469000544009,397,CML,"Camarillo, California (Trains)",30 Lewis Road,,Camarillo,CA,93010,RAIL,06
+-121.780663000596974,43.216903999919737,398,CMO,"Chemult, Oregon",Palmer/Kranz Street and Depot Street,"Off Highway 97, center of town",Chemult,OR,97731,RAIL,41
+-122.196929999919519,39.928477999759934,399,CNG,"Corning, California",1081 Solano Street,Intermodal Terminal at 3rd Street,Corning,CA,96021-3235,BUS,06
+-115.148604999521069,36.166812999920069,400,LVS,"Las Vegas (Downtown), Nevada",200 South Main St.,Greyhound Station,Las Vegas,NV,89101-6357,BUS,32
+-94.72526600002584,32.495872000192719,401,LVW,"Longview, Texas",905 Pacific Ave.,,Longview,TX,75602,RAIL,48
+-117.005320803712095,46.426986119413925,402,LWN,"Lewiston, Idaho",1920 Highway 128,Shell Dyna Mart,Lewiston,ID,83501-1617,BUS,16
+-79.157462999717609,37.407023999258229,403,LYH,"Lynchburg, Virginia",825 Kemper St,,Lynchburg,VA,24501-1397,RAIL,51
+-90.672278999875914,40.4611320000418,404,MAC,"Macomb, Illinois",120 East Calhoun Street,Travel Center,Macomb,IL,61455-7321,RAIL,17
+-84.725281000018072,45.781680999978221,405,MAK,"Mackinaw City, Michigan",102 South Huron Ave.,Village Hall,Mackinaw City,MI,49701,BUS,26
+-107.872444000090525,48.359881999454785,406,MAL,"Malta, Montana",51 South 1st Street East,,Malta,MT,59538-1732,RAIL,30
+-88.375526000424543,39.482421999975372,407,MAT,"Mattoon, Illinois",1718 Broadway Ave.,,Mattoon,IL,61938-3920,RAIL,17
+-83.771072000272568,38.651623000401173,408,MAY,"Maysville,  Kentucky",West Front St & Rosemary Clooney St,,Maysville,KY,41056,RAIL,21
+-116.089539000424509,44.921661000055167,409,MCA,"McCall, Idaho",147 North 3rd St.,Jim's Grocery,McCall,ID,83638-4408,BUS,16
+-90.452942000672749,31.249292000325624,410,MCB,"McComb, Mississippi",114 Northeast Railroad Ave.,,McComb,MS,39648,RAIL,28
+-120.475890999869705,37.307040999342689,411,MCD,"Merced, California",324 West 24th St,,Merced,CA,95340,RAIL,06
+-97.40172599995492,31.437921999900425,412,MCG,"McGregor, Texas",1 Amtrak Blvd.,,McGregor,TX,76657,RAIL,48
+-86.905219999503345,41.72135899971812,413,MCI,"Michigan City, Indiana",100 Washington St.,,Michigan City,IN,46360-3246,RAIL,18
+-100.625343000778855,40.197563000731975,414,MCK,"McCook, Nebraska",101 Norris Ave.,,McCook,NE,69001-3779,RAIL,31
+-72.801216000418037,41.538998000557342,415,MDN,"Meriden, Connecticut",60 State Street,,Meriden,CT,06450,RAIL,09
+-119.932067999838296,37.559455999594775,417,MDP,"Midpines, California",6979 Highway 140,Yosemite Bug Youth Hostel,Midpines,CA,95345,BUS,06
+-120.018943999665794,36.974517999306272,418,MDR,"Madera, California",Avenue 15 1/2 at 29th Road,,Madera,CA,93637,RAIL,06
+-89.117286999395446,41.550040999892303,419,MDT,"Mendota, Illinois",783 Main Street,,Mendota,IL,61342,RAIL,17
+-88.696167000206856,32.363823000031459,420,MEI,"Meridian, Mississippi",1901 Front Street,,Meridian,MS,39301,RAIL,28
+-90.058875999927409,35.132431000090605,421,MEM,"Memphis, Tennessee",Central Station,545 S. Main St,Memphis,TN,38103,RAIL,47
+-98.236411999813924,26.20309300044164,422,MEN,"McAllen, Texas",1501 West US Hwy 83 Business,,McAllen,TX,78501-5120,BUS,48
+-74.327858000246465,40.567753000300797,423,MET,"Metropark (Iselin), New Jersey",100 Middlesex-Essex Turnpike,,Iselin,NJ,08830-2707,RAIL,34
+-121.968575000335989,47.859222000594912,424,MEW,"Monroe, Washington","118 North Lewis St., Suite 112",Behind Chamber of Commerce,Monroe,WA,98272,BUS,53
+-122.87179335378022,42.324461653282754,425,MFR,"Medford, Oregon",200 South Front Street,Rogue Valley Transportation District (RVTD),Medford,OR,97501,BUS,41
+-94.366843999950618,32.551350000002572,426,MHL,"Marshall, Texas",800 North Washington Street - suite 2,,Marshall,TX,75670-5330,RAIL,48
+-71.465571217237823,42.987008065070199,427,MHT,"Manchester, New Hampshire",119 Canal St.,Manchester Transportation Center,Manchester,NH,03101-2333,BUS,33
+-80.25807200042243,25.849847999885355,428,MIA,"Miami, Florida",8303 NW 37th Ave,,Miami,FL,33147,RAIL,12
+-76.731612999540232,40.192947000104027,429,MID,"Middletown, Pennsylvania",Union Street and Mill Street,,Middletown,PA,17057,RAIL,42
+-95.490134999830332,32.66187999976222,430,MIN,"Mineola, Texas",115 East Front St.,,Mineola,TX,75773-2453,RAIL,48
+-76.502914000280839,40.108916999320115,431,MJY,"Mount Joy, Pennsylvania",East Henry St. and North Market St.,,Mount Joy,PA,17552,RAIL,42
+-87.924475716381153,42.941746535474294,432,MKA,"Milwaukee (General Mitchell Intl Airport), Wiscons",5601 South 6th Street,(South 6th St & Airport Spur Freeway),Milwaukee,WI,53221,RAIL,55
+-87.916480999698365,43.034016000737893,433,MKE,"Milwaukee, Wisconsin",433 West St. Paul Ave.,,Milwaukee,WI,53203,RAIL,55
+-124.110946999504392,40.975506000001928,434,MKV,"McKinleyville (Arcata Airport), California",3561 Boeing Ave,Arcata Airport Terminal,McKinleyville,CA,95519-9358,BUS,06
+-90.505736999962551,41.454726999451509,435,MLI,"Moline, Illinois",1200 River Drive,Centre Station,Moline,IL,61265-1302,BUS,17
+-119.245215999618665,47.101944000115566,436,MLK,"Moses Lake, Washington",1819 East Kittleson Road,Union 76 - Food Mart,Moses Lake,WA,98837,BUS,53
+-81.324073999715267,38.18070199969759,438,MNG,"Montgomery, West Virginia",Third Avenue and Washington Street,,Montgomery,WV,25136,RAIL,54
+-123.160599785751458,45.659744348323045,439,MNI,"Manning, Oregon",47000 Highway 26,East of Dairy Queen,Manning,OR,97106,BUS,41
+-117.001610000401172,46.730041999838477,440,MOC,"Moscow, Idaho",120 West 6th St.,Royal Motor Inn,Moscow,ID,83843-2318,BUS,16
+-120.91159799994773,37.668139999661321,441,MOD,"Modesto, California",1700 Held Drive,,Modesto,CA,95355-8301,RAIL,06
+-88.102991817018676,30.668932225541823,443,MOG,"Mobile (Greyhound), Alabama",2545 Government Blvd.,,Mobile,AL,36606-1631,BUS,01
+-118.172447000328759,35.052287999591556,444,MOJ,"Mojave, California",15900 Sierra Highway,Carl's Jr. Restaurant,Mojave,CA,93501-1516,BUS,06
+-101.297905000315495,48.235733000277776,445,MOT,"Minot, North Dakota",400 1st Ave. S.W.,,Minot,ND,58701,RAIL,38
+-117.290468448260242,33.916838188131919,446,MOV,"Moreno Valley, California",2650 East Alessandro Blvd.,RTA Bus Stop at Curb,Riverside,CA,92508-2306,BUS,06
+-118.876952999880984,34.285193999703381,447,MPK,"Moorpark, California",300 High Street,Amtrak / Metrolink Station,Moorpark,CA,93021,RAIL,06
+-120.798797999827798,37.530312000098775,448,TRK,"Turlock-Denair, California",3800 Santa Fe Avenue,Corner of Elm Street,Denair,CA,95316,RAIL,06
+-120.182571000051553,39.327915000177143,449,TRU,"Truckee, California",10065 Donner Pass Road,,Truckee,CA,96161-0329,RAIL,06
+-85.628421036001953,44.764372664267114,450,TRV,"Traverse City, Michigan",107 Hall Street,,Traverse City,MI,49684-2215,BUS,26
+-112.122735523925257,36.035344263027355,451,TSY,"Tusayan(Grand Canyon Village), Arizona",Arizona Hwy 64,Grand Canyon Village/IMAX Theatre,Tusayan,AZ,86023,BUS,04
+-122.242580615802751,47.461120724741704,452,TUK,"Tukwila, Washington",7301 South 158th St.,Sounder Commuter Rail Station,Tukwila,WA,98188,RAIL,53
+-73.447455999294903,44.696990999535046,618,PLB,"Plattsburgh, New York",Bridge and Dock Sts.,,Plattsburgh,NY,12901,RAIL,36
+-88.538358371541563,41.661990362765096,619,PLO,"Plano, Illinois",101 West Main Street,,Plano,IL,60545,RAIL,17
+-118.127899000038781,34.579143999795804,620,PMD,"Palmdale (Amtrak Thruway), California",39000 Clock Tower Plaza Drive - Bus Bay 2E,Palmdale Transportation Center-San Joaquin Buses,Palmdale,CA,93550-4513,BUS,06
+-71.687330748115471,43.758597859503652,622,PMO,"Plymouth, New Hampshire",83 Main St.,Chase Street Market,Plymouth,NH,03264-1548,BUS,33
+-83.292014118057068,42.633720205523105,624,PNT,"Pontiac, Michigan",51000 Woodward Avenue,,Pontiac,MI,48342,RAIL,26
+-89.469139000464452,43.546611999644142,625,POG,"Portage, Wisconsin",400 West Oneida Street,,Portage,WI,53901,RAIL,55
+-73.461929000323096,44.033065999896053,626,POH,"Port Henry, New York",20 Park Place,Senior Citizen Center,Port Henry,NY,12974-1324,RAIL,36
+-88.63649699953686,40.879439999956105,627,PON,"Pontiac, Illinois",721 West Washington St.,,Pontiac,IL,61764,RAIL,17
+-70.290493000151798,43.652013000299803,628,POR,"Portland, Maine",100 Thompson's Point Road,Portland Transportation Center,Portland,ME,04102-2630,RAIL,23
+-117.750632999713105,34.059395000179165,629,POS,"Pomona (Sunset Ltd), California",100 West Commercial Street,,Pomona,CA,91768,RAIL,06
+-73.939011000057576,41.705672999409444,630,POU,"Poughkeepsie, New York",41 Main St.,Amtrak/Metro-North Station,Poughkeepsie,NY,12601-2909,RAIL,36
+-120.686934999750406,35.622924999589088,631,PRB,"Paso Robles, California",800 Pine Street,Paso Robles Intermodal Station,Paso Robles,CA,93446-2856,RAIL,06
+-81.05422200024509,37.858707000427785,632,PRC,"Prince, West Virginia (Beckley)",Hwy 41 and County Road 25,near Depot Rd,Prince,WV,25907,RAIL,54
+-117.216636999597824,33.791392999687218,633,PRI,"Perris, California",1688-J North Perris Blvd,International House of Pancakes,Perris,CA,92571-4702,BUS,06
+-73.444275000091125,44.578040999992197,634,PRK,"Port Kent, New York",Hwy 373 & Back Rd,near Burlington-Fort Kent ferry dock,Port Kent,NY,12975,RAIL,36
+-111.662720000027946,40.225868000208095,635,PRO,"Provo, Utah",300 West 600 South,,Provo,UT,84601-4542,RAIL,49
+-119.084244000260355,46.233596999302108,636,PSC,"Pasco, Washington",535 North 1st Avenue,Pasco Intermodal Train Station,Pasco,WA,99301-5378,RAIL,53
+-84.963706999978001,45.373909000300159,637,PSK,"Petoskey, Michigan",301 West Mitchell St.,The Book Stop,Petosky,MI,49770-2327,BUS,26
+-116.545012999250503,33.895942999769659,638,PSN,"Palm Springs (Train), California",Indian Ave. and Palm Springs Station Rd.,0.6 mi/0.965 km south of I-10,North Palm Springs,CA,92258,RAIL,06
+-116.544914000081008,33.826698000012755,639,PSP,"Palm Springs (Buses), California",3400 East Tahquitz Canyon Way,Sunline Bus Stop/Palm Springs Airport,Palm Springs,CA,92262-6970,BUS,06
+-84.784583999951622,45.550639999736234,640,PST,"Pellston, Michigan",110 North US Highway 131,General Store/Amoco Station,Pellston,MI,49769-9333,BUS,26
+-77.428970000365211,37.241619000516494,641,PTB,"Petersburg, Virginia",3516 South Street,Ettrick Station,Petersburg,VA,23803-1642,RAIL,51
+-122.630485999729046,38.243007999619522,642,PTC,"Petaluma, California",100 Fairgrounds Drive,Regional Library,Petaluma,CA,94952,BUS,06
+-119.903660008202792,48.052354842701902,643,PTE,"Pateros, Washington",245 Lakeshore Drive,Super Stop Convenience Store,Pateros,WA,98846,BUS,53
+-82.441811000677092,42.960788999912495,644,PTH,"Port Huron, Michigan",2223 16th Street,,Port Huron,MI,48060,RAIL,26
+-104.615059000572387,38.307827000315854,645,PUB,"Pueblo, Colorado",1080 Chinook Lane,,Pueblo,CO,81001,BUS,08
+-117.173744000085492,46.738770000335307,646,PUL,"Pullman, Washington",1002 Northwest Nye St.,Northwestern Stage Lines Depot,Pullman,WA,99163-3429,BUS,53
+-97.356338999645061,35.011974000299915,647,PUR,"Purcell, Oklahoma",East Main St and North Santa Fe Ave.,,Purcell,OK,73080,RAIL,40
+-71.415992999377409,41.825630000424212,648,PVD,"Providence, Rhode Island",100 Gaspee Street,,Providence,RI,02903,RAIL,44
+-97.219002000242085,34.741467000301895,649,PVL,"Pauls Valley, Oklahoma",East Paul Ave. and South Santa Fe St.,1 Santa Fe Plaza,Pauls Valley,OK,73075,RAIL,40
+-112.111274999941259,33.555942999369961,650,PXN,"Phoenix (Metro Center Transit Station), Arizona",9617 North Metro Parkway West,North Phoenix,Phoenix,AZ,85023,BUS,04
+-77.293045000426389,38.522011000207556,651,QAN,"Quantico, Virginia",550 Railroad Avenue,at Potomac Ave. inside Marine Corp base,Quantico,VA,22134-3444,RAIL,51
+-91.366348000160031,39.957442999994498,652,QCY,"Quincy, Illinois",North 30th St. and Wisman Lane,,Quincy,IL,62301,RAIL,17
+-119.850181999899348,47.239688999447822,653,QUC,"Quincy, Washington",102 B St NE,Kissel's Variety Store,Quincy,WA,98848-1117,BUS,53
+-104.437523000885733,36.900749000466078,654,RAT,"Raton, New Mexico",201 South First Street,(At Cook Ave),Raton,NM,87740-3903,RAIL,35
+-122.210967999773345,40.186008000269055,656,RBF,"Red Bluff, California",228 S. Main Street,Amtrak Thruway Bus Stop at Taco Bell,Red Bluff,CA,96080-3802,BUS,06
+-88.979897000246353,42.268139000314648,657,RCK,"Rockford, Illinois",7559 Walton St.,Van Galder Bus Station,Rockford,IL,61108-4606,BUS,17
+-122.391921999700514,40.582832000496467,658,RDD,"Redding (Amtrak Station), California",1620 Yuba Street,,Redding,CA,96001-1712,RAIL,06
+-121.162910782106849,44.253870582061779,659,RDM,"Redmond Airport, Oregon",2300 Redmond Airport Way,Redmond Airport,Redmond,OR,97756,BUS,41
+-122.392507434970128,40.582957179830032,660,RDR,"Redding (RABA Transit Center), California",1530 Yuba Street,,Redding,CA,96001-1008,BUS,06
+-124.099960000053954,40.484577000228455,661,RDS,"Rio Dell-Scotia, California",100 Main Street,Scotia Inn,Scotia,CA,95565,BUS,06
+-92.541839999816091,44.56454099976736,662,RDW,"Red Wing, Minnesota",420 Levee Street,,Red Wing,MN,55066,RAIL,27
+-121.185799000323584,44.247939999231619,663,RED,"Redmond, Oregon",2456 South Highway 97,McDonald's Restaurant,Redmond,OR,97756,BUS,41
+-85.510071000276412,43.874599000043872,664,REE,"Reed City, Michigan",US 10 & 220th Ave.,McDonald's Restaurant,Reed City,MI,49677-1119,BUS,26
+-87.154479999952002,40.943039000149781,665,REN,"Rensselaer, Indiana",619 North Cullen Street,,Rensselaer,IN,47978,RAIL,18
+-78.644484999383167,35.773749999562881,666,RGH,"Raleigh, North Carolina",320 West Cabarrus Street,,Raleigh,NC,27601,RAIL,37
+-120.641434999625517,47.60528999963384,862,LWA,"Leavenworth, WA",11645 North Rd,Icicle Station,Leavenworth,WA,98826,RAIL,53
+-76.214580716926491,43.072671356997603,863,NYF,"Syracuse, NY",581 State Fair Blvd,Gate 11,Syracuse,NY,13209,RAIL,36
+-75.102509357620704,38.336129945740481,864,OCM,"Ocean City, MD",12848 Ocean Gateway,West Ocean City Park,Ocean City,MD,21842,BUS,24
+-116.399662615936961,33.724891563494907,865,PDC,"Palm Desert, CA",44449 Towne Center Way,Sunline Transit Stop,Palm Desert,CA,92260,BUS,06
+-89.164823999927592,44.826980000027049,866,WIT,"Wittenberg, WI",505 Grand Avenue,Wittenberg Shell,Wittenberg,WI,54499,BUS,55
+-77.87345600958713,34.250526564749237,867,WMN,"Wilmington, NC",505 Cando St,WAAVE Forden Station Transit Center,Wilmington,NC,28405,BUS,37
+-77.405580000016926,39.411855000407968,868,FRC,"Frederick, MD",100 South East Street,Transit Center,Frederick,MD,21704,RAIL,24
+-77.298790000058432,38.797270999956709,869,BCV,"Burke Centre, VA",10399 Premier Court,Virginia Railway Express Station,Burke Centre,VA,22015,RAIL,51
+-117.318743000289203,33.1092479997954,870,POI,"Carlsbad Poinsettia, CA",6511 Avenida Encinas,Station,Carlsbad Poinsettia,CA,92009,RAIL,06
+-117.35072999958976,33.160988999942447,871,CBV,"Carlsbad Village, CA",2775 State Street,Station,Carlsbad Village,CA,92008,RAIL,06
+-117.293203999764728,33.04710900038009,872,ENC,"Encinitas, CA",25 East D Street,Station,Encinitas,CA,92024,RAIL,06
+-117.224891999865861,32.90268399966692,873,SRB,"Sorrento Valley, CA",11170 Sorrento Valley Road,Station,Sorrento Valley,CA,92121,RAIL,06
+-121.263657999816814,37.798360000014043,874,LTM,"Manteca, CA",17800 Shideler Parkway,Station,Lathrop-Manteca,CA,95330,RAIL,06
+-121.882638999789947,37.658152000414532,875,PLS,"Pleasanton, CA",4950 Pleasanton Avenue,Station,Pleasanton,CA,94566,RAIL,06
+-121.433970000015449,37.696211000037692,876,TRC,"Tracy, CA",4800 Tracy Boulevard,Station,Tracy,CA,95377,RAIL,06
+-121.718346000167742,37.696985999804099,877,VAS,"Livermore, CA",575 South Vasco Road,Vasco Road Station,Livermore,CA,94550,RAIL,06
+-90.314667000281815,44.928553000420663,878,ABB,"Abbotsford-Colby, WI",1210 North Division St.,Shell Station,Abbotsford-Colby,WI,54421,BUS,55
+-105.884389000052295,37.471658000416426,879,AMC,"Alamosa, CO",111 Pike Avenue,San Luis Valley Apartments,Alamosa,CO,81101,BUS,08
+-110.965934999500575,32.223061000065172,453,TUS,"Tucson, Arizona",400 North Toole Avenue,,Tucson,AZ,85701-1815,RAIL,04
+-94.042442000298024,33.420074000214981,455,TXA,"Texarkana, Arkansas",100 East Front Street,,Texarkana,AR,71854-5907,RAIL,05
+-78.241051000103539,40.670321999860448,456,TYR,"Tyrone, Pennsylvania",Pennsylvania Ave and West 10th St.,,Tyrone,PA,16686,RAIL,42
+-75.223937999339171,43.104073000168853,457,UCA,"Utica, New York",321 Main St.,Boehlert Transportation Center,Utica,NY,13501,RAIL,36
+-123.195701999747484,39.151530999655961,458,UKH,"Ukiah, California",711 East Perkins Street,Burger King,Ukiah,CA,95482,BUS,06
+-80.223715543837216,36.088467093081931,459,UWS,"Winston-Salem State Univ, Winston-Salem, North Car","601 South Martin Luther King, Jr. Dr",Bus stop in front of nursing bldg.,Winston-Salem,NC,27110-0001,BUS,37
+-75.976509000390024,36.847030999980689,460,VAB,"Virginia Beach, Virginia",19th St. and Pacific Ave.,,Virginia Beach,VA,23451,BUS,51
+-117.246880000311705,43.981918000115684,462,VAE,"Vale, Oregon",151 Smith Street North,Fletcher Chevron Station,Vale,OR,97918-1163,BUS,41
+-106.344299000198646,39.642676999543937,463,VAI,"Vail, Colorado",241 South Frontage Road East,,Vail,CO,81657,BUS,08
+-122.256222815930187,38.132982265918884,464,VAL,"Vallejo, California",4355 Sonoma Blvd.,Denny's Restaurant,Vallejo,CA,94589,BUS,06
+-122.684722999866494,45.629803000008508,465,VAN,"Vancouver, Washington, United States",1301 West 11th Street,,Vancouver,WA,98660,RAIL,53
+-119.296576999329034,34.276751999805015,467,VEC,"Ventura, California",Harbor Blvd and Figueroa Street,,Ventura,CA,93003,RAIL,06
+-119.277710000715899,36.327273999995157,468,VIS,"Visalia, California",425 E. Oak Street,Visalia Transit Center,Visalia,CA,93291-5053,BUS,06
+-122.227942999269942,38.134326999691325,469,VMW,"Marine World (Seasonal), Vallejo, California",Highway 37 and Fairgrounds Drive,See VAL for daily Vallejo bus stop,Vallejo,CA,94589,BUS,06
+-118.447922000100164,34.21097900008084,470,VNC,"Van Nuys (Amtrak), California",7724 Van Nuys Blvd.,,Van Nuys,CA,91405,RAIL,06
+-117.292129999699682,34.536628999728634,472,VRV,"Victorville, California",16858 D St.,"train on east side, bus on west side",Victorville,CA,92392,RAIL,06
+-72.752471999982788,44.335072000072785,473,WAB,"Waterbury, Vermont",US Hwy 2 and Park Row,,Waterbury,VT,05676,RAIL,50
+-119.331352000394475,35.594273000298756,474,WAC,"Wasco, California",700 G Street,,Wasco,CA,93280,RAIL,06
+-91.012222000344991,38.561374999756481,475,WAH,"Washington, Missouri",301 West Front St.,,Washington,MO,63090-2118,RAIL,29
+-93.740455999244944,38.763171999488236,476,WAR,"Warrensburg, Missouri",100 South Holden St.,,Warrensburg,MO,64093-2331,RAIL,29
+-77.006370999521948,38.89730499952617,477,WAS,"Washington, District of Columbia",50 Massachusetts Ave NE,Union Station,Washington,DC,20002-4214,RAIL,11
+-89.11887241063323,44.356113026095329,478,WAU,"Waupaca, Wisconsin",1222 West Fulton St.,Waupaca Mobil Travel Center,Waupaca,WI,54981-8236,BUS,55
+-76.708054000391769,37.275725999555277,479,WBG,"Williamsburg, Virginia",468 North Boundary Street,,Williamsburg,VA,23185-3650,RAIL,51
+-122.819419957564946,42.456943480057589,480,WCT,"White City, Oregon",7455 Highway 62,at Highway 140,White City,OR,97503,BUS,41
+-77.24827599983746,38.65744399994071,481,WDB,"Woodbridge, Virginia",1040 Express Way,,Woodbridge,VA,22194,RAIL,51
+-89.775078000349424,43.624785999274479,482,WDL,"Wisconsin Dells, Wisconsin",Superior and La Crosse Sts.,,Wisconsin Dells,WI,53965,RAIL,55
+-82.167418999587142,29.790170999891757,483,WDO,"Waldo, Florida",14648 NE 147th Avenue,Intersection Hwy 301 & SR24,Waldo,FL,32694-0802,BUS,12
+-69.385610017788053,44.101439995459486,484,WDR,"Waldoboro, Maine",US hwy 1 and hwy 32,Clipper Mart/Texaco Station,Waldoboro,ME,04572,BUS,23
+-70.609630999870717,43.321826000069905,485,WEM,"Wells, Maine",696 Sanford Road,,Wells,ME,04090,RAIL,23
+-120.305840000015962,47.421623000501143,486,WEN,"Wenatchee, Washington",Kittitas & South Columbia Sts.,Bus stop is across the street from train platform,Wenatchee,WA,98801-6008,RAIL,53
+-72.825355999379838,41.457068999534727,487,WFD,"Wallingford, Connecticut",37 Hall Avenue,,Wallingford,CT,06492,RAIL,09
+-114.33515899978795,48.413570000355264,488,WFH,"Whitefish, Montana",500 Depot Street,,Whitefish,MT,59937-2567,RAIL,30
+-113.971642000377983,48.498733999474553,489,WGL,"West Glacier, Montana",Hwy 2 and Going-to-the-Sun Rd.,,West Glacier,MT,59936,RAIL,30
+-73.403107000087971,43.554965999980993,490,WHL,"Whitehall, New York",Main St. and Saunders St.,,Whitehall,NY,12887,RAIL,36
+-104.967899945625959,42.046620271008749,491,WHT,"Wheatland, Wyoming",1857 West Mariposa Parkway,Conoco Gas Station,Wheatland,WY,82201-3132,BUS,56
+-120.966316000682866,45.657309999556901,492,WIH,"Wishram, Washington",1 Railroad Avenue,,Wishram,WA,98673,RAIL,53
+-75.552177000568065,39.736915999873531,493,WIL,"Wilmington, Delaware",100 South French Street,"(at Martin Luther King, Jr. Blvd. & French st.)",Wilmington,DE,19801-5036,RAIL,10
+-91.641747000023997,44.044937000542177,494,WIN,"Winona, Minnesota",65 East Mark Street,,Winona,MN,55987-3611,RAIL,27
+-105.81736800033292,39.948696000420114,495,WIP,"Winter Park/Fraser, Colorado",205 Fraser Avenue,,Fraser,CO,80442,RAIL,08
+-77.908295000114151,35.72306799968851,496,WLN,"Wilson, North Carolina",401 East Nash Street,,Wilson,NC,27893,RAIL,37
+-110.693085000272504,35.020908000403949,497,WLO,"Winslow, Arizona",501 East Second Street,,Winslow,AZ,86047,RAIL,04
+-71.830687999951181,41.381015999688714,498,WLY,"Westerly, Rhode Island",14 Railroad Avenue,,Westerly,RI,02891,RAIL,44
+-112.191460000578502,35.249149000126295,499,WMA,"Williams, Arizona",233 North Grand Canyon Blvd,Grand Canyon Railway Depot,Williams,AZ,86046-2563,BUS,04
+-112.188667000381713,35.252391999491238,500,WMJ,"Williams Junction, Arizona",No address.  Reserve from WMA.,Free shuttle provided WMA-WMJ.,Williams Junction,AZ,86046,RAIL,04
+-72.643761000469738,41.851916999470006,501,WND,"Windsor, Connecticut",41 Central St.,,Windsor,CT,06095-2908,RAIL,09
+-84.928084999423163,45.273730999486077,502,WNK,"Walloon Lake, Michigan",Hwy 131 & Hwy 75,,Walloon Lake,MI,49796,BUS,26
+-72.625886662739276,41.913552956803585,503,WNL,"Windsor Locks, Connecticut",South Main St at Stanton Road,,Windsor Locks,CT,06096,RAIL,09
+-72.385452000009764,43.480441999598668,504,WNM,"Windsor, Vermont",26 Depot Ave,,Windsor,VT,05089-1407,RAIL,50
+-117.73156700001698,40.969542999310022,505,WNN,"Winnemucca, Nevada",209 Railroad Street,,Winnemucca,NV,89445,RAIL,32
+-90.956160999730344,36.068317000229456,506,WNR,"Walnut Ridge, Arkansas",109 Southwest Front Street,,Walnut Ridge,AR,72476,RAIL,05
+-80.246208000099102,36.09293400050376,507,WNS,"Winston-Salem, North Carolina",100 West 5th Street,"City Transfer Center, 5th & Trade Sts",Winston-Salem,NC,27101,BUS,37
+-123.902224489768344,46.159050302729327,508,WNT,"Warrenton, Oregon",695 S. Highway 101,Fred Meyers Shopping Center,Warrenton,OR,97146,BUS,41
+-71.14011580569985,42.513972414695218,509,WOB,"Woburn, Massachusetts",100 Atlantic Ave.,Woburn-Anderson Regional Trans Center,Woburn,MA,01801-1081,RAIL,25
+-71.793327000140891,42.261379000640432,510,WOR,"Worcester, Massachusetts",2 Washington Square,Worcester Union Station,Worcester,MA,01604,RAIL,25
+-80.062462000021242,26.71234099963749,511,WPB,"West Palm Beach, Florida",201 South Tamarind Ave,,West Palm Beach,FL,33402,RAIL,12
+-81.351981999769464,28.597131999542171,512,WPK,"Winter Park, Florida",150 West Morse Blvd,,Winter Park,FL,32789-3825,RAIL,12
+-105.640358000621177,48.090782000488957,513,WPT,"Wolf Point, Montana",320 Front Street,,Wolf Point,MT,59201-1413,RAIL,30
+-72.317954999923245,43.648556000059386,514,WRJ,"White River Jct., Vermont",102 Railroad Row,,White River Jct.,VT,05001-7042,RAIL,50
+-72.608681000627655,44.257361999356817,516,MPR,"Montpelier, Vermont",Junction Rd and Short Rd,,Montpelier,VT,05602,RAIL,50
+-77.961502000416942,39.458271000506329,517,MRB,"Martinsburg, West Virginia",229 East Martin St.,,Martinsburg,WV,25401,RAIL,54
+-112.047928000576746,33.058437000267418,518,MRC,"Maricopa, Arizona",19427 N. John Wayne Parkway,P.O. Box 897,Maricopa,AZ,85239,RAIL,04
+-119.96954299950977,37.489658000416455,519,MRP,"Mariposa, California",5158 State Highway 140,Visitor Center Stop Hwy 140 at Hwy 49,Mariposa,CA,95338,BUS,06
+-121.597189379985878,39.143575292865535,520,MRV,"Marysville, California",I Street between 8th and 9th,Yuba-Sutter Transit Shelter,Marysville,CA,95901-5211,BUS,06
+-121.892562999682639,36.598010999807855,521,MRY,"Monterey (Transit Plaza), California",500 Tyler Street,Corner of East Pearl Street and Tyler Street,Monterey,CA,93940,BUS,06
+-89.39875799958196,43.075871000046675,522,MSN,"Madison, Wisconsin",800 Langdon St.,Univ of Wisconsin Memorial Union,Madison,WI,53706-1419,BUS,55
+-93.186325000498357,44.963329000632939,523,MSP,"St. Paul/Minneapolis, Minnesota",Midway Station,730 Transfer Road,St. Paul,MN,55114-1498,RAIL,27
+-77.473846000492472,38.75003400066862,524,MSS,"Manassas, Virginia",9431 West Street,,Manassas,VA,20110,RAIL,51
+-91.55123899997983,40.971305999672211,525,MTP,"Mt. Pleasant, Iowa",418 North Adams Street,,Mt. Pleasant,IA,52641,RAIL,19
+-122.136352999691155,38.019733000477629,527,MTZ,"Martinez, California",601 Marina Vista Ave.,,Martinez,CA,94553-1132,RAIL,06
+-92.812355000183061,34.365916999969613,528,MVN,"Malvern, Arkansas",200 East First St.,,Malvern,AR,72104-3922,RAIL,05
+-122.329780999293632,48.43558900043206,529,MVW,"Mount Vernon, Washington",105 East Kincaid St.,Skagit Transportation Center,Mount Vernon,WA,98273-4327,RAIL,53
+-121.901420128436143,36.617919336907903,530,MYA,"Monterey (Aquarium), California",886 Cannery Row,Monterey Bay Aquarium (In Front of),Monterey,CA,94940-1023,BUS,06
+-121.876788462017885,36.593166775526299,531,MYH,"Monterey (Hyatt Regency), California",1 Old Golf Course Road,Hyatt Regency Hotel,Monterey,CA,93940,BUS,06
+-121.894673951341758,36.600670849080473,532,MYM,"Monterey (Marriott), California",350 Calle Principal,Marriott Hotel,Monterey,CA,93940,BUS,06
+-71.959784999777867,41.34920100022606,533,MYS,"Mystic, Connecticut",2 Roosevelt Avenue,U.S.Route 1,Mystic,CT,06355,RAIL,09
+-121.89305447558354,36.595747363949727,534,MYT,"Monterey (Travelodge), California",675 Munras Street,Casa Munras Garden Hotel,Monterey,CA,93940,BUS,06
+-116.557158999987848,43.576321000014218,535,NAM,"Nampa, Idaho",3116 Garrity Blvd,Suite 11,Nampa,ID,83651,BUS,16
+-74.448502000566862,40.495353999887243,537,NBK,"New Brunswick, New Jersey",French and Albany Streets,New Jersey Transit Station,New Brunswick,NJ,08901,RAIL,34
+-86.739875999977357,41.787949000246215,538,NBM,"New Buffalo, Michigan",517 South Whittaker Street,,New Buffalo,MI,49117,RAIL,26
+-89.262962000196126,36.112449999368039,539,NBN,"Newbern-Dyersburg, Tennessee",108 Jefferson St,,Newbern,TN,38059,RAIL,47
+-94.639670999916689,31.618300999391636,540,NCG,"Nacogdoches, Texas",University Drive & Starr Road,Mobil Oil Convenience Store,Nacogdoches,TX,75963,BUS,48
+-123.760241106142075,45.902500334822662,541,NCM,"Necanicum Junction, Oregon",Hwy 26 and Hwy 53,Bus stop is 100 ft east of junction,Necanicum Junction,OR,97301,BUS,41
+-76.864432999283451,38.953330999426157,542,NCR,"New Carrollton, Maryland",4300 Garden City Drive,,New Carrollton,MD,20785-2209,RAIL,24
+-70.918962251506684,42.815954655682845,543,NBT,"Newburyport, Massachusetts",90 Storey Avenue,,Newburyport,MA,01950,BUS,25
+-70.80803224948869,43.062863264428188,544,PTS,"Portsmouth, New Hampshire",185 Grafton Drive,Portsmouth Transportation Center,Portsmouth,NH,03801,BUS,33
+-111.759427544045877,34.871085784081743,545,SDC,"Sedona (Center Bus Stop), Arizona",300 North Highway 89A,Canyon Breeze Restaurant,Sedona,AZ,86336,BUS,04
+-114.604874000134942,34.840279000175769,547,NDL,"Needles, California",900 Front Street,,Needles,CA,92363,RAIL,06
+-97.344604000773984,38.047309999656818,548,NEW,"Newton, Kansas",414 North Main St.,Newton Station,Newton,KS,67114-2203,RAIL,20
+-76.291122515391748,36.853515441984086,549,NFK,"Norfolk, Virginia",215 W York Street,Stop on West Bute Street at York Street Garage,Norfolk,VA,23510,BUS,51
+-79.030662999697654,43.113601999832497,550,NFL,"Niagara Falls, New York, United States",27th St. and Lockport Rd.,,Niagara Falls,NY,14305,RAIL,36
+-118.526752309671338,34.378984954192333,552,NHL,"Santa Clarita-Newhall, California",24300 Railroad Avenue,Metrolink Station,Santa Clarita,CA,91321-0000,RAIL,06
+-71.633326904413082,43.619875482367661,553,NHN,"New Hampton, New Hampshire",325 Route 104,Munce's Konvenience Store/CITGO,New Hampton,NH,03256-4219,BUS,33
+-72.925994999869317,41.298668000028215,554,NHV,"New Haven, Connecticut",50 Union Avenue,Union Station,New Haven,CT,06519-1754,RAIL,09
+-91.823516999809669,30.008487999721467,555,NIB,"New Iberia, Louisiana",West Washington St.,"at railroad tracks, downtown",New Iberia,LA,70560,RAIL,22
+-72.09388699928553,41.354332000321619,556,NLC,"New London, Connecticut",27 Water Street,,New London,CT,06320,RAIL,09
+-86.253616000577949,41.836575000635833,557,NLS,"Niles, Michigan",598 Dey St.,,Niles,MI,49120-1745,RAIL,26
+-90.079596999501916,29.946796000235281,560,NOL,"New Orleans, Louisiana",1001 Loyola Avenue,NEW ORLEANS UNION PASSENGER TERMINAL,New Orleans,LA,70113,UNK,22
+-97.442169000698811,35.219627000285868,561,NOR,"Norman, Oklahoma",200 South Jones Avenue,,Norman,OK,73069-6023,RAIL,40
+-76.45104999985756,37.019355999479842,562,NPN,"Newport News, Virginia",9304 Warwick Boulevard,,Newport News,VA,23601-4535,RAIL,51
+-124.059525000578276,44.626014999992321,563,NPO,"Newport, Oregon",956 SW 10th Street,Greyhound Station,Newport,OR,97365,BUS,41
+-88.145049999258049,41.779507000347849,564,NPV,"Naperville, Illinois",105 E. Fourth Ave.,Corner of 4th Ave. & Ellsworth St.,Naperville,IL,60540,RAIL,17
+-75.753348999356774,39.67032199916099,566,NRK,"Newark, Delaware",429 South College Ave.,,Newark,DE,19711-5105,RAIL,10
+-73.782005000130596,40.913921000054188,567,NRO,"New Rochelle, New York",1 Railroad Plaza,Metro-North Station,New Rochelle,NY,10801-6353,RAIL,36
+-78.705933663907444,35.794048809704861,568,NSF,"North Carolina State Fair, North Carolina",1025 Blue Ridge Blvd.,at the railroad crossing,Raleigh,NC,27607-3902,RAIL,37
+-74.164885999489229,40.734279999522414,569,NWK,"Newark (Penn Station), New Jersey",1 Raymond Plaza West,Market Street,Newark,NJ,07102-5405,RAIL,34
+-73.991867000361765,40.749680000131946,570,NYP,"New York (Penn Station), New York",8th Ave 31st  Street / 8th Ave 33rd Street,Pennsylvania Station,New York,NY,10001,RAIL,36
+-122.197740496826441,37.751881256914544,571,OAC,"Coliseum/Oakland Airport, Oakland, California",700 73rd Avenue,Across San Leandro Blvd. from BART station,Oakland,CA,94621-3316,RAIL,06
+-82.136390999544972,29.19222800062181,572,OCA,"Ocala, Florida",531 Northeast First Ave,,Ocala,FL,34470-6647,BUS,12
+-111.978905000265513,41.221572999794148,573,OGD,"Ogden, Utah",2393 Wall Avenue,Greyhound Bus Station,Ogden,UT,84401,BUS,49
+-119.582265484464529,48.362645885898985,574,OGW,"Okanagan,  Washington",310 2nd Ave South,Food Depot,Okanogan,WA,98840,BUS,53
+-97.512634000058995,35.466145000191659,575,OKC,"Oklahoma City, Oklahoma",100 South E.K. Gaylord Blvd.,,Oklahoma City,OK,73102,RAIL,40
+-80.830306999468405,27.251219000056835,576,OKE,"Okeechobee, Florida",801 North Parrott Avenue,,Okeechobee,FL,34972-2130,RAIL,12
+-122.270743999935632,37.794646999659335,577,OKJ,"Oakland, California",245 Second Street,,Oakland,CA,94607,RAIL,06
+-72.708351000498226,43.400619999513424,579,OKO,"Okemo, Vermont",77 Okemo Ridge Rd,The Inn at Jackson Gore,Ludlow,VT,05149-9692,BUS,50
+-117.199988125751361,32.755454962276758,580,OLT,"San Diego (Old Town), California",4005 Taylor Street,,San Diego,CA,92110,RAIL,06
+-122.795806999993033,46.990662000750774,581,OLW,"Olympia/Lacey, Washington",6600 Yelm Highway S.E.,,Lacey,WA,98513-6481,RAIL,53
+-95.927421999925343,41.250168000053236,582,OMA,"Omaha, Nebraska",1003 S. 9th Street,,Omaha,NE,68108,RAIL,31
+-119.519487672318178,48.416285380965633,583,OMW,"Omak, Washington",800 East Riverside Drive,Shell Station/Food Mart,Omak,WA,98841-9580,BUS,53
+-117.647857999646931,34.061706999778266,584,ONA,"Ontario, California",228 South Plum Street,Amtrak Passenger Platform,Ontario,CA,91764,RAIL,06
+-116.957066353729203,44.027170344935541,585,ONT,"Ontario, Oregon",653 East Idaho Avenue,Pilot Truck Stop,Ontario,OR,97914,BUS,41
+-70.37484799973538,43.515784000731117,586,ORB,"Old Orchard Beach, Maine (Seasonal)",11 First Street,Chamber of Commerce,Old Orchard Beach,ME,04064,RAIL,23
+-122.596408000229019,45.365430999640978,587,ORC,"Oregon City, Oregon",1757 Washington Street,,Oregon City,OR,97045,RAIL,41
+-81.381743999885657,28.525694000277952,588,ORL,"Orlando, Florida",1400 Sligh Blvd.,,Orlando,FL,32806-3905,RAIL,12
+-68.670621171529831,44.903473416764825,589,ORO,"Orono (University of Maine), Maine",Squapan Rd and Gym Dr,Memorial Gymnasium,Orono,ME,04473,BUS,23
+-121.570182999745612,39.51986700006205,590,ORV,"Oroville, California",Hwy 70 and Grand Ave.,Park and Ride,Oroville,CA,95965,BUS,06
+-72.376022000414935,41.300533000597568,591,OSB,"Old Saybrook, Connecticut",455 Boston Post Road,Saybrook Junction Market Place,Old Saybrook,CT,06475-1516,RAIL,09
+-93.765747000024021,41.037445000086734,592,OSC,"Osceola, Iowa",Main & East Clay Streets,,Osceola,IA,50213,RAIL,19
+-117.378623999897627,33.192580999913275,593,OSD,"Oceanside, California",235 South Tremont Street,Oceanside Transit Center,Oceanside,CA,92054,RAIL,06
+-88.537337999848774,44.015017999481131,594,OSH,"Oshkosh, Wisconsin",525 West 20th Ave.,Wittman Field,Oshkosh,WI,54902-6871,BUS,55
+-92.415672000162658,41.019641999278917,595,OTM,"Ottumwa, Iowa",210 West Main Street,,Ottumwa,IA,52501,RAIL,19
+-119.174866000165764,34.198833000242814,596,OXN,"Oxnard, California",201 East Fourth Street,Oxnard Transportation Center,Oxnard,CA,93030,RAIL,06
+-81.640540999467532,29.649308999810557,598,PAK,"Palatka, Florida",220 North 11th Street,,Palatka,FL,32077-3615,RAIL,12
+-75.483748999816441,40.042286000498564,599,PAO,"Paoli, Pennsylvania",13 Lancaster Ave.,Lancaster Pike & North Valley Rd,Paoli,PA,19301,RAIL,42
+-75.921775999862462,39.959182999296047,600,PAR,"Parkesburg, Pennsylvania",W. First and S. Culvert Streets,,Parkesburg,PA,19365,RAIL,42
+-118.140426999506417,34.14333000017939,601,PAS,"Pasadena, California",150 South Los Robles Ave.,Pasadena Hilton Hotel,Pasadena,CA,91101-2441,BUS,06
+-90.393433000232733,36.753985999854081,602,PBF,"Poplar Bluff, Missouri",400 South Main St.,,Poplar Bluff,MO,63901-5855,RAIL,29
+-82.052657999866767,27.012430000444226,604,PCH,"Port Charlotte, Florida",909 King Highway,"Amoco/BP Convenience Store, I-75 exit 170",Port Charlotte,FL,33980-4248,BUS,12
+-89.461677999939695,41.386905999712155,605,PCT,"Princeton, Illinois",107 Bicentennial Dr.,,Princeton,IL,61356,RAIL,17
+-120.801589999978489,38.727833000292776,606,PCV,"Placerville, California",Mosquito Rd. and Clay St.,Placerville Station Transit Center,Placerville,CA,95667,BUS,06
+-122.675025999650131,45.52868299982066,607,PDX,"Portland, Oregon",800 NW Sixth Ave.,Union Station,Portland,OR,97209-3789,RAIL,41
+-118.789504999755877,45.671852000169736,608,PEN,"Pendleton, Oregon",320 SW Court Street,Greyhound Station,Pendleton,OR,97801,BUS,41
+-79.993256000264182,40.445041999988348,609,PGH,"Pittsburgh, Pennsylvania",1100 Liberty Avenue,,Pittsburgh,PA,15222,RAIL,42
+-112.009047999965219,33.43753100035542,610,PHA,"Phoenix (Airport), Arizona",3400 East Sky Harbor Blvd.,"City-to-City Transport Desk, Terminals 2, 3, or 4",Phoenix,AZ,85034,BUS,04
+-112.035990513051729,33.436810378096538,611,PHG,"Phoenix (Greyhound), Arizona",2115 East Buckeye Road,,Phoenix,AZ,85034,BUS,04
+-75.183188999772483,39.954609000604933,612,PHL,"Philadelphia (30th St), Pennsylvania",2955 Market St.,30th Street Station,Philadelphia,PA,19104-2898,RAIL,42
+-75.154365999791025,39.996906000511558,613,PHN,"Philadelphia (North), Pennsylvania",2900 North Broad St.,Broad St. and Glenwood Ave.,Philadelphia,PA,19132-2400,RAIL,42
+-89.688231999207346,40.670082000484001,614,PIA,"Peoria, Illinois",6100 West Everett M. Dirksen Parkway,"Greater Peoria Airport, lower level",Peoria,IL,61607-1220,BUS,17
+-89.680138000068609,30.524711999559202,615,PIC,"Picayune, Mississippi",US 11 at Tate Street,,Picayune,MS,39466,RAIL,28
+-73.256041999938304,42.450401000305988,616,PIT,"Pittsfield, Massachusetts",1 Columbus Avenue,at North St. (US Hwy 7),Pittsfield,MA,01201-5058,RAIL,25
+-74.623230000264243,40.317218999557213,617,PJC,"Princeton Junction, New Jersey",2 Wallace Road,,Princeton Junction,NJ,08550-1008,RAIL,34
+-73.95207199982292,41.920891000219513,667,RHI,"Rhinecliff, New York",Hutton and Charles Sts.,,Rhinecliff,NY,12574,RAIL,36
+-122.3530500003572,37.936084999323327,668,RIC,"Richmond, California",1700 Nevin Avenue,BART Station,Richmond,CA,94802,RAIL,06
+-117.369621000208952,33.976521000543812,669,RIV,"Riverside, California",4066 Vine St.,Metrolink Station,Riverside,CA,92507-4223,RAIL,06
+-85.559653999832165,43.119095000433958,670,RKF,"Rockford, Michigan",US 131 & 10 Mile Road NE,"Amoco Station, Exit 97",Rockford,MI,49341,BUS,26
+-77.146670176887142,39.084517624388923,671,RKV,"Rockville, Maryland",251 Hungerford Drive at Park Rd.,Metro/Amtrak/MARC station,Rockville,MD,20850,RAIL,24
+-121.236274999691432,38.791546000347694,672,RLN,"Rocklin, California",Rocklin Rd. and Railroad Ave.,,Rocklin,CA,95677,RAIL,06
+-77.797897000146406,35.938151999715046,673,RMT,"Rocky Mount, North Carolina",101 Hammond Street,,Rocky Mount,NC,27804-5820,RAIL,37
+-119.811234000648597,39.528640999982201,674,RNO,"Reno, Nevada",280 North Center St.,"East Commercial Row and Center St., by Harrah's Ca",Reno,NV,89501-1425,RAIL,32
+-77.609528000017121,43.162604999621067,675,ROC,"Rochester, New York",320 Central Avenue,,Rochester,NY,14605,RAIL,36
+-69.109182323005768,44.106585880234263,676,ROD,"Rockland, Maine",517A Main St.,Maine State Ferry Terminal,Rockland,ME,04841-3366,BUS,23
+-75.451439000009827,43.199225999480348,677,ROM,"Rome, New York",6599 Martin Street,,Rome,NY,13440,RAIL,36
+-83.147841999508614,42.489043999880721,678,ROY,"Royal Oak, Michigan",202 South Sherman Ave.,,Royal Oak,MI,48069,RAIL,26
+-122.709921799451479,38.348021234192629,679,RPC,"Rohnert Park, California",6335 Redwood Drive,Transit Stop,Rohnert Park,CA,94928,BUS,06
+-72.665848000085077,43.922854999558638,680,RPH,"Randolph, Vermont",South Main and Salisbury Sts.,Depot Square,Randolph,VT,05060,RAIL,50
+-124.111599347032211,43.698410505840229,681,RPT,"Reedsport, Oregon",1401 Highway 101 South,Sunrise Shop-n-Save,Reedsport,OR,97467-1605,BUS,41
+-73.371094000487687,44.994800999566507,683,RSP,"Rouses Point, New York",Delaware and Pratt Sts.,,Rouses Point,NY,12979,RAIL,36
+-121.284461999621556,38.750565000874133,684,RSV,"Roseville, California",201 Pacific Street,,Roseville,CA,95678-2242,RAIL,06
+-71.149939999731146,42.207874000085098,685,RTE,"Westwood, Route 128 Station, Massachusetts",50 University Ave,,Westwood,MA,02090-2307,RAIL,25
+-88.159728320905231,40.310512024810123,686,RTL,"Rantoul, Illinois",West Sangamon and North Kentucky Aves.,,Rantoul,IL,61866,RAIL,17
+-118.36475068999232,47.119020721029528,687,RTZ,"Ritzville, Washington",1503 South Smittys Blvd.,Zips Drive Inn,Ritzville,WA,99169,BUS,53
+-72.982246000252644,43.607258000356467,688,RUD,"Rutland, Vermont",25 Evelyn Street,,Rutland,VT,05701,RAIL,50
+-99.997626999986039,48.369285999649207,689,RUG,"Rugby, North Dakota",201 West Dewey Street,,Rugby,ND,58368,RAIL,38
+-77.429790000408161,37.534060000268823,690,RVM,"Richmond (Main St), Virginia",1500 East Main Street,,Richmond,VA,23219,RAIL,51
+-77.496581999459693,37.614250000237348,691,RVR,"Richmond (Staples Mill Rd), Virginia",7519 Staples Mill Road,,Richmond,VA,23228,RAIL,51
+-73.086411000567182,44.810951000088664,692,SAB,"St. Albans, Vermont",40 Federal Street,,St Albans,VT,05478,RAIL,50
+-121.499550000731915,38.584030000384246,693,SAC,"Sacramento, California",401 I Street,,Sacramento,CA,95814-2308,RAIL,06
+-105.925018000380362,35.685897999692997,694,SAF,"Santa Fe (Lamy Shuttle), New Mexico",No specific stop location,Door to door service,Santa Fe,NM,87501,BUS,35
+-80.457420000532579,35.673419999833186,695,SAL,"Salisbury, North Carolina",Depot and Liberty Sts.,,Salisbury,NC,28144,RAIL,37
+-117.168563999528942,32.716164000268463,696,SAN,"San Diego (Downtown), California",1050 Kettner Blvd,,San Diego,CA,92101-3339,RAIL,06
+-70.447612000793185,43.496303999929694,697,SAO,"Saco, Maine",130 Main Street,Saco Island on Main Street,Saco,ME,04072-3502,RAIL,23
+-119.0694430002942,34.347713000454632,698,SAP,"Santa Paula, California",245 South Palm Avenue,at Highway 126,Santa Paula,CA,93060-3376,BUS,06
+-73.810157999791841,43.082115000207125,699,SAR,"Saratoga Springs, New York",26 Station Lane,,Saratoga Springs,NY,12866,RAIL,36
+-98.478133999784234,29.419104000349364,700,SAS,"San Antonio, Texas",350 Hoefgen Street,,San Antonio,TX,78205,RAIL,48
+-120.415252999526274,34.951129999449961,701,SAT,"Santa Maria, California",205 South Nicholson Avenue,International House of Pancakes,Santa Maria,CA,93455,BUS,06
+-81.144156999945551,32.078505999652236,702,SAV,"Savannah, Georgia",2611 Seaboard Coastline Drive,,Savannah,GA,31401-1634,RAIL,13
+-119.690720000027966,34.413924999738981,703,SBA,"Santa Barbara, California",209 State Street,,Santa Barbara,CA,93101-3833,RAIL,06
+-81.434746000627399,27.497257000310356,705,SBG,"Sebring, Florida",601 East Center St,,Sebring,FL,33870-3513,RAIL,12
+-111.853226000679342,48.505313999841292,706,SBY,"Shelby, Montana",230 W Central Avenue,,Shelby,MT,59474-2050,RAIL,30
+-121.938200216566713,37.351997276553107,708,SCC,"Santa Clara (Caltrain/ACE), California",1001 Railroad Ave.,,Santa Clara,CA,95050-4319,BUS,06
+-94.147789000262094,45.566891000019666,709,SCD,"St. Cloud, Minnesota",555 East St. Germain Street,,St. Cloud,MN,56304-0751,RAIL,27
+-90.812652999935949,29.746907999504629,710,SCH,"Schriever, Louisiana",Hwy 20 and Hwy 24,,Schriever,LA,70395,RAIL,22
+-121.495289217923016,38.57590796937734,711,SCS,"Sacramento (State Capitol), California",1389 10th Street,Drop-Only Bus Stop,Sacramento,CA,95814-4905,BUS,06
+-122.023941000376851,36.9705009993217,712,SCZ,"Santa Cruz (Metro Center), California",920 Pacific Ave,Highway 17 Express - Metro Center Boards Lane 2,Santa Cruz,CA,95060,BUS,06
+-89.78243299958325,30.278232999653255,713,SDL,"Slidell, Louisiana",1827 Front Street,,Slidell,LA,70458,RAIL,22
+-73.942824999673974,42.815265999826067,714,SDY,"Schenectady, New York",332 Erie Blvd.,,Schenectady,NY,12305-1817,RAIL,36
+-122.32842999994449,47.598911000442342,716,SEA,"Seattle (Amtrak), Washington",303 South Jackson Street,King St. Station,Seattle,WA,98104-2868,RAIL,53
+-93.228377999944712,38.711871999892935,717,SED,"Sedalia, Missouri","100 block of Main Street, through parking lot",Temporary entrance due to construction,Sedalia,MO,65301,RAIL,29
+-81.288582000658778,28.807592000370562,718,SFA,"Sanford (Auto Train), Florida",600 South Persimmon Avenue,,Sanford,FL,32771-2385,RAIL,12
+-122.393187999626434,37.795253999772342,719,SFC,"San Francisco (Ferry), California",101 The Embarcadero,at Mission St. and The Embarcadero,San Francisco,CA,94105-1216,BUS,06
+-122.395187000079943,37.793906999708327,720,SFF,"San Francisco (Financial), California",5 Embarcadero Center,Corner of California & Drumm Streets,San Francisco,CA,94111-4800,BUS,06
+-122.401256365388917,37.784153463611517,721,SFM,"San Francisco (Conv Ctr), California",747 Howard St.,4th & Howard Sts. - Moscone Convention Ctr.,San Francisco,CA,94103-3118,BUS,06
+-122.393723000016394,37.777016000488061,722,SFP,"San Francisco (Caltrain), California",700 4th St.,Fourth and Townsend Sts. - Caltrain Station,San Francisco,CA,94107-1617,BUS,06
+-122.406318999921893,37.784760000573613,723,SFS,"San Francisco (Shopping), California",835 Market Street,Westfield San Francisco Centre,San Francisco,CA,94103-1901,BUS,06
+-122.408920000257751,37.808593999813297,724,SFW,"San Francisco (Wharf), California",Beach St. & The Embarcadero,Pier 39 - Fisherman's Wharf,San Francisco,CA,94133,BUS,06
+-93.745003126193296,32.516654351517161,725,SHR,"Shreveport, Louisiana",451 Clyde Fant Parkway,"Eldorado Casino Hotel, bus lobby",Shreveport,LA,71101-3206,BUS,22
+-118.693717999985665,34.269946999854199,726,SIM,"Simi Valley, California",5050 Los Angeles Avenue,Amtrak/Metrolink Station,Simi Valley,CA,93063,RAIL,06
+-121.901206999903081,37.331070000380294,727,SJC,"San Jose, California",65 Cahill Street,,San Jose,CA,95110,RAIL,06
+-86.486748000120087,42.106616999874689,728,SJM,"St. Joseph, Michigan",410 1/2 Vine Street,,St. Joseph,MI,49085,RAIL,26
+-121.284270999806779,37.946011000207534,729,SKN,"Stockton (711-718), California",735 S. San Joaquin St,,Stockton,CA,95203,RAIL,06
+-121.278988999942385,37.956667999728438,730,SKT,"Stockton (ACE, 701-704), California",949 East Channel St.,Robert J. Cabral Station,Stockton,CA,95202,RAIL,06
+-121.359283000210269,47.711525000078723,731,SKW,"Skykomish, Washington",90000 Highway 2,(westbound - Sky Chalet),Skykomish,WA,98288,BUS,53
+-82.718610083988153,41.440752391909427,732,SKY,"Sandusky, Ohio",1200 North Depot St.,at Shelby St.,Sandusky,OH,44870-3165,RAIL,39
+-111.902382000328998,40.762015999738651,733,SLC,"Salt Lake City, Utah",340 South 600 West,,Salt Lake City,UT,84101,RAIL,49
+-119.941162000126155,38.95949599954082,735,SLH,"Stateline Transit Center, California",4114 Lake Tahoe Blvd,Transportation Center,Stateline,CA,96150,BUS,06
+-123.026236999937566,44.932170999991683,736,SLM,"Salem, Oregon",500 13th Street SE,,Salem,OR,97301,RAIL,41
+-120.653946000107794,35.277416000548044,737,SLO,"San Luis Obispo, California",1011 Railroad Avenue,,San Luis Obispo,CA,93401-4449,RAIL,06
+-120.65184799958547,35.292580000166936,738,SLP,"San Luis Obispo (Cal Poly), California",Grand Avenue & Deer Road,Vista Grande Restaurant,San Luis Obispo,CA,93401,BUS,06
+-120.002220000052944,38.91470699982824,740,SLT,"South Lake Tahoe, California",1000 Emerald Bay Road,South Y Transit Center,South Lake Tahoe,CA,96151,BUS,06
+-120.137305999971886,34.595947000353817,741,SLV,"Solvang, California",1630 Mission Drive,,Solvang,CA,93463,BUS,06
+-75.606455986454591,38.369463892944339,742,SLY,"Salisbury, Maryland",350 Cypress St.,Greyhound Station,Salisbury,MD,21801-4036,BUS,24
+-97.935676999793657,29.879232000656373,743,SMC,"San Marcos, Texas",338 South Guadalupe St.,San Marcos Intermodal Station,San Marcos,TX,78666-6310,RAIL,48
+-89.312492000005761,43.047999999900128,744,SMD,"Madison (South), Wisconsin",Hwy 51 & East Broadway Ave.,Dutch Mill Park and Ride,Madison,WI,53716,BUS,55
+-87.813178999611125,41.792163999469039,745,SMT,"Summit, Illinois",Archer Ave. and South Center Ave.,,Summit,IL,60501,RAIL,17
+-117.855041999588593,33.753165999511339,746,SNA,"Santa Ana, California",1000 East Santa Ana Boulevard,Santa Ana Regional Transportation Center,Santa Ana,CA,92701,RAIL,06
+-117.306931000565214,34.104362000006347,747,SNB,"San Bernardino (Amtrak Station), California",1170 West Third Street (all Trains and Buses),"** Night Buses will drop at McDonalds, 699 2nd St.",San Bernardino,CA,92410,RAIL,06
+-117.663260999495492,33.501483999786785,748,SNC,"San Juan Capistrano, California",26701 Verdugo Street,,San Juan Capistrano,CA,92675,RAIL,06
+-102.399054999888278,30.140098999469274,749,SND,"Sanderson, Texas",201 West Downey Street,,Sanderson,TX,79848,RAIL,48
+-117.619011000357375,33.419159000287664,750,SNP,"San Clemente Pier, California",Avenida del Mar and Avenida Victoria,(615 Avenida Victoria) at the San Clemente Pier,San Clemente,CA,92672,RAIL,06
+-121.656188999922392,36.67936299940294,751,SNS,"Salinas, California",Station Place and Railroad Avenue,(30 Station Place),Salinas,CA,93901-1432,RAIL,06
+-86.289146000487506,41.679008000019223,752,SOB,"South Bend, Indiana",2702 West Washington Avenue,,South Bend,IN,46628,RAIL,18
+-120.370789000412003,39.323589000332163,753,SOD,"Soda Springs, California",22002 Donner Pass Rd.,Donner Summit Lodge,Soda Springs,CA,95728,BUS,06
+-117.270072999669139,32.992054000291944,754,SOL,"Solana Beach, California",105 North Cedros Avenue,Solana Beach Transit Center,Solana Beach,CA,92075,RAIL,06
+-79.391899000038791,35.174099000668377,755,SOP,"Southern Pines, North Carolina",235 Northwest Broad Street,,Southern Pines,NC,28387,RAIL,37
+-81.935737999509058,34.95376999978572,756,SPB,"Spartanburg, South Carolina",290 Magnolia St,,Spartanburg,SC,29303,RAIL,45
+-118.276603999375027,33.748416999944652,757,SPD,"San Pedro (Catalina Terminal), California","1st Stop:  N.Front & Swinford, Berth 95, Catalina",Catalina Terminal (Air and Sea),San Pedro,CA,90731,BUS,06
+-72.593589999878532,42.105961000200068,758,SPG,"Springfield, Massachusetts",66 Lyman St.,,Springfield,MA,01103,RAIL,25
+-89.65167199946319,39.801585999993961,759,SPI,"Springfield, Illinois",East Washington and North Third Sts.,,Springfield,IL,62701-1106,RAIL,17
+-117.413062999857516,47.656986000403663,760,SPK,"Spokane, Washington",221 W. 1st Avenue,Spokane Train and Bus Station,Spokane,WA,99201-3704,RAIL,53
+-94.79511300056447,46.35458800033598,761,SPL,"Staples, Minnesota",First & Fourth Aves,,Staples,MN,56479,RAIL,27
+-82.964287000144907,38.720912999535358,762,SPM,"South Shore-South Portsmouth, Kentucky",Main St & US 23,,South Shore,KY,41174,RAIL,21
+-118.292504773976077,33.735954510692181,763,SPO,"San Pedro (Downtown), California",931 S. Gaffey St.,,San Pedro,CA,90731,BUS,06
+-119.75541800054026,39.533648999801528,764,SPR,"Sparks, Nevada (Train Stop)",Nugget Ave. east of 11th St.,SP/UP Rail Yard,Sparks,NV,89431,RAIL,32
+-116.608223000391149,48.251758999178548,765,SPT,"Sandpoint, Idaho",450 Railroad Avenue,Former Northern Pacific Station,Sandpoint,ID,83864,RAIL,16
+-119.755521414481677,39.533335644524414,766,SPX,"Sparks, Nevada (Thruway Buses)",1100 Nugget Avenue,John Ascuaga's Nugget Hotel and Casino,Sparks,NV,89431,BUS,32
+-82.531272230329137,27.336577884961457,768,SRA,"Sarasota, Florida",1993 Main Street,"US 301 and Main Street, Hollywood 20 complex",Sarasota,FL,34231,BUS,12
+-122.717193999903145,38.436726000004967,769,SRC,"Santa Rosa, California",175 Railroad Street,Courtyard Marriott Hotel,Santa Rosa,CA,95401,BUS,06
+-68.908818427128665,44.461524881568096,770,SRT,"Searsport, Maine",161 East Main St.,Steamboat Mobil,Searsport,ME,04974-3322,BUS,23
+-123.923638950277279,45.986590150415168,771,SSD,"Seaside, Oregon",1215 S. Holladay Drive,"Del's Chevron, South Holladay Dr at US 101/26",Seaside,OR,97301,BUS,41
+-78.281441000201937,35.532203999614921,772,SSM,"Selma, North Carolina",500 East Railroad Street,,Selma,NC,27576,RAIL,37
+-121.144379000390529,47.713772000277629,773,SSW,"Stevens Pass, Washington",US Highway 2 at Summit Parking Lot,"WB stop on north side, EB stop on south side US2",Stevens Pass,WA,98826,BUS,53
+-79.072723000366125,38.147780999593522,774,STA,"Staunton, Virginia",1 Middlebrook Avenue,,Staunton,VA,24401,RAIL,51
+-113.584807888872945,37.087825289905254,775,STG,"St. George, Utah",1235 South Bluff St.,McDonalds Restaurant,St. George,UT,84770-5249,BUS,49
+-84.730407999929241,45.869964999984802,776,STI,"St. Ignace, Michigan",448 North State St.,St. Ignace Bus Station,St. Ignace,MI,49781-1427,BUS,26
+-90.205452000009757,38.623947000253906,777,STL,"St. Louis, Missouri",551 South 16th St.,,St. Louis,MO,63103,RAIL,29
+-73.542679000035776,41.046181000053139,778,STM,"Stamford, Connecticut",Washington Blvd and South State St.,Amtrak/Metro-North Station,Stamford,CT,06902,RAIL,09
+-102.390778000404339,48.319362999702719,779,STN,"Stanley, North Dakota",Main Street & Railroad Avenue,,Stanley,ND,58784,RAIL,38
+-82.684677000343243,27.839639999986048,780,STP,"St Petersburg-Pinellas Park-Clearwater, Florida",5251 110th Avenue North,"Pinellas Park Square, Suite 101",Clearwater,FL,33760-4846,BUS,12
+-122.039542999509763,38.243465000009792,781,SUI,"Suisun, California",177 Main Street,,Suisun,CA,94585,RAIL,06
+-121.463157999741838,43.856255000368037,782,SUN,"Sunriver, Oregon",One Center Drive,Sunriver Lodge and Resort,Sunriver,OR,97707,BUS,41
+-117.190563231607825,33.710635076047993,783,SUT,"Sun City, California",26908 Cherry Hills Blvd.,In front of CL Travel Agency,Sun City,CA,92586,BUS,06
+-122.352800362047049,47.613895394656765,785,SVF,"Seattle (Ferry - Pier 69), Washington",2701 Alaskan Way,"Victoria Clipper Ferry, Pier 69",Seattle,WA,98121,OTHER,53
+-89.57498198732884,44.532761018106555,786,SVP,"Stevens Point, Wisconsin",200 Division St.,Olympic Family Restaurant,Stevens Point,WI,54481-1843,BUS,55
+-87.905601958463592,42.718794023325586,787,SVT,"Sturtevant, Wisconsin",9900 East Exploration Court,,Sturtevant,WI,53177,RAIL,55
+-122.02801125191769,37.04773811582146,788,SVY,"Scotts Valley, California",246 Kings Village Rd.,Scotts Valley Transit Center,Scotts Valley,CA,95066-4029,BUS,06
+-76.152167999853248,43.08637200046752,789,SYR,"Syracuse, New York",131 Alliance Bank Parkway,Regional Transportation Center,Syracuse,NY,13208,RAIL,36
+-122.418472000082716,47.241828999209019,790,TAC,"Tacoma, Washington",1001 Puyallup Avenue,,Tacoma,WA,98421-2122,RAIL,53
+-97.40879799962795,30.567435999371924,791,TAY,"Taylor, Texas",118 East First St.,Union Pacific Yard Office,Taylor,TX,76574-3627,RAIL,48
+-83.331367000186845,34.578533000397726,792,TCA,"Toccoa, Georgia",47 North Alexander St.,,Toccoa,GA,30577,RAIL,13
+-87.560150000721933,33.192257000260383,793,TCL,"Tuscaloosa, Alabama",2105 Greensboro Ave,,Tuscaloosa,AL,35401,RAIL,01
+-123.948664733790395,44.632169949283764,794,TDO,"Toledo, Oregon",1805 NW Highway 20,Dairy Queen/Valley Retriever Bus Stop,Toledo,OR,97391,BUS,41
+-118.452309000060268,35.132732000481496,795,TEH,"Tehachapi, California",Westside of Mullbery Street,50 Yards off Tehachapi Blvd,Tehachapi,CA,93561,BUS,06
+-114.459903092953368,42.569276119597305,796,TFI,"Twin Falls, Idaho",1135 Blue Lakes Circle,Snake River Chevron,Twin Falls,ID,83301-4832,BUS,16
+-121.179664999839815,45.600806999243673,797,THD,"The Dalles, Oregon",201 East Federal Street,City Transportation Center,The Dalles,OR,97058,BUS,41
+-81.078056000384095,37.956664999590089,798,THN,"Thurmond, West Virginia",Hwy 25 & Hwy 2,platform 1000 ft north of intersection,Thurmond,WV,25936,RAIL,54
+-95.986832000296545,36.153979999877151,800,TLS,"Tulsa, Oklahoma",317 South Detroit St.,,Tulsa,OK,74120-2424,BUS,40
+-71.570676587354569,43.453571493429706,801,TLT,"Tilton, New Hampshire",I-93 and US hwy 3,Evans Expressmart/Exxon Station,Tilton,NH,03276,BUS,33
+-107.241698999908863,33.132992000280638,802,TOC,"Truth or Consequences, New Mexico",8 South Date St.,CW's Premium Water & Ice,Truth or Consequences,NM,87901-2848,BUS,35
+-90.504166000360613,43.985725000308548,803,TOH,"Tomah, Wisconsin",North Superior Ave. and Washington St.,,Tomah,WI,54660,RAIL,55
+-83.541267000371704,41.638184000591195,804,TOL,"Toledo, Ohio",415 Emerald Ave.,Central Union Plaza,Toledo,OH,43604-8817,RAIL,39
+-95.664893999158721,39.051345999418402,805,TOP,"Topeka, Kansas",500 SE Holliday Place,East 5th & Holliday Streets,Topeka,KS,66607-1100,RAIL,20
+-82.450912000388485,27.952264999230408,806,TPA,"Tampa, Florida",601 North Nebraska Ave,,Tampa,FL,33602-3555,RAIL,12
+-97.344803000058391,31.09537900004085,807,TPL,"Temple, Texas",315 West Ave B,,Temple,TX,76501,RAIL,48
+-121.434630999920671,37.761748999716588,808,TRA,"Tracy, California",725 West Clover Road,Wendy's Restaurant,Tracy,CA,95376-1746,BUS,06
+-74.754561999736438,40.218249999637806,809,TRE,"Trenton, New Jersey",72 South Clinton Avenue,,Trenton,NJ,08609-1238,RAIL,34
+-104.507270999556965,37.172801999812521,810,TRI,"Trinidad, Colorado",110 West Pine Street,*(Pine St & North Commercial St),Trinidad,CO,81082,RAIL,08
+-73.452896000150247,44.187096000180304,811,WSP,"Westport, New York",Hwy 9N and Ledge Hill Rd,at Hwy 9N and railroad tracks,Westport,NY,12993,RAIL,36
+-80.30580900028508,37.785419000386582,812,WSS,"White Sulphur Springs, West Virginia",315 West Main Street,,White Sulphur Springs,WV,24986,RAIL,54
+-69.686360255921045,43.994581001312213,813,WST,"Wiscasset, Maine",279 Bath Rd.,Huber's Market,Wiscasset,ME,04578-4624,BUS,23
+-89.65514399949592,44.963482000493968,814,WSU,"Wausau, Wisconsin",2415 Trailwood Lane,Lamers Bus Lines station,Mosinee,WI,54455-7820,BUS,55
+-81.734260999245691,28.00225099938416,815,WTH,"Winter Haven, Florida",1800 7th St SW,,Winter Haven,FL,33880-4375,RAIL,12
+-85.025191999810886,41.431704999885881,816,WTI,"Waterloo, Indiana",Lincoln and Center Street,,Waterloo,IN,46793,RAIL,18
+-103.620376999598818,48.142765000104703,817,WTN,"Williston, North Dakota",1 South Main Street,,Williston,ND,58801-6057,RAIL,38
+-123.34980799993923,39.412196999991636,818,WTS,"Willits, California",200 E. Commercial Street,California Western Railroad Depot,Willits,CA,95490,BUS,06
+-82.039581000262899,28.866037000307358,819,WWD,"Wildwood, Florida",601 North Main Street,,Wildwood,FL,34785-3842,OTHER,12
+-90.415038999250385,32.848082999830638,820,YAZ,"Yazoo City, Mississippi",West Broadway (SR149) and North Water Street,222 West Broadway?,Yazoo City,MS,39194,RAIL,28
+-80.847144999841817,32.688144999592112,821,YEM,"Yemassee, South Carolina",9 Main Street,,Yemassee,SC,29945,RAIL,45
+-73.902885000542312,40.936096000130362,822,YNY,"Yonkers, New York",5 Buena Vista Ave.,Amtrak/Metro-North Station,Yonkers,NY,10701-3544,RAIL,36
+-119.598427197357239,37.743168947788774,823,YOS,"Yosemite National Park, California",9006 Yosemite Lodge Drive,Yosemite Park Lodge,Yosemite National Park,CA,95389,BUS,06
+-114.6151349993807,32.722023000661011,824,YUM,"Yuma, Arizona",281 Gila Street,,Yuma,AZ,85364,RAIL,04
+-87.088638219178449,45.779895772871669,825,EMI,"Escanaba, Michigan",2901 27th Avenue North,Delta Area Transit Authority bus stop,Escanaba,MI,49829,BUS,26
+-88.55012486287211,47.118344039645763,826,HGH,"Houghton, Michigan",Townsend Drive and Hubbell Street,"Michigan Tech University, Memorial Union",Houghton,MI,49931,BUS,26
+-85.380069867930047,44.403650200196637,827,MTO,"Manton, Michigan",Junction U.S. 131 & M-42,Manton Shell Station,Manton,MI,49663,BUS,26
+-87.453006289308746,46.557773995773346,828,MQT,"Marquette, Michigan",1325 Commerce Drive,Marquette Transit Authority,Marquette,MI,49855,BUS,26
+-88.004899904307081,44.514609344745509,829,GBY,"Green Bay, Wisconsin",800 Cedar Street,Greyhound Station,Green Bay,WI,54301,BUS,55
+-87.701446386841269,44.078763026192746,830,MTC,"Manitowoc, Wisconsin",1701 South 41st Street,Shell Station,Manitowoc,WI,54220,BUS,55
+-87.659444324096228,45.082242978730562,831,MWI,"Marinette, Wisconsin",W 1390 Old Peshtigo Road,Shell Station/Taco Bell,Marinette,WI,54143,BUS,55
+-87.887164076760712,44.879788198666461,832,OCO,"Oconto, Wisconsin",517 Smith Avenue,Shell Station,Oconto,WI,54153,BUS,55
+-119.073364444613389,37.782436111037725,833,JNL,"June Lake, California",June Lake Loop,June Lake Ski Area Parking Lot,June Lake,CA,95529,BUS,06
+-121.650716110859776,37.129207777317106,835,MHC,"Morgan Hill, California",17300 Depot Street,Caltrain Station,Morgan Hill,CA,95037,RAIL,06
+-122.413390000448146,37.779831667197755,836,SFV,"San Francisco (Civic Center), California",1150 Market Street,"North side, between 7th and 8th Streets",San Francisco,CA,94102,BUS,06
+-121.843362777669995,36.61925888878676,837,SES,"Seaside, California",Playa Ave & California Ave,Edgewater Transit Exchange (980 Playa Ave?),Seaside,CA,93955,BUS,06
+-119.761818889230312,37.837754999193919,838,YOW,"Yosemite National Park (White Wolf), California",Old Tioga ROad at Highway 120 East,White Wolfe Lodge,Yosemite National Park,CA,95389,BUS,06
+-119.118049613099117,37.954380900558192,840,LVN,"Lee Vining, California",30 Main Street,Lake View Lodge,Lee Vining,CA,93541,BUS,06
+-119.037849360859298,37.650624620030214,841,MMK,"Mammoth Lake, California",1 Minaret Road,Mammoth Mountain Inn,Mammoth Lakes,CA,93546,BUS,06
+-119.570647466707214,37.73764995678016,842,YOC,"Yosemite National Park (Curry Village), California",Curry Village,,Yosemite National Park,CA,95389,BUS,06
+-119.373433839300219,37.871909860151959,843,YOT,"Yosemite National Park (Tuolumne), California",Tuolumne Meadows Visitors Center,Highway 120 East,Yosemite National Park,CA,95389,BUS,06
+-119.587136861077227,37.748054412281363,844,YOV,"Yosemite National Park (Visitor Center), Californi",National Park Visitor Center,Yosemite Village. Transfer Point to park shuttles,Yosemite National Park,CA,95389,BUS,06
+-119.574613180154131,37.746251591737632,845,YOA,"Yosemite National Park (Ahweehnee Htl.), Californi",Yosemite Village,,Yosemite National Park,CA,95389,BUS,06
+-119.797132282029168,37.752962428173589,846,YOF,"Yosemite National Park (Crane Flat), California",Old Tioga Pass Highway (Highway 120 East),Crane Flat Gas Station-Chevron,Yosemite National Park,CA,95389,BUS,06
+-121.671916655928896,36.789356408771312,847,PDL,"Prunedale, California",Highway 156 and Highway 101,Caltrans Park-and-Ride Lot,Prunedale,CA,93907,BUS,06
+-87.713225376949538,43.749811511891835,848,SHB,"Sheboygan, Wisconsin",830 Pennsylvania Avenue,Sheboygan Transit Transfer Center,Sheboygan,WI,53081,BUS,55
+-76.048489928467404,38.562298050414768,849,CDE,"Cambridge, Maryland",100 Heron Boulevard,Hyatt Regency Chesapeake Bay Resort,Cmbridge,MD,21613,BUS,24
+-75.606646440380871,38.362388757335339,850,SLS,"Salisbury (BayRunner Shuttle), Maryland",547E Riverside Drive,BayRunner Shuttle,Salisbury,MD,21801,BUS,24
+-76.063748660871966,38.810321081053075,851,ESN,"Easton Airport, Maryland",29137 Newman Road,Easton Airport - Main Terminal,Easton,MD,21601,BUS,24
+-116.999806542238105,34.891758235554164,853,BBS,"Barstow (Bus), California",1611 East Main Street,,Barstow,CA,92311-3239,BUS,06
+-121.305619352051451,44.080029906555012,854,BDR,"Bend, OR",3075 North Business Highway 97,The Riverhouse Resort,Bend,OR,97701,BUS,41
+-116.794231689340961,33.919728580409696,855,CBZ,"Cabazon, CA",49500 Seminole Drive,"Morongo Casino, Hotel & Spa",Cabazon,CA,92230,BUS,06
+-73.171357000425189,43.613428999848509,856,CNV,"Castleton, VT",266 Main Street,,Castleton,VT,05735,RAIL,50
+-118.382768251953223,33.905585095475828,857,ESG,"El Segundo, CA",700 South Douglas Street,Douglas Green Line Station,El Segundo,CA,90245,BUS,06
+-123.298241076164686,42.433753582461918,858,GTP,"Grants Pass, OR",460 NE Agness Avenue,Grants Pass Transportation Ctr/Greyhound Station,Grants Pass,OR,97526,BUS,41
+-93.59221100043726,33.668948999996417,859,HOP,"Hope, AR",100 East Division Street,,Hope,AR,71801,RAIL,05
+-77.418787296996129,34.748665958167464,860,JNC,"Jacksonville, NC",850 New Bridge Street,,Jacksonville,NC,28540,BUS,37
+-77.585323665354849,35.243844223132442,861,KNC,"Kinston, NC",101 East New Bern Road,Vistor and Information Center,Kinston,NC,28504,BUS,37
+-84.790596000205198,45.440200999676449,880,ALA,"Alanson, MI",7640 Burr Avenue,Marathon Gas Station EZ-Mart,Alanson,MI,49706,BUS,26
+-83.492384999867795,45.061841000162076,881,ALM,"Alpena, MI",2060 Michigan Highway 32 West,Thunder Baykery,Alpena,MI,49707,BUS,26
+-69.799133000287668,44.355912999785176,882,AGM,"Augusta, ME",9 Industrial Drive,Transportation Center,Augusta,ME,04330,BUS,23
+-83.886921999850358,43.601846999939141,883,BCY,"Bay City, MI",1124 Washington Avenue,Central Bus Terminal,Bay City,MI,48708,BUS,26
+-88.816942000273059,43.456040000245878,884,BVD,"Beaver Dam, WI",817 Park Avenue,Crossroads Shell Station,Beaver Dam,WI,53916,BUS,55
+-121.301266000225723,44.058219999753248,885,BND,"Bend, OR",334 Hawthorne Avenue,Hawthorne Station Intermodal Center,Bend,OR,97701,BUS,41
+-108.502125999815007,45.783747999970274,886,BLG,"Billings, MT",2501 1st Avenue North,Bus Station,Billings,MT,59701,BUS,30
+-88.889761000269914,30.39811900009181,887,BIG,"Biloxi, MS",820 Martin Luther King Jr. Boulevard,Greyhound Bus Station,Biloxi,MS,39530,BUS,28
+-80.418368000083092,37.229907000008097,888,BLK,"Blacksburg, VA",291 Alumni Mall -- Transit Concourse,Exterior Bus Shelter and Interior Waiting Lounge,Blacksburg,VA,24061,BUS,51
+-111.185973999600378,45.764868999904479,889,BOZ,"Bozeman, MT",6505 Jack Rabbit Lane,Flying J/Conoco Travel Plaza,Bozeman,MT,59714,BUS,30
+-87.171733999724268,32.958645000166655,890,BRR,"Brent, AL",10393 Alabama Highway 5,Wendy's Restaurant,Brent,AL,35034,BUS,01
+-124.281564000278365,42.050777999605032,891,BKO,"Brookings, OR",624 Railroad Street,Southwest Point Depot,Brookings,OR,97415,BUS,41
+-96.371780999693328,30.673223999887739,892,BRY,"Bryan, TX",301 East 26th Street,"Greyhound Station, Roy Kelly Parking Garage",Bryan,TX,77803,BUS,48
+-106.106680999728326,38.814933999704351,893,BUV,"Buena Vista, CO",27318 County Road 314,Veterans of Foreign Wars,Buena Vista,CO,81211,BUS,08
+-112.52085600030415,46.001942999569849,894,BUT,"Butte, MT",1324 Harrison Avenue,Bus Station,Butte,MT,59701,BUS,30
+-87.278637000397225,31.994073000068965,895,CMD,"Camden, AL","8 Claiborne Street 
+8 Claiborne Street 
+",Shell Gas Station,Camden,AL,36726,BUS,01
+-123.647000000249761,42.163002000142228,896,CVJ,"Cave Junction, OR",406 Redwood Coast Highway,Junction Inn,Cave Junction,OR,97523,BUS,41
+-88.575816999954554,37.056916000373178,965,PAD,"Paducah, KY",2719 Irvin Cobb Avenue,Greyhound Bus Station,Paducah,KY,42001,BUS,21
+-75.062021999615524,39.978051999800016,966,PNK,"Pennsauken, NJ",215 Derousse Avenue,Transit Center,Pennsauken,NJ,08110,BUS,34
+-116.545440000055919,33.824642999674722,967,PSS,"Palm Springs Downtown, CA",190 North Indian Canyon Drive,SunLine Transit Bus Stop at southeast corner of I*,Palm Springs Downtown,CA,92262,BUS,06
+-105.397014999642465,39.467390000148441,968,PJT,"Pine Junction, CO",76 Mount Evans Boulevard,Denver RTA Park-n-Ride Lot,Pine Junction,CO,80470,BUS,08
+-106.076430999590912,38.512175999922533,969,PSG,"Poncha Springs, CO",6250 US Highway 285,High Valley Center Pub & Grub,Poncha Springs,CO,81242,BUS,08
+-122.676474999921254,45.527361000010217,970,PDG,"Portland, OR",550 NW 6th Avenue,Greyhound Station,Portland,OR,97209,BUS,41
+-95.992293000321695,30.072967000027063,971,PVW,"Prairie View, TX","44814 US Highway 290 Business 
+",Unco Food Store and Gas Station,Prairie View,TX,77446,BUS,48
+-121.690894999604495,38.155708000024219,972,RVT,"Rio Vista, CA",28 South Front Street,Delta Breeze Transit Bus Stop,Rio Vista,CA,94571,BUS,06
+-79.936178000414372,37.277808000239077,973,RNK,"Roanoke, VA",710 Williamson Road NE,Civic Center Parking Lot C,Roanoke,VA,24016,BUS,51
+-90.550388999652569,41.506222999991508,974,RKI,"Rock Island, IL",3500 5th Avenue,Augustana College Carver P.E. Center,Rock Island,IL,61201,BUS,17
+-83.933428999648584,43.434927999727449,975,SGW,"Saginaw, MI",511 Johnson Street,Bus Center,Saginaw,MI,48607,BUS,26
+-105.994500000274741,38.525046999919141,976,SLD,"Salida, CO",54 Jones Avenue,Bus Depot,Salida,CO,81201,BUS,08
+-111.908509999636749,40.763040000195929,977,SLB,"Salt Lake City, UT",300 South 600 West,Intermodal Hub Bus Terminal,Salt Lake City,UT,84101,BUS,49
+-84.371705000385418,46.463461000125108,978,SMI,"Sault Sainte Marie, MI",4001 I-75 Business Spur,Eastern Upper Peninsula Transit Authority Term,Sault Sainte Marie,MI,49783,BUS,26
+-75.670210000091402,41.410169999645802,979,SRN,"Scranton, PA",23 Lackawanna Avenue,Martz Trailways Station,Scranton,PA,18503,BUS,42
+-87.022259999998937,32.412143999845796,980,SLA,"Selma, AL",434 Broad Street,Trailways Bus Station,Selma,AL,36701,BUS,01
+-88.61533899959511,44.753147000034062,981,SHW,"Shawano, WI",N4543 State Highway 22,Shell Station,Shawano,WI,54166,BUS,55
+-85.257940999677373,45.318448000374985,897,CHL,"Charlevoix, MI",103 Bridge Park Drive,Beaver Island Boat Company Ferry Terminal,Charlevoix,MI,49720,BUS,26
+-84.46981800040038,45.644879000065828,898,CHB,"Cheboygan, MI",309 East State Street,Marathon Gas Station,Cheboygan,MI,49721,BUS,26
+-117.715635000055158,48.279192999857116,899,CWL,"Chewelah, WA",10 West Colville Avenue,Bus Stop Next to Safeway,Chewelah,WA,99109,BUS,53
+-91.427793999993071,44.883095999580746,900,CHP,"Chippewa Falls, WI",2750 120th Street,Holiday Gas Station Store,Chippewa Falls,WI,54729,BUS,55
+-84.504469000244114,39.107572999594311,901,CIG,"Cincinnati, OH",1005 Gilbert Avenue,Greyhound Terminal,Cincinnati,OH,45202,BUS,39
+-87.363704999586048,36.530751999904908,902,CRK,"Clarksville, TN","11 Jefferson Street 
+",Greyhound Bus Station,Clarksville,TN,37040,BUS,47
+-82.996359999814104,39.958734000174047,903,COL,"Columbus, OH",111 East Town Street,Greyhound Bus station,Columbus,OH,43215,BUS,39
+-117.908378000444316,48.535879000115813,904,CVL,"Colville, WA",956 South Main Street,Rural Rescources Community Action,Colville,WA,99114,BUS,53
+-124.193475000271008,41.752373000014018,905,CRC,"Crescent City, CA",1001 Front Street,Cultural Center RCT Bus Stop,Crescent City,CA,95531,BUS,06
+-78.73043799981383,39.65045200015976,906,CUA,"Cumberland, MD",12401 Willowbrook Road SE,"Allegheny College of MD, Ctr for Continuing Educa*",Cumberland,MD,21502,BUS,24
+-96.804121000084024,32.778636999797754,907,DAG,"Dallas, TX",205 South Lamar Street,Greyhound Station,Dallas,TX,75202,BUS,48
+-117.478876999673787,47.945446000032916,908,DPK,"Deer Park, WA",822 South Main Street,Bus Stop Next to Fresenius Medical Center,Deer Park,WA,99006,BUS,53
+-91.506338999645095,44.796558000051732,909,EUC,"Eau Claire, WI",642 University Drive,University of Wisconsin Towers Hall,Eau Claire,WI,54702,BUS,55
+-91.595084000226393,44.843005999827085,910,EUM,"Eau Claire, WI",6251 Traux Lane,McDonald's Restaurant,Eau Claire,WI,54703,BUS,55
+-119.561201999672505,47.306774000319933,911,EPR,"Ephrata, WA",1352 Basin Street SW,Shell Gasoline Station,Ephrata,WA,98823,BUS,53
+-123.089598999993825,44.04903399971937,912,EUB,"Eugene, OR",987 Pearl Street,Greyhound Station,Eugene,OR,97401,BUS,41
+-123.074349000006293,44.043374999556647,913,EUO,"Eugene, OR",1320 East 15th Avenue,University of Oregon across street from Student R*,Eugene,OR,97403,BUS,41
+-87.569533999994064,37.973786000423615,914,EVN,"Evansville, IN",119 Northwest 6th Street,Greyhound/METS Bus Terminal,Evansville,IN,47708,BUS,18
+-105.991608000009137,39.2255160003632,915,FRP,"Fairplay, CO",620 US Highway 285,Sinclair Gas Station,Fairplay,CO,80421,BUS,08
+-77.382299000198657,39.416261000344946,916,FRR,"Frederick Airport, MD",1341 Hughes Ford Road,BayRunner Shuttle Office,Frederick Airport,MD,21705,BUS,24
+-78.933168000302942,39.648899999635319,917,FSB,"Frostburg, MD",101 Braddock Road,"Frostburg State Univ, Harold J Cordts PE Center",Frostburg,MD,21532,BUS,24
+-87.33894900009625,41.604268999614703,918,GRY,"Gary, IN",100 West 4th Avenue,Metro Center Station,Gary,IN,46402,BUS,18
+-104.731948000399882,47.107185999934018,919,GLD,"Glendive, MT",1302 West Towne Street,Robins Service,Glendive,MT,59330,BUS,30
+-123.054645999713102,42.431979999777241,920,GHL,"Gold Hill, OR",868 2nd Avenue,Ray's Market,Gold Hill,OR,97525,BUS,41
+-77.969138000018631,35.382715000097221,921,GBO,"Goldsboro, NC",1615 East Beech Street,GATEWAY Transit Terminal,Goldsboro,NC,27350,BUS,37
+-79.100325999844983,39.69235399983728,922,GTV,"Grantsville, MD",3000 Chestnut Ridge Road,Pilot Travel Center,Grantsville,MD,21536,BUS,24
+-77.37004699996902,35.613549999832685,923,GRN,"Greenville, NC",Second and Reade Streets,Greenville Area Transit Transfer Center,Greenville,NC,27834,BUS,37
+-87.780118000245466,31.6875159995638,924,GVH,"Grove Hill, AL",430 South Jackson Street,Dunn's Exxon Gas Station,Grove Hill,AL,36451,BUS,01
+-89.093162000226073,30.427873999885264,925,GUG,"Gulfport, MS",10015 US Highway 49,Clark Convenience Store,Gulfport,MS,39501,BUS,28
+-106.9273360000563,38.553944999761995,926,GUN,"Gunnison-Downtown, CO",905 North Main Street,Powerstop Gas Station,Gunnison-Downtown,CO,81230,BUS,08
+-106.922938999635107,38.547831000200574,927,GNW,"Gunnison-Western State Univ, CO","400 North Colorado Street 
+",Gunnison Valley RTA Transit Bus Stop,Gunnison-Western State Un*,CO,81230,BUS,08
+-77.722496999836608,39.644660000158922,928,HAG,"Hagerstown, MD",123 West Franklin Street,Washington County Transit Transfer Center,Hagerstown,MD,21740,BUS,24
+-78.153919000161693,39.695657000170456,929,HNK,"Hancock, MD",434 East Main Street,Hancock Truck Plaza,Hancock,MD,21750,BUS,24
+-88.580294999614523,47.126982000019325,930,HKM,"Hancock, MI",125 Quincy Street,Shottle Bop Liquor Store,Hancock,MI,49930,BUS,26
+-89.379175000325972,31.390856000404142,931,HBI,"Hattiesburg, MS",7297 US Highway 49,Shell Gas Station,Hattiesburg,MS,39401,BUS,28
+-76.926115000107131,34.891190999864818,932,HVL,"Havelock, NC",201 Tourist Center Drive,Tourism and Event Center,Havelock,NC,28532,BUS,37
+-95.371614000285831,29.748301999937382,933,HOG,"Houston, TX",2121 Main Street,Greyhound Terminal,Houston,TX,77002,BUS,48
+-87.879800999816268,31.54745500044794,934,JAA,"Jackson, AL",3603 North College Avenue,Citgo Gas Station,Jackson,AL,36545,BUS,01
+-70.102358000021638,43.855034999865381,935,FRE,"Freeport, ME",36 Depot Street,Station,Freeport,ME,04032,RAIL,23
+-72.600764999804881,42.585457999786911,936,GFD,"Greenfield, MA",12 Olive Street,John W. Olver Transit Center,Greenfield,MA,01301,RAIL,25
+-76.240827000065963,38.966497999583055,937,KNT,"Kent Island, MD",3206 Main Street,Hilton Garden Inn,Kent Island,MD,21638,BUS,24
+-118.061898999739014,48.610369999875672,938,KTF,"Kettle Falls, WA",425 West Third Avenue,Chamber of Commerce Visitor's Center,Kettle Falls,WA,99141,BUS,53
+-116.289963999838676,33.710979000180771,939,LQT,"La Quinta, CA",78822 Highway 111,SunLine Transit Stop next to Eisenhower Occupatio*,La Quinta,CA,92253,BUS,06
+-88.453592999617229,46.758449000421081,940,LAN,"L'Anse, MI",102 North Main Street,In The Mind's Eye Store,L'Anse,MI,49946,BUS,26
+-115.164024000107474,36.068525999974952,941,LVT,"Las Vegas, NV",6675 Gilespie Street,South Strip Transfer Terminal,Las Vegas,NV,89119,BUS,32
+-110.545829000308061,45.670266999922148,942,LVG,"Livingston, MT","1404 East Park Street 
+",Fair Winds Coffee,Livingston,MT,59047,BUS,30
+-117.621747999770321,48.060505000005776,943,LLK,"Loon Lake, WA",State Highway 292 & Colville Road,Dinner Bell Restaurant,Loon Lake,WA,99148,BUS,53
+-87.488510000236261,37.382472000182702,944,MDV,"Madisonville, KY",4765 Hanson Road,Red Cardinal Inn,Madisonville,KY,42431,BUS,21
+-87.315058000026625,32.635914000230969,945,MAA,"Marion, AL",26400 Alabama Highway 14,Perry's Trading Post,Marion,AL,36756,BUS,01
+-88.95053899987488,37.730842999904553,946,MAI,"Marion, IL",2100 West Main Street,Motel Marion,Marion,IL,62959,BUS,17
+-119.966205000260516,37.485746999924174,947,MRM,"Mariposa, CA",Highway 140 and 7th Street,Midtown YARTS Bus Stop,Mariposa,CA,95338,BUS,06
+-91.926058999922873,44.873664999939876,948,MNM,"Menomonie, WI",302 10th Avenue East,UW-Stout Memorial Union,Menomonie,WI,54751,BUS,55
+-96.617494000247859,32.793300999741405,949,MSQ,"Mesquite, TX","1331 Highway 80 East 
+1331 Highway 80 East 
+",Greyhound Station,Mesquite,TX,75150,BUS,48
+-105.844965000434399,46.408196000245255,950,MLS,"Miles City, MT",1019 Main Street,M & H Gas Station,Miles City,MT,59301,BUS,30
+-101.29697799983478,48.215079000195772,951,MTB,"Minot, ND",300 18th Avenue SW,Jefferson Lines Bus Depot,Minot,ND,58701,BUS,38
+-114.020379999637214,46.879660999955263,952,MLA,"Missoula, MT",1660 West Broadway Street,Greyhound Lines Terminal,Missoula,MT,59808,BUS,30
+-121.966252000229588,47.85821600006841,953,MEE,"Monroe (Eastbound), WA",19746 US Highway 2,Community Transit Bus Stop Next to Grocery Outlet,Monroe (Eastbound),WA,98272,BUS,53
+-86.32739699997154,32.326874000334897,954,MGM,"Montgomery, AL",950 West South Boulevard,"Starnes Travel, Inc.",Montgomery,AL,36105,BUS,01
+-76.715680000431632,34.721383000425192,955,MHD,"Morehead City, NC",1001 Arendell Street,Train Station,Morehead City,NC,28557,BUS,37
+-88.009306999618275,31.127181999849483,956,MTV,"Mt. Vernon, AL",20890 US Highway 43,McDonald's Restaurant,Mt. Vernon,AL,36560,BUS,01
+-88.956425999760029,38.313911000292478,957,MVI,"Mt. Vernon, IL",102 Potomac Boulevard,McDonald's Restaurant,Mt. Vernon,IL,62864,BUS,17
+-71.50386600021568,42.790718000035724,958,NSH,"Nashua, NH",8 North Southwood Drive,Transporation Center,Nashua,NH,03064,BUS,33
+-86.773050000057424,36.15206799983838,959,NVL,"Nashville, TN",705 5th Avenue South,Greyhound Terminal,Nashville,TN,37203,BUS,47
+-77.036948000349923,35.104415999598757,960,NBR,"New Bern, NC",203 South Front Street,Convention Center,New Bern,NC,28560,BUS,37
+-71.129460999625394,44.054485000182638,961,NCW,"North Conway, NH",2760 White Mountain Highway,Eastern Slope Inn Resort,North Conway,NH,03860,BUS,33
+-75.164144000145427,38.376209999891614,962,OCP,"Ocean Pines, MD",11011 Manklin Creek Road,Rite Aid Pharmacy,Ocean Pines,MD,21811,BUS,24
+-88.548898999689072,44.022746999774256,963,OSU,"Oshkosh, WI",208 Osceola Street,University of Wisconsin Gruenhagen Conference Cen*,Oshkosh,WI,54901,BUS,55
+-84.170084999822848,42.99663600005141,964,OWO,"Owosso, MI",109 Comstock Street,Indian Trails Bus Station,Owosso,MI,48867,BUS,26
+-93.750682999620722,32.515073999865251,982,SHG,"Shreveport, LA",408 Fannin Street,Greyhound Station,Shreveport,LA,71101,BUS,22
+-104.17248100019799,47.718455000398023,983,SIY,"Sidney, MT",1201 West Holly Street,Richland County Community Services Building,Sidney,MT,59270,BUS,30
+-121.54714200020311,44.29146900019424,984,STO,"Sisters, OR",310 East Cascade Avenue,Ski Inn Restaurant,Sisters,OR,97759,BUS,41
+-121.361738000108573,47.71122899991849,985,SKE,"Skykomish (Eastbound), WA",147 5th Street North,Sky Gas Station,Skykomish (Eastbound),WA,98288,BUS,53
+-124.203780999793253,41.957498000332521,986,SMR,"Smith River, CA",13450 US Highway 101 North,Shell Station Lucky 7 Casino Store,Smith River,CA,95567,BUS,06
+-90.938352000444411,44.949812999670257,987,SNY,"Stanley, WI",604 South Broadway Street,Shell Station Travel Plaza,Stanley,WI,54768,BUS,55
+-119.934815999758541,38.969907000307842,988,SLN,"Stateline, NV",169 Highway 50,Kingsbury Transit Center,Stateline,NV,89449,BUS,32
+-89.571578000324394,44.528941000227007,989,SVU,"Stevens Point, WI",2050 4th Avenue,University of Wisconsin Health Enhancement Center,Stevens Point,WI,54481,BUS,55
+-83.531058999972856,44.257281000118098,990,TWC,"Tawas City, MI",1020 West Lake Street,Bay Inn,Tawas City,MI,48763,BUS,26
+-81.940673999605337,28.937532000401575,991,TVF,"The Villages-Lady Lake, FL",401 North US Highway 441,BP Gas Station/Kangaroo Express Market,Lady Lake,FL,32159,BUS,12
+-87.736464999859834,31.941001999742525,992,THM,"Thomasville, AL",34390 US Highway 43,Chevron Gas Station,Thomasville,AL,36784,BUS,01
+-118.286675999797524,33.843363999648943,993,TOA,"Torrance, CA",20575 Hamilton Avenue,Alpine Village MTA Transit Bus Stop,Torrance,CA,90502,BUS,06
+-95.302709000020286,32.353011999704052,994,TYL,"Tyler, TX",303 North Bois D'Arc Street,Greyhound Station,Tyler,TX,75702,BUS,48
+-90.875718999831918,32.316303000283312,995,VKS,"Vicksburg, MS",1295 South Frontage Road,Greyhound Bus Station,Vicksburg,MS,39180,BUS,28
+-117.293918000315443,34.537466999702303,996,VRB,"Victorville, CA",16838 South D Street,Victor Valley Transit Center,Victorville,CA,92395,BUS,06
+-88.897648999801447,37.415383999871722,997,VNA,"Vienna, IL",504 West Vine Street,Hospitality House of Vienna,Vienna,IL,62995,BUS,17
+-97.132344999721909,31.552238999830024,998,WCX,"Waco, TX",301 South 8th Street,Transit Center,Waco,TX,76701,BUS,48
+-118.341502000117202,46.065988999692649,999,WWA,"Walla Walla, WA",108 West Main Street,Transit Center,Walla Walla,WA,99362,BUS,53
+-88.717972000307554,43.633334999610611,1000,WPN,"Waupun, WI",928 East Main Street,End of the Trail Candy Shop,Waupun,WI,53963,BUS,55
+-89.624627999682389,44.959456000094406,1001,WSJ,"Wausau, WI",555 Jefferson Street,Transit Center,Wausau,WI,54403,BUS,55
+-118.392389999598777,33.975824999923873,1002,WCH,"Westchester, CA",6860 Park Terrace Drive,Culver City Transit Northbound Route 6 Bus Stop,Westchester,CA,90045,BUS,06
+-89.484089000107247,43.887790999555023,1003,WSF,"Westfield, WI",244 North Pioneer Park Road,Mobil Station,Westfield,WI,53964,BUS,55
+-118.448979000280588,34.06877200002782,1004,WES,"Westwood-UCLA, CA",592 Gayley Ave.,Los Angeles MTA Westbound Route 2 Transit Bus Stop,Westwood-UCLA,CA,90024,BUS,06
+-75.702012999899978,41.07137900014078,1005,WHV,"White Haven, PA","I-476, Exit 95/I-80, Exit 277, at Hwy 940",McDonald's Restaurant,White Haven,PA,18661,BUS,42
+-75.883195999595671,41.245024000257445,1006,WKB,"Wilkes-Barre, PA",47 South Washington Street,Intermodal Transportation Center,Wilkes-Barre,PA,18701,BUS,42
+-89.856660999805285,44.396985999904018,1007,WIR,"Wisconsin Rapids, WI",2611 West Grand Avenue,Lamers Connect Bus Station,Wisconsin Rapids,WI,54495,BUS,55
+-122.87638199972946,45.151589000232207,1008,WBN,"Woodburn, OR",2900 Tom Tennant Drive,Transit Center,Woodburn,OR,97071,BUS,41
+-122.145006000326646,42.910900999781347,1009,CLK,"Crater Lake, OR",Rim Drive,Community House at Rim Village,Crater Lake,OR,97604,BUS,41
+-121.885156999895571,42.276879999612333,1010,RNY,"Klamath Falls, OR",5500 Running Y Road,Lodge,Klamath Falls,OR,97601,BUS,41
+-73.771016999734684,43.07460700021295,1011,SRK,"Saratoga Springs, NY",267 Union Avenue,Entrance Bus Stop,Saratoga Springs,NY,12866,BUS,36
+-122.349934999700451,48.242638000343504,1012,STW,"Stanwood, WA",27111 Florence Way,Station,Stanwood,WA,98292,RAIL,53
+-83.191025999849955,42.542554999813433,1013,TRM,"Troy, MI",1201 Doyle Drive,Troy Transit Center,Troy,MI,48084,RAIL,26
+-86.74578199983938,41.7966559997746,1014,NBU,"New Buffalo, MI",226 North Whittaker Street,Station,New Buffalo,MI,49117,RAIL,26
+-72.626379000190695,42.318858000096668,1015,NHT,"Northampton, MA",170 Pleasant Street,Station,Northampton,MA,01060,RAIL,25
+-97.429698000262476,35.877861000085147,1016,GUT,"Guthrie, OK",409 West Oklahoma Ave.,Santa Fe Depot,Guthrie,OK,73044,RAIL,40

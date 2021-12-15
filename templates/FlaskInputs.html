@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf8"/>
+    <title>Amtrak Route Plan</title>
+    <style>
+        h1 {
+        color: navy;
+        font-size: 20pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        h3 {
+        color: navy;
+        font-size: 14pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        h4 {
+        color: navy;
+        font-size: 12pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        p, form {
+        font-size: 10pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+    </style>
+</head>
+<h1>
+    Welcome! Are you ready to plan an Amtrak trip?
+</h1>
+<body>
+ <form action="/handle_form" method = "POST">
+    <p>
+        What is your name? 
+        <input name="name" type="text"/><br/>
+    </p>
+    
+    <p>
+        Where would you like to start?
+        <select name="origin">
+        {% for city in cities %}
+        <option value={{city}}>{{city}}</option>
+        {% endfor %}
+        </select>
+
+    </p>
+    <p>
+        Where would you like to end?
+        <select name="destination">
+             {% for city in cities %}
+        <option value={{city}}>{{city}}</option>
+        {% endfor %}
+        </select>
+
+    </p>
+
+    <p>
+        What is the maximum price you want your hotel to be?<br>
+        <input type="radio" name="hotel_price" value="an inexpensive">Inexpensive<br/>
+        <input type="radio" name="hotel_price" value="a moderate">Moderate<br/>
+        <input type="radio" name="hotel_price" value="an expensive">Expensive<br/>
+        <input type="radio" name="hotel_price" value="a very expensive">Very Expensive<br/>
+    </p>
+
+    <p>
+        How close to your destination train station would you like to stay?<br/>
+        <select name="distance">
+            <option value="5">Within 5 miles</option>
+            <option value="10">Within 10 miles</option>
+            <option value="25">Within 25 miles</option>
+            
+        </select>   
+    </p>
+        <input type ="submit" value = "Submit Form"/>
+    </form>
+</body>
+</html>
