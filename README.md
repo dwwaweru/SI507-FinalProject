@@ -39,8 +39,10 @@ The CITY field is a string of the city where a train station is located. This fi
 ## Google Nearby Search (API)
 *Origin* 
 Google servers  
-*Data Access  
-These data were accessed using an API key. The data were returned from the API as a JSON which I stored locally into a unique Hotel class object for each return.
+*Data Access*  
+These data were accessed using an API key. The data were returned from the API as a JSON which I stored locally into a unique Hotel class object for each return.  
+
+*Summary* 
 The inputs used were the geographic coordinates of the destination station, the user input maximum price, and the user input radius. “Lodging” was used as the default place type.
 For each search, I utilized a maximum of 5 output results in my program. This was to limit the amount of options presented to the user and not make the information overwhelming.  
 For each result there are many fields available, such as photos, total user ratings, and opening hours (Figure 3). However, I kept the name, price level, rating, and vicinity fields to format an information output for the user. These were stored as attributes of a Hotel class object.
