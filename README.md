@@ -24,7 +24,7 @@ The primary attribute I used for this program were the station names as they ser
 
 ### Amtrak Station Information (CSV)
 *Origin*  
-This data came from Github user brentajones who cites their original source as the National Transportation Atlas Database, 2015. https://gist.github.com/brentajones/ced054626e8922cddd7009fdcea6b0a7
+This data came from Github user brentajones who cites their original source as the National Transportation Atlas Database, 2015. https://gist.github.com/brentajones/ced054626e8922cddd7009fdcea6b0a7  
 *Data Access*  
 The Amtrak station information was accessed by downloading a csv file from brentajones’s Github repository. The headers were used as keys and the data were sorted into a dictionary.
 *Summary:*  
