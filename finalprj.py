@@ -11,51 +11,26 @@ import json
 from bs4 import BeautifulSoup
 import networkx as nx
 from flask import Flask, render_template, request
+from networkx.readwrite import json_graph
+
+"""
+Load JSONS
+"""
+#Web scrapped amtrak_routes
+f = open('amtrak-routes.json')
+amtrak_routes = json.load(f)
+f.close()
 
 
-#Scrapping amtrak website for routes
+#Graph
+f = open('amtrak-graph.json')
+js_graph = json.load(f)
+TrainGraph = json_graph.adjacency_graph(js_graph)
+f.close()
 
-url = "https://www.amtrak.com/train-routes"
-r = requests.get(url)
-
-
-html_text = r.text
-soup = BeautifulSoup(html_text, 'html.parser')
-
-
-route_descript = "feature-overview-info__paragraphText"
-allroute_descript = soup.find_all(class_=route_descript)
-
-amtrak_routes = {}
-for route in allroute_descript:
-    route_name = route.h4.get_text()
-    
-    path = route.p.get_text().split(" - ")
-    amtrak_routes[route_name] = path
-
-#some stops are split by backslashes which need to be removed
-for k,v in amtrak_routes.items():
-    new_v = []
-    for l in v:
-        l = l.split("/")
-        new_v = new_v + l
-    amtrak_routes[k] = new_v
-
-amtrak_stops = []
-for route in amtrak_routes.values():
-    for stop in route:
-        amtrak_stops.append(stop)
-
-# amtrak_json = "/Users/dwwaweru/Desktop/UMich/Fall21/SI507/finalprj/amtrak-routes.json"
-# amtrak_routes = json.loads(amtrak_json)
-
-  
-# Create json of amtrak dictionary 
-# json_object = json.dumps(amtrak_routes, indent = 3) 
-#print(json_object)
-#json.dump(amtrak_routes, open('amtrak-routes.json', "w"), indent=2)
-
-
+"""
+Read and store station data
+"""
 #read in the station data
 input_file = csv.DictReader(open("amtrak.csv"))
 dict_list = []
@@ -68,7 +43,12 @@ for i in range(len(dict_list)):
     if dict_list[i]["STNTYPE"] == "RAIL":
         rail_dicts.append(dict_list[i])
 
-
+amtrak_stops = []
+for route in amtrak_routes.values():
+    for stop in route:
+        amtrak_stops.append(stop)
+        
+        
 class doubleQuoteDict(dict):
     '''
     This function takes in the a dictionary and returns its keys with double
@@ -132,26 +112,9 @@ for i in range(len(rail_dicts)):
 
 cities_double = doubleQuoteDict(station_cities)
 
-
-#Making Amtrak Directed Graph
-#creating list of edges (route connections)
-route_connections = []
-station_set = set()
-for route in amtrak_routes.keys():
-    for station in amtrak_routes[route]:
-        station = station.rstrip('\r\xa0')
-        station_set.add(station)
-    stops = amtrak_routes[route]
-    c = 0
-    for i in range(len(stops)-1):
-        pair = (stops[c], stops[c+1])
-        c += 1
-        route_connections.append(pair)
-
-#Draw Graph
-TrainGraph = nx.Graph()
-TrainGraph.add_edges_from(route_connections)
-
+"""
+Functions for handling form inputs
+"""
 
 def shortest_path(graph, source, target):
     '''
@@ -305,7 +268,9 @@ def searchhotels(station_pt, price, proximity):
 
     return hotel_list #returns list of hotel objects
  
-
+"""
+Establishing Flask app routes
+"""
 app = Flask(__name__)
 
 @app.route('/')
@@ -340,6 +305,11 @@ def handle_the_form():
   
     
 if __name__=="__main__":
-    app.run(debug=True) 
+    app.run(debug=True)
+
+    
+    
+    
+    
     
     
