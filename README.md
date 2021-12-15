@@ -12,7 +12,7 @@ The graph used in this program is made from data scraped from the Amtrak Train R
 
 ## Data Sources
 ### Amtrak Route Information (HTML)
-*Origin*. 
+*Origin*  
 Website information scrapped from https://www.amtrak.com/train-routes
 *Data Access*  
 These data were accessed using BeautifulSoup to scrape the website. The scraped data was stored in a dictionary and saved to the local directory as a json. To run the program, the json was loaded into the main python script.  
@@ -40,7 +40,7 @@ The CITY field is a string of the city where a train station is located. This fi
 Google servers
 *Data Access*  
 These data were accessed using an API key. The data were returned from the API as a JSON which I stored 
-*Summary:*  
+*Summary:* 
 The inputs used were the geographic coordinates of the destination station, the user input maximum price, and the user input radius. “Lodging” was used as the default place type.
 For each search, I utilized a maximum of 5 output results in my program. This was to limit the amount of options presented to the user and not make the information overwhelming.
 For each result there are many fields available, such as photos, total user ratings, and opening hours (Figure 3). However, I kept the name, price level, rating, and vicinity fields to format an information output for the user. These were stored as attributes of a Hotel class object.
