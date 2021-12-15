@@ -1,5 +1,5 @@
 # SI507-FinalProject
-Final project for SI507. This program uses a graph to find the shortest Amtrak train ride between two cities. In this instances, shortest route indicates the minimum number of stations and not the amount of time between the first and last stop.
+Final project for SI507. This program uses a graph to find the shortest Amtrak train ride between two cities. In this instance, the shortest route is based on passing through the minimum number of stations and not the amount of time between the first and last stop.
 
 ## Packages
 csv, requests, json, bs4 (BeautifulSoup), networkx, flask
