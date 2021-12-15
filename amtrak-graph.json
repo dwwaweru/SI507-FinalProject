@@ -1,0 +1,1435 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": [],
+  "nodes": [
+    {
+      "id": "Boston"
+    },
+    {
+      "id": "New Haven"
+    },
+    {
+      "id": "New York"
+    },
+    {
+      "id": "Philadelphia"
+    },
+    {
+      "id": "Wilmington"
+    },
+    {
+      "id": "Washington"
+    },
+    {
+      "id": "Hartford"
+    },
+    {
+      "id": "Windsor Locks"
+    },
+    {
+      "id": "Springfield"
+    },
+    {
+      "id": "Auburn"
+    },
+    {
+      "id": "Sacramento"
+    },
+    {
+      "id": "Emeryville (San Francisco)"
+    },
+    {
+      "id": "Oakland"
+    },
+    {
+      "id": "San Jose"
+    },
+    {
+      "id": "Richmond"
+    },
+    {
+      "id": "Raleigh"
+    },
+    {
+      "id": "Greensboro"
+    },
+    {
+      "id": "Charlotte"
+    },
+    {
+      "id": "Charlottesville"
+    },
+    {
+      "id": "Atlanta"
+    },
+    {
+      "id": "Birmingham"
+    },
+    {
+      "id": "New Orleans"
+    },
+    {
+      "id": "Niagara Falls"
+    },
+    {
+      "id": "Buffalo"
+    },
+    {
+      "id": "Rochester"
+    },
+    {
+      "id": "Syracuse"
+    },
+    {
+      "id": "Albany"
+    },
+    {
+      "id": "New York\u00a0"
+    },
+    {
+      "id": "Milwaukee"
+    },
+    {
+      "id": "Glenview"
+    },
+    {
+      "id": "Chicago"
+    },
+    {
+      "id": "Cleveland"
+    },
+    {
+      "id": "Toledo"
+    },
+    {
+      "id": "St. Louis"
+    },
+    {
+      "id": "Sedalia"
+    },
+    {
+      "id": "Independence"
+    },
+    {
+      "id": "Kansas City, MO"
+    },
+    {
+      "id": "Lancaster"
+    },
+    {
+      "id": "Harrisburg"
+    },
+    {
+      "id": "Altoona"
+    },
+    {
+      "id": "Pittsburgh"
+    },
+    {
+      "id": "La Junta"
+    },
+    {
+      "id": "Albuquerque"
+    },
+    {
+      "id": "Flagstaff"
+    },
+    {
+      "id": "Los Angeles"
+    },
+    {
+      "id": "Northampton"
+    },
+    {
+      "id": "Greenfield"
+    },
+    {
+      "id": "Montreal"
+    },
+    {
+      "id": "Westport"
+    },
+    {
+      "id": "Saratoga Springs"
+    },
+    {
+      "id": "Lorton, VA (Washington, DC)"
+    },
+    {
+      "id": "Sanford, FL (Orlando)"
+    },
+    {
+      "id": "South Bend"
+    },
+    {
+      "id": "Champaign-Urbana"
+    },
+    {
+      "id": "Carbondale"
+    },
+    {
+      "id": "Memphis"
+    },
+    {
+      "id": "Jackson"
+    },
+    {
+      "id": "Brunswick"
+    },
+    {
+      "id": "Freeport"
+    },
+    {
+      "id": "Portland"
+    },
+    {
+      "id": "Saco"
+    },
+    {
+      "id": "Exeter"
+    },
+    {
+      "id": "Rutland"
+    },
+    {
+      "id": "Galesburg"
+    },
+    {
+      "id": "Quincy"
+    },
+    {
+      "id": "Toronto"
+    },
+    {
+      "id": "Roanoke"
+    },
+    {
+      "id": "Norfolk"
+    },
+    {
+      "id": "Newport News"
+    },
+    {
+      "id": "San Francisco Bay Area"
+    },
+    {
+      "id": "Bakersfield"
+    },
+    {
+      "id": "Southern California"
+    },
+    {
+      "id": "Houston"
+    },
+    {
+      "id": "San Antonio"
+    },
+    {
+      "id": "El Paso"
+    },
+    {
+      "id": "Tucson"
+    },
+    {
+      "id": "Palm Springs"
+    },
+    {
+      "id": "\u00a0Los Angeles"
+    },
+    {
+      "id": "St. Albans"
+    },
+    {
+      "id": "Essex Jct. (Burlington)"
+    },
+    {
+      "id": "Vancouver, BC"
+    },
+    {
+      "id": "Seattle"
+    },
+    {
+      "id": "Tacoma"
+    },
+    {
+      "id": "Salem"
+    },
+    {
+      "id": "Eugene\n"
+    },
+    {
+      "id": "Omaha"
+    },
+    {
+      "id": "Denver"
+    },
+    {
+      "id": "Salt Lake City"
+    },
+    {
+      "id": "Cincinnati"
+    },
+    {
+      "id": "Indianapolis"
+    },
+    {
+      "id": "San Francisco area"
+    },
+    {
+      "id": "St. Paul"
+    },
+    {
+      "id": "Minneapolis"
+    },
+    {
+      "id": "Minot"
+    },
+    {
+      "id": "Spokane"
+    },
+    {
+      "id": "Oklahoma City"
+    },
+    {
+      "id": "Fort Worth"
+    },
+    {
+      "id": "Paoli"
+    },
+    {
+      "id": "Downingtown"
+    },
+    {
+      "id": "Grand Rapids"
+    },
+    {
+      "id": "Lansing- Port Huron"
+    },
+    {
+      "id": "Ann Arbor"
+    },
+    {
+      "id": "Detroit"
+    },
+    {
+      "id": "Pontiac"
+    },
+    {
+      "id": "San Luis Obispo"
+    },
+    {
+      "id": "Santa Barbara"
+    },
+    {
+      "id": "Anaheim"
+    },
+    {
+      "id": "San Diego"
+    },
+    {
+      "id": "Charleston"
+    },
+    {
+      "id": "Savannah"
+    },
+    {
+      "id": "Jacksonville"
+    },
+    {
+      "id": "Orlando"
+    },
+    {
+      "id": "Tampa"
+    },
+    {
+      "id": "Miami"
+    },
+    {
+      "id": "Little Rock"
+    },
+    {
+      "id": "Dallas"
+    }
+  ],
+  "adjacency": [
+    [
+      {
+        "id": "New Haven"
+      },
+      {
+        "id": "New York"
+      },
+      {
+        "id": "Albany"
+      },
+      {
+        "id": "Exeter"
+      },
+      {
+        "id": "Springfield"
+      }
+    ],
+    [
+      {
+        "id": "Boston"
+      },
+      {
+        "id": "New York"
+      },
+      {
+        "id": "Hartford"
+      },
+      {
+        "id": "Springfield"
+      }
+    ],
+    [
+      {
+        "id": "New Haven"
+      },
+      {
+        "id": "Philadelphia"
+      },
+      {
+        "id": "Washington"
+      },
+      {
+        "id": "Boston"
+      },
+      {
+        "id": "Albany"
+      },
+      {
+        "id": "Springfield"
+      }
+    ],
+    [
+      {
+        "id": "New York"
+      },
+      {
+        "id": "Wilmington"
+      },
+      {
+        "id": "Washington"
+      },
+      {
+        "id": "Lancaster"
+      },
+      {
+        "id": "Paoli"
+      }
+    ],
+    [
+      {
+        "id": "Philadelphia"
+      },
+      {
+        "id": "Washington"
+      }
+    ],
+    [
+      {
+        "id": "Wilmington"
+      },
+      {
+        "id": "Philadelphia"
+      },
+      {
+        "id": "Richmond"
+      },
+      {
+        "id": "New York"
+      },
+      {
+        "id": "Charlottesville"
+      },
+      {
+        "id": "St. Louis"
+      },
+      {
+        "id": "Sedalia"
+      },
+      {
+        "id": "Pittsburgh"
+      },
+      {
+        "id": "Roanoke"
+      },
+      {
+        "id": "Charleston"
+      }
+    ],
+    [
+      {
+        "id": "New Haven"
+      },
+      {
+        "id": "Windsor Locks"
+      }
+    ],
+    [
+      {
+        "id": "Hartford"
+      },
+      {
+        "id": "Springfield"
+      }
+    ],
+    [
+      {
+        "id": "Windsor Locks"
+      },
+      {
+        "id": "New Haven"
+      },
+      {
+        "id": "Northampton"
+      },
+      {
+        "id": "Quincy"
+      },
+      {
+        "id": "St. Louis"
+      },
+      {
+        "id": "Boston"
+      },
+      {
+        "id": "New York"
+      },
+      {
+        "id": "Essex Jct. (Burlington)"
+      }
+    ],
+    [
+      {
+        "id": "Sacramento"
+      }
+    ],
+    [
+      {
+        "id": "Auburn"
+      },
+      {
+        "id": "Emeryville (San Francisco)"
+      },
+      {
+        "id": "San Francisco Bay Area"
+      },
+      {
+        "id": "Bakersfield"
+      },
+      {
+        "id": "Portland"
+      },
+      {
+        "id": "San Francisco area"
+      }
+    ],
+    [
+      {
+        "id": "Sacramento"
+      },
+      {
+        "id": "Oakland"
+      },
+      {
+        "id": "Salt Lake City"
+      }
+    ],
+    [
+      {
+        "id": "Emeryville (San Francisco)"
+      },
+      {
+        "id": "San Jose"
+      }
+    ],
+    [
+      {
+        "id": "Oakland"
+      }
+    ],
+    [
+      {
+        "id": "Washington"
+      },
+      {
+        "id": "Raleigh"
+      }
+    ],
+    [
+      {
+        "id": "Richmond"
+      },
+      {
+        "id": "Greensboro"
+      }
+    ],
+    [
+      {
+        "id": "Raleigh"
+      },
+      {
+        "id": "Charlotte"
+      }
+    ],
+    [
+      {
+        "id": "Greensboro"
+      },
+      {
+        "id": "Charlottesville"
+      },
+      {
+        "id": "Atlanta"
+      }
+    ],
+    [
+      {
+        "id": "Washington"
+      },
+      {
+        "id": "Charlotte"
+      },
+      {
+        "id": "Cincinnati"
+      }
+    ],
+    [
+      {
+        "id": "Charlotte"
+      },
+      {
+        "id": "Birmingham"
+      }
+    ],
+    [
+      {
+        "id": "Atlanta"
+      },
+      {
+        "id": "New Orleans"
+      }
+    ],
+    [
+      {
+        "id": "Birmingham"
+      },
+      {
+        "id": "Jackson"
+      },
+      {
+        "id": "Houston"
+      }
+    ],
+    [
+      {
+        "id": "Buffalo"
+      },
+      {
+        "id": "Toronto"
+      }
+    ],
+    [
+      {
+        "id": "Niagara Falls"
+      },
+      {
+        "id": "Rochester"
+      },
+      {
+        "id": "Albany"
+      },
+      {
+        "id": "Cleveland"
+      }
+    ],
+    [
+      {
+        "id": "Buffalo"
+      },
+      {
+        "id": "Syracuse"
+      }
+    ],
+    [
+      {
+        "id": "Rochester"
+      },
+      {
+        "id": "Albany"
+      }
+    ],
+    [
+      {
+        "id": "Syracuse"
+      },
+      {
+        "id": "New York\u00a0"
+      },
+      {
+        "id": "Boston"
+      },
+      {
+        "id": "Buffalo"
+      },
+      {
+        "id": "Saratoga Springs"
+      },
+      {
+        "id": "New York"
+      }
+    ],
+    [
+      {
+        "id": "Albany"
+      }
+    ],
+    [
+      {
+        "id": "Glenview"
+      },
+      {
+        "id": "Chicago"
+      },
+      {
+        "id": "St. Paul"
+      }
+    ],
+    [
+      {
+        "id": "Milwaukee"
+      },
+      {
+        "id": "Chicago"
+      }
+    ],
+    [
+      {
+        "id": "Glenview"
+      },
+      {
+        "id": "Toledo"
+      },
+      {
+        "id": "Kansas City, MO"
+      },
+      {
+        "id": "South Bend"
+      },
+      {
+        "id": "Champaign-Urbana"
+      },
+      {
+        "id": "Galesburg"
+      },
+      {
+        "id": "Omaha"
+      },
+      {
+        "id": "Indianapolis"
+      },
+      {
+        "id": "Milwaukee"
+      },
+      {
+        "id": "Grand Rapids"
+      },
+      {
+        "id": "St. Louis"
+      }
+    ],
+    [
+      {
+        "id": "Buffalo"
+      },
+      {
+        "id": "Toledo"
+      },
+      {
+        "id": "Pittsburgh"
+      }
+    ],
+    [
+      {
+        "id": "Cleveland"
+      },
+      {
+        "id": "Chicago"
+      },
+      {
+        "id": "South Bend"
+      }
+    ],
+    [
+      {
+        "id": "Washington"
+      },
+      {
+        "id": "Springfield"
+      },
+      {
+        "id": "Champaign-Urbana"
+      },
+      {
+        "id": "Chicago"
+      },
+      {
+        "id": "Little Rock"
+      }
+    ],
+    [
+      {
+        "id": "Washington"
+      },
+      {
+        "id": "Independence"
+      }
+    ],
+    [
+      {
+        "id": "Sedalia"
+      },
+      {
+        "id": "Kansas City, MO"
+      }
+    ],
+    [
+      {
+        "id": "Independence"
+      },
+      {
+        "id": "Chicago"
+      },
+      {
+        "id": "La Junta"
+      }
+    ],
+    [
+      {
+        "id": "Philadelphia"
+      },
+      {
+        "id": "Harrisburg"
+      },
+      {
+        "id": "Downingtown"
+      }
+    ],
+    [
+      {
+        "id": "Lancaster"
+      },
+      {
+        "id": "Altoona"
+      }
+    ],
+    [
+      {
+        "id": "Harrisburg"
+      },
+      {
+        "id": "Pittsburgh"
+      }
+    ],
+    [
+      {
+        "id": "Altoona"
+      },
+      {
+        "id": "Washington"
+      },
+      {
+        "id": "Cleveland"
+      }
+    ],
+    [
+      {
+        "id": "Kansas City, MO"
+      },
+      {
+        "id": "Albuquerque"
+      }
+    ],
+    [
+      {
+        "id": "La Junta"
+      },
+      {
+        "id": "Flagstaff"
+      }
+    ],
+    [
+      {
+        "id": "Albuquerque"
+      },
+      {
+        "id": "Los Angeles"
+      }
+    ],
+    [
+      {
+        "id": "Flagstaff"
+      },
+      {
+        "id": "San Francisco area"
+      },
+      {
+        "id": "Santa Barbara"
+      },
+      {
+        "id": "Anaheim"
+      },
+      {
+        "id": "Tucson"
+      }
+    ],
+    [
+      {
+        "id": "Springfield"
+      },
+      {
+        "id": "Greenfield"
+      }
+    ],
+    [
+      {
+        "id": "Northampton"
+      }
+    ],
+    [
+      {
+        "id": "Westport"
+      }
+    ],
+    [
+      {
+        "id": "Montreal"
+      },
+      {
+        "id": "Saratoga Springs"
+      }
+    ],
+    [
+      {
+        "id": "Westport"
+      },
+      {
+        "id": "Albany"
+      },
+      {
+        "id": "Rutland"
+      }
+    ],
+    [
+      {
+        "id": "Sanford, FL (Orlando)"
+      }
+    ],
+    [
+      {
+        "id": "Lorton, VA (Washington, DC)"
+      }
+    ],
+    [
+      {
+        "id": "Toledo"
+      },
+      {
+        "id": "Chicago"
+      }
+    ],
+    [
+      {
+        "id": "Chicago"
+      },
+      {
+        "id": "Carbondale"
+      },
+      {
+        "id": "St. Louis"
+      }
+    ],
+    [
+      {
+        "id": "Champaign-Urbana"
+      },
+      {
+        "id": "Memphis"
+      }
+    ],
+    [
+      {
+        "id": "Carbondale"
+      },
+      {
+        "id": "Jackson"
+      }
+    ],
+    [
+      {
+        "id": "Memphis"
+      },
+      {
+        "id": "New Orleans"
+      }
+    ],
+    [
+      {
+        "id": "Freeport"
+      }
+    ],
+    [
+      {
+        "id": "Brunswick"
+      },
+      {
+        "id": "Portland"
+      }
+    ],
+    [
+      {
+        "id": "Freeport"
+      },
+      {
+        "id": "Saco"
+      },
+      {
+        "id": "Tacoma"
+      },
+      {
+        "id": "Salem"
+      },
+      {
+        "id": "Sacramento"
+      },
+      {
+        "id": "Spokane"
+      },
+      {
+        "id": "Seattle"
+      }
+    ],
+    [
+      {
+        "id": "Portland"
+      },
+      {
+        "id": "Exeter"
+      }
+    ],
+    [
+      {
+        "id": "Saco"
+      },
+      {
+        "id": "Boston"
+      }
+    ],
+    [
+      {
+        "id": "Saratoga Springs"
+      }
+    ],
+    [
+      {
+        "id": "Chicago"
+      },
+      {
+        "id": "Quincy"
+      }
+    ],
+    [
+      {
+        "id": "Galesburg"
+      },
+      {
+        "id": "Springfield"
+      }
+    ],
+    [
+      {
+        "id": "Niagara Falls"
+      }
+    ],
+    [
+      {
+        "id": "Washington"
+      },
+      {
+        "id": "Norfolk"
+      }
+    ],
+    [
+      {
+        "id": "Roanoke"
+      },
+      {
+        "id": "Newport News"
+      }
+    ],
+    [
+      {
+        "id": "Norfolk"
+      }
+    ],
+    [
+      {
+        "id": "Sacramento"
+      }
+    ],
+    [
+      {
+        "id": "Sacramento"
+      },
+      {
+        "id": "Southern California"
+      }
+    ],
+    [
+      {
+        "id": "Bakersfield"
+      }
+    ],
+    [
+      {
+        "id": "New Orleans"
+      },
+      {
+        "id": "San Antonio"
+      }
+    ],
+    [
+      {
+        "id": "Houston"
+      },
+      {
+        "id": "El Paso"
+      },
+      {
+        "id": "Dallas"
+      },
+      {
+        "id": "Tucson"
+      }
+    ],
+    [
+      {
+        "id": "San Antonio"
+      },
+      {
+        "id": "Tucson"
+      }
+    ],
+    [
+      {
+        "id": "El Paso"
+      },
+      {
+        "id": "Palm Springs"
+      },
+      {
+        "id": "San Antonio"
+      },
+      {
+        "id": "Los Angeles"
+      }
+    ],
+    [
+      {
+        "id": "Tucson"
+      },
+      {
+        "id": "\u00a0Los Angeles"
+      }
+    ],
+    [
+      {
+        "id": "Palm Springs"
+      }
+    ],
+    [
+      {
+        "id": "Essex Jct. (Burlington)"
+      }
+    ],
+    [
+      {
+        "id": "St. Albans"
+      },
+      {
+        "id": "Springfield"
+      }
+    ],
+    [
+      {
+        "id": "Seattle"
+      }
+    ],
+    [
+      {
+        "id": "Vancouver, BC"
+      },
+      {
+        "id": "Tacoma"
+      },
+      {
+        "id": "Portland"
+      }
+    ],
+    [
+      {
+        "id": "Seattle"
+      },
+      {
+        "id": "Portland"
+      }
+    ],
+    [
+      {
+        "id": "Portland"
+      },
+      {
+        "id": "Eugene\n"
+      }
+    ],
+    [
+      {
+        "id": "Salem"
+      }
+    ],
+    [
+      {
+        "id": "Chicago"
+      },
+      {
+        "id": "Denver"
+      }
+    ],
+    [
+      {
+        "id": "Omaha"
+      },
+      {
+        "id": "Salt Lake City"
+      }
+    ],
+    [
+      {
+        "id": "Denver"
+      },
+      {
+        "id": "Emeryville (San Francisco)"
+      }
+    ],
+    [
+      {
+        "id": "Charlottesville"
+      },
+      {
+        "id": "Indianapolis"
+      }
+    ],
+    [
+      {
+        "id": "Cincinnati"
+      },
+      {
+        "id": "Chicago"
+      }
+    ],
+    [
+      {
+        "id": "Sacramento"
+      },
+      {
+        "id": "Los Angeles"
+      }
+    ],
+    [
+      {
+        "id": "Milwaukee"
+      },
+      {
+        "id": "Minneapolis"
+      }
+    ],
+    [
+      {
+        "id": "St. Paul"
+      },
+      {
+        "id": "Minot"
+      }
+    ],
+    [
+      {
+        "id": "Minneapolis"
+      },
+      {
+        "id": "Spokane"
+      }
+    ],
+    [
+      {
+        "id": "Minot"
+      },
+      {
+        "id": "Portland"
+      }
+    ],
+    [
+      {
+        "id": "Fort Worth"
+      }
+    ],
+    [
+      {
+        "id": "Oklahoma City"
+      }
+    ],
+    [
+      {
+        "id": "Philadelphia"
+      },
+      {
+        "id": "Downingtown"
+      }
+    ],
+    [
+      {
+        "id": "Paoli"
+      },
+      {
+        "id": "Lancaster"
+      }
+    ],
+    [
+      {
+        "id": "Chicago"
+      },
+      {
+        "id": "Lansing- Port Huron"
+      }
+    ],
+    [
+      {
+        "id": "Grand Rapids"
+      },
+      {
+        "id": "Ann Arbor"
+      }
+    ],
+    [
+      {
+        "id": "Lansing- Port Huron"
+      },
+      {
+        "id": "Detroit"
+      }
+    ],
+    [
+      {
+        "id": "Ann Arbor"
+      },
+      {
+        "id": "Pontiac"
+      }
+    ],
+    [
+      {
+        "id": "Detroit"
+      }
+    ],
+    [
+      {
+        "id": "Santa Barbara"
+      }
+    ],
+    [
+      {
+        "id": "San Luis Obispo"
+      },
+      {
+        "id": "Los Angeles"
+      }
+    ],
+    [
+      {
+        "id": "Los Angeles"
+      },
+      {
+        "id": "San Diego"
+      }
+    ],
+    [
+      {
+        "id": "Anaheim"
+      }
+    ],
+    [
+      {
+        "id": "Washington"
+      },
+      {
+        "id": "Savannah"
+      }
+    ],
+    [
+      {
+        "id": "Charleston"
+      },
+      {
+        "id": "Jacksonville"
+      }
+    ],
+    [
+      {
+        "id": "Savannah"
+      },
+      {
+        "id": "Orlando"
+      }
+    ],
+    [
+      {
+        "id": "Jacksonville"
+      },
+      {
+        "id": "Tampa"
+      }
+    ],
+    [
+      {
+        "id": "Orlando"
+      },
+      {
+        "id": "Miami"
+      }
+    ],
+    [
+      {
+        "id": "Tampa"
+      }
+    ],
+    [
+      {
+        "id": "St. Louis"
+      },
+      {
+        "id": "Dallas"
+      }
+    ],
+    [
+      {
+        "id": "Little Rock"
+      },
+      {
+        "id": "San Antonio"
+      }
+    ]
+  ]
+}
